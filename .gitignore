@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+
+# Local source datasets and reconstructed media
+ElderReact/
+ElderReact_Data/
+data/
+reconstructed/
+outputs/
+results/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*_ensemble_*.jpg
+
+# Logs / checkpoints
+*.log
+*.out
+*.err
+*.pt
+*.pth
+*.ckpt
