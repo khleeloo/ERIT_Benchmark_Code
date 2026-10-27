@@ -1,0 +1,1170 @@
+url,instruction,OriginalLabels,caption,GTEmotionScore,whisper_mean_conf,whisper_n_low_conf
+50_50_100_ensemble_51.jpg,Disgusting. It's terrible. It's awful. I probably will have trouble sleeping tonight,"Disgust, Fear, Surprise",Disgust,0.3748072968996349,0.9729,0
+50_50_100_ensemble_45.jpg,Disgusting. It's terrible. It's awful. I probably will have trouble sleeping tonight,"Disgust, Fear, Surprise",Fear,0.6058078408241271,0.9729,0
+50_50_100_ensemble_15.jpg,Disgusting. It's terrible. It's awful. I probably will have trouble sleeping tonight,"Disgust, Fear, Surprise",Surprise,0.1705470912750505,0.9729,0
+50_50_104_ensemble_6.jpg,I don't see the point of it. I see no endgame here.,Anger,Anger,0.3634567664315303,0.9569,0
+50_50_105_ensemble_96.jpg,"My stomach's upset. It just, I'm like, ugh.","Anger, Disgust, Surprise",Anger,0.0836675859366854,0.948,0
+50_50_105_ensemble_90.jpg,"My stomach's upset. It just, I'm like, ugh.","Anger, Disgust, Surprise",Disgust,0.3756252738856318,0.948,0
+50_50_105_ensemble_39.jpg,"My stomach's upset. It just, I'm like, ugh.","Anger, Disgust, Surprise",Surprise,0.1507777040341382,0.948,0
+50_50_106_ensemble_60.jpg,"I don't understand why anyone would sit around, would waste their time sitting around waiting to see if they're going to be grossed out.","Anger, Disgust, Surprise",Anger,0.2966967992977973,0.9752,0
+50_50_106_ensemble_39.jpg,"I don't understand why anyone would sit around, would waste their time sitting around waiting to see if they're going to be grossed out.","Anger, Disgust, Surprise",Disgust,0.3851802546220521,0.9752,0
+50_50_106_ensemble_63.jpg,"I don't understand why anyone would sit around, would waste their time sitting around waiting to see if they're going to be grossed out.","Anger, Disgust, Surprise",Surprise,0.1491512256257878,0.9752,0
+50_50_22_ensemble_0.jpg,"Power tool accident, not safe for work. Oh, yeah, okay. I'll take the cat, thank you.","Disgust, Fear, Sadness, Surprise",Disgust,0.0741449887769033,0.9449,0
+50_50_22_ensemble_132.jpg,"Power tool accident, not safe for work. Oh, yeah, okay. I'll take the cat, thank you.","Disgust, Fear, Sadness, Surprise",Fear,0.3499752458230075,0.9449,0
+50_50_22_ensemble_15.jpg,"Power tool accident, not safe for work. Oh, yeah, okay. I'll take the cat, thank you.","Disgust, Fear, Sadness, Surprise",Sadness,0.6235598921775818,0.9449,0
+50_50_22_ensemble_93.jpg,"Power tool accident, not safe for work. Oh, yeah, okay. I'll take the cat, thank you.","Disgust, Fear, Sadness, Surprise",Surprise,0.1369172310577953,0.9449,0
+50_50_24_ensemble_78.jpg,Let's go. Oh! Oh! Oh!,"Happiness, Surprise",Happiness,0.1349696630777038,0.7962,1
+50_50_24_ensemble_78.jpg,Let's go. Oh! Oh! Oh!,"Happiness, Surprise",Surprise,0.1938204469036089,0.7962,1
+50_50_27_ensemble_48.jpg,"Oh, how can anybody do that to their cat? Let it get so fat.","Anger, Disgust, Sadness, Surprise",Anger,0.3697513503332932,0.9518,1
+50_50_27_ensemble_51.jpg,"Oh, how can anybody do that to their cat? Let it get so fat.","Anger, Disgust, Sadness, Surprise",Disgust,0.1398896089611107,0.9518,1
+50_50_27_ensemble_12.jpg,"Oh, how can anybody do that to their cat? Let it get so fat.","Anger, Disgust, Sadness, Surprise",Sadness,0.6315488217056793,0.9518,1
+50_50_27_ensemble_114.jpg,"Oh, how can anybody do that to their cat? Let it get so fat.","Anger, Disgust, Sadness, Surprise",Surprise,0.2373082358390092,0.9518,1
+50_50_4_ensemble_54.jpg,"Oh, God! Oh! Oh! Aaaaah!","Disgust, Happiness, Surprise",Disgust,0.053972206078504,0.5731,5
+50_50_4_ensemble_81.jpg,"Oh, God! Oh! Oh! Aaaaah!","Disgust, Happiness, Surprise",Happiness,0.5193844089905421,0.5731,5
+50_50_4_ensemble_111.jpg,"Oh, God! Oh! Oh! Aaaaah!","Disgust, Happiness, Surprise",Surprise,0.2533548263842627,0.5731,5
+50_50_45_ensemble_120.jpg,"Oh, shit! Oh, god! Oh, that's enough.","Disgust, Happiness, Surprise",Disgust,0.0453239924806757,0.7685,2
+50_50_45_ensemble_39.jpg,"Oh, shit! Oh, god! Oh, that's enough.","Disgust, Happiness, Surprise",Happiness,0.6795720656712849,0.7685,2
+50_50_45_ensemble_45.jpg,"Oh, shit! Oh, god! Oh, that's enough.","Disgust, Happiness, Surprise",Surprise,0.2119510731436094,0.7685,2
+50_50_46_ensemble_78.jpg,"Wow, here comes Danny Rapido. I wonder how it was up in there, Danny?","Happiness, Surprise",Happiness,0.1614488423704945,0.8528,2
+50_50_46_ensemble_90.jpg,"Wow, here comes Danny Rapido. I wonder how it was up in there, Danny?","Happiness, Surprise",Surprise,0.1221578623193966,0.8528,2
+50_50_48_ensemble_30.jpg,It's weird. I'm not clear what the point of the... I'm not clear. There's like no end game.,"Anger, Disgust, Sadness",Anger,0.3088491189604003,0.9152,3
+50_50_48_ensemble_99.jpg,It's weird. I'm not clear what the point of the... I'm not clear. There's like no end game.,"Anger, Disgust, Sadness",Disgust,0.3405630068547102,0.9152,3
+50_50_48_ensemble_36.jpg,It's weird. I'm not clear what the point of the... I'm not clear. There's like no end game.,"Anger, Disgust, Sadness",Sadness,0.4289558014181903,0.9152,3
+50_50_58_ensemble_72.jpg,That's a sense of humor I do not understand.,"Anger, Disgust, Surprise",Anger,0.2324209965868791,0.9597,0
+50_50_58_ensemble_78.jpg,That's a sense of humor I do not understand.,"Anger, Disgust, Surprise",Disgust,0.4133057426661253,0.9597,0
+50_50_58_ensemble_24.jpg,That's a sense of humor I do not understand.,"Anger, Disgust, Surprise",Surprise,0.2448129107942804,0.9597,0
+50_50_61_ensemble_84.jpg,"Oh, God! Oh, God!","Disgust, Happiness, Surprise",Disgust,0.0618566084080449,0.6362,3
+50_50_61_ensemble_93.jpg,"Oh, God! Oh, God!","Disgust, Happiness, Surprise",Happiness,0.778340061787605,0.6362,3
+50_50_61_ensemble_108.jpg,"Oh, God! Oh, God!","Disgust, Happiness, Surprise",Surprise,0.3689067686597506,0.6362,3
+50_50_64_ensemble_159.jpg,"brown-haired, perky-breasted girl does a jump rope exercise while completely naked. Are you kidding? I love jump roping. I mean, that's the only reason.","Anger, Happiness, Surprise",Anger,0.3620001220454772,0.965,0
+50_50_64_ensemble_213.jpg,"brown-haired, perky-breasted girl does a jump rope exercise while completely naked. Are you kidding? I love jump roping. I mean, that's the only reason.","Anger, Happiness, Surprise",Happiness,0.7465914090474446,0.965,0
+50_50_64_ensemble_249.jpg,"brown-haired, perky-breasted girl does a jump rope exercise while completely naked. Are you kidding? I love jump roping. I mean, that's the only reason.","Anger, Happiness, Surprise",Surprise,0.2205188255481012,0.965,0
+50_50_65_ensemble_72.jpg,"This is 50-50 bad and bad, though. That's not really an option.","Anger, Disgust, Sadness",Anger,0.1678634944113425,0.95,0
+50_50_65_ensemble_99.jpg,"This is 50-50 bad and bad, though. That's not really an option.","Anger, Disgust, Sadness",Disgust,0.361236837087489,0.95,0
+50_50_65_ensemble_18.jpg,"This is 50-50 bad and bad, though. That's not really an option.","Anger, Disgust, Sadness",Sadness,0.1943979600133994,0.95,0
+50_50_68_ensemble_96.jpg,Ha ha ha ha.,Happiness,Happiness,0.7125428914207945,0.5226,3
+50_50_70_ensemble_51.jpg,"I didn't get the one I wanted, I know that.","Anger, Disgust, Sadness",Anger,0.496219098745018,0.9679,0
+50_50_70_ensemble_48.jpg,"I didn't get the one I wanted, I know that.","Anger, Disgust, Sadness",Disgust,0.0436793006547383,0.9679,0
+50_50_70_ensemble_66.jpg,"I didn't get the one I wanted, I know that.","Anger, Disgust, Sadness",Sadness,0.5535735686620076,0.9679,0
+50_50_74_ensemble_72.jpg,"Okay, then we're... Ah! Oh!","Disgust, Fear, Sadness, Surprise",Disgust,0.0784296963698041,0.7121,2
+50_50_74_ensemble_150.jpg,"Okay, then we're... Ah! Oh!","Disgust, Fear, Sadness, Surprise",Fear,0.6393691301345825,0.7121,2
+50_50_74_ensemble_165.jpg,"Okay, then we're... Ah! Oh!","Disgust, Fear, Sadness, Surprise",Sadness,0.7178157766660054,0.7121,2
+50_50_74_ensemble_24.jpg,"Okay, then we're... Ah! Oh!","Disgust, Fear, Sadness, Surprise",Surprise,0.2875997395498085,0.7121,2
+50_50_77_ensemble_126.jpg,That's horrible.,"Anger, Disgust, Surprise",Anger,0.0534620863424303,0.718,0
+50_50_77_ensemble_108.jpg,That's horrible.,"Anger, Disgust, Surprise",Disgust,0.0565342213721631,0.718,0
+50_50_77_ensemble_6.jpg,That's horrible.,"Anger, Disgust, Surprise",Surprise,0.0429686124340246,0.718,0
+50_50_78_ensemble_24.jpg,"Oh. Oh. God, no.","Disgust, Fear, Surprise",Disgust,0.0541959197434797,0.8449,0
+50_50_78_ensemble_162.jpg,"Oh. Oh. God, no.","Disgust, Fear, Surprise",Fear,0.1723109843830267,0.8449,0
+50_50_78_ensemble_102.jpg,"Oh. Oh. God, no.","Disgust, Fear, Surprise",Surprise,0.2247836773654576,0.8449,0
+50_50_81_ensemble_51.jpg,That made me like weak in the knees.,"Anger, Disgust, Fear, Sadness, Surprise",Anger,0.2795787919312715,0.8279,2
+50_50_81_ensemble_42.jpg,That made me like weak in the knees.,"Anger, Disgust, Fear, Sadness, Surprise",Disgust,0.3634448945598832,0.8279,2
+50_50_81_ensemble_78.jpg,That made me like weak in the knees.,"Anger, Disgust, Fear, Sadness, Surprise",Fear,0.4828217530487956,0.8279,2
+50_50_81_ensemble_60.jpg,That made me like weak in the knees.,"Anger, Disgust, Fear, Sadness, Surprise",Sadness,0.4706742862860361,0.8279,2
+50_50_81_ensemble_78.jpg,That made me like weak in the knees.,"Anger, Disgust, Fear, Sadness, Surprise",Surprise,0.1550996254660751,0.8279,2
+50_50_85_ensemble_150.jpg,"A puppy wheel! Oh, look at that!","Happiness, Surprise",Happiness,0.5124740501244862,0.8714,1
+50_50_85_ensemble_90.jpg,"A puppy wheel! Oh, look at that!","Happiness, Surprise",Surprise,0.2013132816180459,0.8714,1
+50_50_87_ensemble_111.jpg,"Aww, aww, oh my god, that's so cute!",Happiness,Happiness,0.6917656461397806,0.767,3
+50_50_94_ensemble_60.jpg,"Oh God, okay. No, I'll have nightmares.","Disgust, Fear, Surprise",Disgust,0.1171925632490102,0.8574,1
+50_50_94_ensemble_30.jpg,"Oh God, okay. No, I'll have nightmares.","Disgust, Fear, Surprise",Fear,0.4624367107947667,0.8574,1
+50_50_94_ensemble_24.jpg,"Oh God, okay. No, I'll have nightmares.","Disgust, Fear, Surprise",Surprise,0.2081649132450424,0.8574,1
+50_50_95_ensemble_69.jpg,"Oh, oh, please. That I'd have a nightmare.","Anger, Disgust, Fear, Surprise",Anger,0.5307426056425679,0.868,1
+50_50_95_ensemble_51.jpg,"Oh, oh, please. That I'd have a nightmare.","Anger, Disgust, Fear, Surprise",Disgust,0.0784527881050936,0.868,1
+50_50_95_ensemble_6.jpg,"Oh, oh, please. That I'd have a nightmare.","Anger, Disgust, Fear, Surprise",Fear,0.4561712246176252,0.868,1
+50_50_95_ensemble_3.jpg,"Oh, oh, please. That I'd have a nightmare.","Anger, Disgust, Fear, Surprise",Surprise,0.4343668458362419,0.868,1
+50_50_spider_110_ensemble_3.jpg,"I'll go for the gunslinging, and I am probably gonna see a cheek get shot.","Disgust, Happiness",Disgust,0.109900973543395,0.8765,3
+50_50_spider_110_ensemble_63.jpg,"I'll go for the gunslinging, and I am probably gonna see a cheek get shot.","Disgust, Happiness",Happiness,0.1898725220623115,0.8765,3
+50_50_spider_126_ensemble_3.jpg,Oh my god. Ah! Oh!,"Disgust, Happiness, Surprise",Disgust,0.0573100205231943,0.6872,3
+50_50_spider_126_ensemble_30.jpg,Oh my god. Ah! Oh!,"Disgust, Happiness, Surprise",Happiness,0.3498563108344872,0.6872,3
+50_50_spider_126_ensemble_102.jpg,Oh my god. Ah! Oh!,"Disgust, Happiness, Surprise",Surprise,0.279828619865191,0.6872,3
+50_50_spider_129_ensemble_30.jpg,slicing the eyeball.,"Disgust, Fear, Happiness, Surprise",Disgust,0.0249815067360448,0.7473,1
+50_50_spider_129_ensemble_60.jpg,slicing the eyeball.,"Disgust, Fear, Happiness, Surprise",Fear,0.6211674610773722,0.7473,1
+50_50_spider_129_ensemble_15.jpg,slicing the eyeball.,"Disgust, Fear, Happiness, Surprise",Happiness,0.4728592038154602,0.7473,1
+50_50_spider_129_ensemble_45.jpg,slicing the eyeball.,"Disgust, Fear, Happiness, Surprise",Surprise,0.3174802291614469,0.7473,1
+50_50_spider_31_ensemble_75.jpg,"Oh, dear God. Oh, dear God. Oh, God.","Disgust, Fear, Surprise",Disgust,0.2880113025697389,0.9257,0
+50_50_spider_31_ensemble_78.jpg,"Oh, dear God. Oh, dear God. Oh, God.","Disgust, Fear, Surprise",Fear,0.4475874602794647,0.9257,0
+50_50_spider_31_ensemble_15.jpg,"Oh, dear God. Oh, dear God. Oh, God.","Disgust, Fear, Surprise",Surprise,0.2608538153969372,0.9257,0
+50_50_spider_52_ensemble_123.jpg,I wore my own socks.,"Happiness, Surprise",Happiness,0.4282326400253673,0.7122,3
+50_50_spider_52_ensemble_57.jpg,I wore my own socks.,"Happiness, Surprise",Surprise,0.4760572482338265,0.7122,3
+50_50_spider_70_ensemble_12.jpg,"I wanted to see the baby elephant. Oh well. Okay, next!","Happiness, Sadness, Surprise",Happiness,0.4094164799750027,0.899,1
+50_50_spider_70_ensemble_30.jpg,"I wanted to see the baby elephant. Oh well. Okay, next!","Happiness, Sadness, Surprise",Sadness,0.6664909743158722,0.899,1
+50_50_spider_70_ensemble_78.jpg,"I wanted to see the baby elephant. Oh well. Okay, next!","Happiness, Sadness, Surprise",Surprise,0.1698198983600984,0.899,1
+50_50_spider_82_ensemble_123.jpg,"Or arachnophobic's nightmare. Well, I am arachnophobic.",Fear,Fear,0.4989996155103047,0.8918,1
+50_50_spider_98_ensemble_60.jpg,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayad,"Disgust, Fear, Surprise",Disgust,0.2079749355143521,0.6943,1
+50_50_spider_98_ensemble_42.jpg,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayad,"Disgust, Fear, Surprise",Fear,0.4199024886858975,0.6943,1
+50_50_spider_98_ensemble_54.jpg,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayadayad,"Disgust, Fear, Surprise",Surprise,0.258000912748136,0.6943,1
+Branda_schmitz_100_ensemble_30.jpg,"or whether it's a rap star, rock star, or celebrity that you identify with, it all of a sudden changes your perception",Neutral,Neutral,0.5374177506535247,0.9166,1
+Branda_schmitz_101_ensemble_267.jpg,"It's getting to the point now where I'm going to, we've talked about it with the other elders I know and my friends and stuff, that we're going to start losing each other in the next few years, which is going to be very hard. But there's nothing we can do about that.",Sadness,Sadness,0.6813482442103524,0.9523,2
+Branda_schmitz_102_ensemble_153.jpg,"It's a beautiful, wonderful day, and I'm still here, and it beats not being here.","Happiness, Sadness",Happiness,0.2494499944150447,0.9062,1
+Branda_schmitz_102_ensemble_18.jpg,"It's a beautiful, wonderful day, and I'm still here, and it beats not being here.","Happiness, Sadness",Sadness,0.666022758751526,0.9062,1
+Branda_schmitz_103_ensemble_42.jpg,What's something that you wish you could tell yourself when you were younger or tell young people today that they should be more aware of? I think the most important thing is to start reflecting really early.,Happiness,Happiness,0.6825390855471293,0.9791,1
+Branda_schmitz_106_ensemble_144.jpg,"The best times that you have are with your family or with your friends when you've, you don't even have to be successful, it just has to be.",Happiness,Happiness,0.6065133412679036,0.9402,2
+Branda_schmitz_107_ensemble_186.jpg,"All the problems and all the bad stuff somehow works itself out. It might take longer than you want, but it works itself out, so just move on to something new.",Happiness,Happiness,0.3353628915889809,0.9824,0
+Branda_schmitz_11_ensemble_57.jpg,"lost your wife Brenda a couple of years ago to cancer. Oh, yeah.","Fear, Sadness, Surprise",Fear,0.4119597375392913,0.8479,3
+Branda_schmitz_11_ensemble_126.jpg,"lost your wife Brenda a couple of years ago to cancer. Oh, yeah.","Fear, Sadness, Surprise",Sadness,0.6867475940872292,0.8479,3
+Branda_schmitz_11_ensemble_57.jpg,"lost your wife Brenda a couple of years ago to cancer. Oh, yeah.","Fear, Sadness, Surprise",Surprise,0.1090648720661972,0.8479,3
+Branda_schmitz_112_ensemble_66.jpg,We all ought to work on granting people wishes. You feel very good when you do that.,Happiness,Happiness,0.4552915493888084,0.8934,3
+Branda_schmitz_114_ensemble_105.jpg,"And finally, what do you want to say to this family after now knowing their story if they end up coming across this video? Thank you for sharing it, and God bless you.",Happiness,Happiness,0.545847330882236,0.9451,2
+Branda_schmitz_116_ensemble_132.jpg,stay positive in all their thinking because then they'll be able to branch out and do the same thing that she did. They'll be able to help others.,Happiness,Happiness,0.1640526627500852,0.9415,2
+Branda_schmitz_117_ensemble_123.jpg,Giving is a great thing. You don't have to worry about receiving. It's gonna happen anyway. Karma is karma.,Happiness,Happiness,0.1907510523607036,0.9777,0
+Branda_schmitz_121_ensemble_174.jpg,Today is your gift. And that's why they call it present. Live today.,Happiness,Happiness,0.8320810397466023,0.9214,1
+Branda_schmitz_13_ensemble_69.jpg,"she found out she had stage four ovarian cancer. Oh, that's very sad.",Sadness,Sadness,0.4991788864135742,0.8835,3
+Branda_schmitz_15_ensemble_24.jpg,You recently got engaged. Yeah. I know this story.,Neutral,Neutral,0.6493091967780058,0.8817,2
+Branda_schmitz_23_ensemble_12.jpg,"My name is Brenda Schmitz. When you are in receipt of this letter,",Neutral,Neutral,0.383615636103587,0.9597,1
+Branda_schmitz_26_ensemble_114.jpg,and met someone to share his life with again to mail this letter to all of you at the station,"Happiness, Sadness, Surprise",Happiness,0.3078432666758696,0.9817,1
+Branda_schmitz_26_ensemble_60.jpg,and met someone to share his life with again to mail this letter to all of you at the station,"Happiness, Sadness, Surprise",Sadness,0.6954322655995686,0.9817,1
+Branda_schmitz_26_ensemble_135.jpg,and met someone to share his life with again to mail this letter to all of you at the station,"Happiness, Sadness, Surprise",Surprise,0.3407632234063976,0.9817,1
+Branda_schmitz_27_ensemble_87.jpg,"We have four boys, Carter, Josh, Justin, and my little Max. Wow.",Neutral,Neutral,0.4266922573248545,0.9609,0
+Branda_schmitz_28_ensemble_102.jpg,No child as young as Max should lose his mother. And it brings tears to my eyes.,"Sadness, Surprise",Sadness,0.4874217708905538,0.9084,2
+Branda_schmitz_28_ensemble_150.jpg,No child as young as Max should lose his mother. And it brings tears to my eyes.,"Sadness, Surprise",Surprise,0.2918406893176745,0.9084,2
+Branda_schmitz_31_ensemble_27.jpg,a weekend of pampering in all aspects of her life.,Sadness,Sadness,0.6059029499689738,0.9635,1
+Branda_schmitz_32_ensemble_15.jpg,Got to choke you up there.,"Sadness, Surprise",Sadness,0.3376562239765587,0.8685,1
+Branda_schmitz_32_ensemble_138.jpg,Got to choke you up there.,"Sadness, Surprise",Surprise,0.2102532329348226,0.8685,1
+Branda_schmitz_36_ensemble_87.jpg,"A night out full of drinks, food, and fun for all they do every day for the cancer patients they encounter. When you wish upon a star.",Sadness,Sadness,0.5647554993629456,0.9513,1
+Branda_schmitz_40_ensemble_90.jpg,"What do you think? It's not bad. Yeah, what do you think? God. Come on, it's not surprising.",Sadness,Sadness,0.6503518223762512,0.9106,1
+Branda_schmitz_41_ensemble_30.jpg,she's the last year and a half she's sown so many signs that she's there and,Sadness,Sadness,0.3299827306552025,0.9137,1
+Branda_schmitz_44_ensemble_9.jpg,"vacation for eight to Disney World. Oh, that's wonderful. And just as Brenda wished...","Happiness, Surprise",Happiness,0.3874097739641383,0.8921,2
+Branda_schmitz_44_ensemble_171.jpg,"vacation for eight to Disney World. Oh, that's wonderful. And just as Brenda wished...","Happiness, Surprise",Surprise,0.1976541433772117,0.8921,2
+Branda_schmitz_47_ensemble_63.jpg,over at Mercy. Makes me wish I'd known this woman.,Neutral,Neutral,0.2971338300655285,0.9101,1
+Branda_schmitz_52_ensemble_69.jpg,"You know, when I first read about this, it made me cry. This is worse, seeing it.",Sadness,Sadness,0.6447309056917826,0.9598,0
+Branda_schmitz_57_ensemble_135.jpg,"So how does it make you feel after you watch something like that? Overall and ultimately it makes me feel very, very good about people.",Happiness,Happiness,0.1003999474147955,0.9365,2
+Branda_schmitz_60_ensemble_135.jpg,It makes me wonder if I could be that big. It humbles me. It really humbles me.,Sadness,Sadness,0.6428206363670542,0.9809,0
+Branda_schmitz_61_ensemble_135.jpg,"For me, it brought back certain losses in my life.",Sadness,Sadness,0.2557518680890401,0.9151,1
+Branda_schmitz_66_ensemble_162.jpg,"What do you think of Brenda, the wife and mother who passed away, deciding to do this years later for her husband and family? It was a wonderful gesture.",Neutral,Neutral,0.3841938471111158,0.9653,1
+Branda_schmitz_69_ensemble_21.jpg,I think that just shows such love for the family.,Happiness,Happiness,0.2513149892135212,0.9669,0
+Branda_schmitz_70_ensemble_258.jpg,What amazes me the most is that she could be so aware of down the road and wanting something for him.,"Anger, Sadness, Surprise",Anger,0.3646878773967424,0.9438,1
+Branda_schmitz_70_ensemble_186.jpg,What amazes me the most is that she could be so aware of down the road and wanting something for him.,"Anger, Sadness, Surprise",Sadness,0.6368702493559244,0.9438,1
+Branda_schmitz_70_ensemble_132.jpg,What amazes me the most is that she could be so aware of down the road and wanting something for him.,"Anger, Sadness, Surprise",Surprise,0.7274152040481567,0.9438,1
+Branda_schmitz_74_ensemble_288.jpg,"How do you think David's new wife, Jane, feels getting these words of encouragement from the previous wife? Well, that's a tough one, because women could either be like, excuse me? It's my turn now.","Happiness, Surprise",Happiness,0.5016046166413434,0.9532,1
+Branda_schmitz_74_ensemble_204.jpg,"How do you think David's new wife, Jane, feels getting these words of encouragement from the previous wife? Well, that's a tough one, because women could either be like, excuse me? It's my turn now.","Happiness, Surprise",Surprise,0.7386647828760048,0.9532,1
+Branda_schmitz_76_ensemble_90.jpg,"Everybody's gonna be happier to have another person involved. It's hard to be a single parent and be dealing with kids and all, you know? It's hard to have two parents and be dealing with kids.","Anger, Sadness",Anger,0.323158582051595,0.9822,0
+Branda_schmitz_76_ensemble_183.jpg,"Everybody's gonna be happier to have another person involved. It's hard to be a single parent and be dealing with kids and all, you know? It's hard to have two parents and be dealing with kids.","Anger, Sadness",Sadness,0.6039860240347156,0.9822,0
+Branda_schmitz_77_ensemble_219.jpg,"So this story has gone viral and has been on television news even. What do you think it is that is connecting with people so universally that this is being shared so much? Love. I mean, it's just love.",Happiness,Happiness,0.3375767283141612,0.9776,0
+Branda_schmitz_82_ensemble_81.jpg,"We complain about this earth, but it's a pretty good life.",Happiness,Happiness,0.5621427098910013,0.9604,0
+Branda_schmitz_84_ensemble_21.jpg,Could I be that generous? Could I be that loving? Could I be that welcoming to someone? Could I face death that well?,Neutral,Neutral,0.4964165824155012,0.9797,0
+Branda_schmitz_91_ensemble_54.jpg,"I thought about that, and I guess so people do think about it, but to call it manipulative, you've got to get into someone's mind.",Anger,Anger,0.6465731859207153,0.9215,2
+Branda_schmitz_93_ensemble_81.jpg,"Can you talk about how your view of life and death changes as you become older? Well, when you're young, you just don't think there's anything like death around. It's not gonna happen to you.",Happiness,Happiness,0.657057026974486,0.9627,1
+Branda_schmitz_95_ensemble_72.jpg,Mortality never hit me till I was in the 50s.,"Fear, Sadness",Fear,0.4447667675508264,0.925,1
+Branda_schmitz_95_ensemble_54.jpg,Mortality never hit me till I was in the 50s.,"Fear, Sadness",Sadness,0.5210421843792744,0.925,1
+Branda_schmitz_96_ensemble_42.jpg,"That's why these young kids, mortality doesn't strike them","Anger, Disgust",Anger,0.709874906406547,0.974,0
+Branda_schmitz_96_ensemble_33.jpg,"That's why these young kids, mortality doesn't strike them","Anger, Disgust",Disgust,0.1088284208958891,0.974,0
+Branda_schmitz_99_ensemble_129.jpg,"When you get to the age when the first person passes away, whether it's a friend or relative, I was hit hard. I lost almost all immediate family within like two or three years.","Fear, Sadness",Fear,0.4131735000749855,0.9461,1
+Branda_schmitz_99_ensemble_261.jpg,"When you get to the age when the first person passes away, whether it's a friend or relative, I was hit hard. I lost almost all immediate family within like two or three years.","Fear, Sadness",Sadness,0.6715483069367612,0.9461,1
+TRY_NOT_LOOK_AWAY_18_ensemble_39.jpg,"Oh, come on. I can't watch that.","Disgust, Sadness, Surprise",Disgust,0.0563881689094311,0.8983,1
+TRY_NOT_LOOK_AWAY_18_ensemble_36.jpg,"Oh, come on. I can't watch that.","Disgust, Sadness, Surprise",Sadness,0.3799040247613447,0.8983,1
+TRY_NOT_LOOK_AWAY_18_ensemble_9.jpg,"Oh, come on. I can't watch that.","Disgust, Sadness, Surprise",Surprise,0.2046243811552889,0.8983,1
+TRY_NOT_LOOK_AWAY_20_ensemble_27.jpg,because it's disgusting. I could feel it in my mouth and nose.,Disgust,Disgust,0.3082639989443123,0.944,1
+TRY_NOT_LOOK_AWAY_21_ensemble_87.jpg,"It's a real person. Oh, God.","Disgust, Fear, Surprise",Disgust,0.0824654822369777,0.9562,0
+TRY_NOT_LOOK_AWAY_21_ensemble_27.jpg,"It's a real person. Oh, God.","Disgust, Fear, Surprise",Fear,0.4048531631918591,0.9562,0
+TRY_NOT_LOOK_AWAY_21_ensemble_36.jpg,"It's a real person. Oh, God.","Disgust, Fear, Surprise",Surprise,0.1096988480424289,0.9562,0
+TRY_NOT_LOOK_AWAY_25_ensemble_30.jpg,Really bad tooth infection.,Anger,Anger,0.370979979634285,0.8855,0
+TRY_NOT_LOOK_AWAY_26_ensemble_108.jpg,squeezing out some sort of abscess? Is that from his tooth? That's pus.,Disgust,Disgust,0.1413107520362324,0.8574,2
+TRY_NOT_LOOK_AWAY_27_ensemble_78.jpg,"Oh, please, no, that's a five-word.","Disgust, Fear, Sadness, Surprise",Disgust,0.363309505235809,0.7763,1
+TRY_NOT_LOOK_AWAY_27_ensemble_15.jpg,"Oh, please, no, that's a five-word.","Disgust, Fear, Sadness, Surprise",Fear,0.3541147311528523,0.7763,1
+TRY_NOT_LOOK_AWAY_27_ensemble_21.jpg,"Oh, please, no, that's a five-word.","Disgust, Fear, Sadness, Surprise",Sadness,0.4398734892621319,0.7763,1
+TRY_NOT_LOOK_AWAY_27_ensemble_96.jpg,"Oh, please, no, that's a five-word.","Disgust, Fear, Sadness, Surprise",Surprise,0.0929755744291469,0.7763,1
+TRY_NOT_LOOK_AWAY_30_ensemble_15.jpg,No! God. You need to get the tooth taken care of.,"Anger, Disgust, Sadness",Anger,0.083298907103203,0.9334,1
+TRY_NOT_LOOK_AWAY_30_ensemble_0.jpg,No! God. You need to get the tooth taken care of.,"Anger, Disgust, Sadness",Disgust,0.1086323885270979,0.9334,1
+TRY_NOT_LOOK_AWAY_30_ensemble_21.jpg,No! God. You need to get the tooth taken care of.,"Anger, Disgust, Sadness",Sadness,0.7178030610084534,0.9334,1
+TRY_NOT_LOOK_AWAY_31_ensemble_36.jpg,I have never seen a tooth infection like that. I give it a real five.,"Disgust, Happiness, Surprise",Disgust,0.3311003849375992,0.9091,3
+TRY_NOT_LOOK_AWAY_31_ensemble_3.jpg,I have never seen a tooth infection like that. I give it a real five.,"Disgust, Happiness, Surprise",Happiness,0.3766082318810125,0.9091,3
+TRY_NOT_LOOK_AWAY_31_ensemble_105.jpg,I have never seen a tooth infection like that. I give it a real five.,"Disgust, Happiness, Surprise",Surprise,0.2581560231457673,0.9091,3
+TRY_NOT_LOOK_AWAY_4_ensemble_57.jpg,Oh! Oh no!,Anger,Anger,0.3735466847817102,0.7836,1
+TRY_NOT_LOOK_AWAY_5_ensemble_24.jpg,Why did it have to be maggots? I lost already.,Disgust,Disgust,0.0348924721280733,0.9523,0
+TRY_NOT_LOOK_AWAY_8_ensemble_60.jpg,"So since I lost, I don't have to watch anymore. You do. I have to watch more, but I lost.","Anger, Disgust, Sadness, Surprise",Anger,0.2450538126718181,0.9563,0
+TRY_NOT_LOOK_AWAY_8_ensemble_90.jpg,"So since I lost, I don't have to watch anymore. You do. I have to watch more, but I lost.","Anger, Disgust, Sadness, Surprise",Disgust,0.0680677287561484,0.9563,0
+TRY_NOT_LOOK_AWAY_8_ensemble_63.jpg,"So since I lost, I don't have to watch anymore. You do. I have to watch more, but I lost.","Anger, Disgust, Sadness, Surprise",Sadness,0.6144268711407979,0.9563,0
+TRY_NOT_LOOK_AWAY_8_ensemble_69.jpg,"So since I lost, I don't have to watch anymore. You do. I have to watch more, but I lost.","Anger, Disgust, Sadness, Surprise",Surprise,0.4693254176960122,0.9563,0
+TRY_NOT_LOOK_AWAY_9_ensemble_54.jpg,Oh god! No!,"Disgust, Fear, Surprise",Disgust,0.067037360789989,0.5313,2
+TRY_NOT_LOOK_AWAY_9_ensemble_102.jpg,Oh god! No!,"Disgust, Fear, Surprise",Fear,0.4847274522848034,0.5313,2
+TRY_NOT_LOOK_AWAY_9_ensemble_33.jpg,Oh god! No!,"Disgust, Fear, Surprise",Surprise,0.1993245179138512,0.5313,2
+battlefield1_0_ensemble_84.jpg,Battlefield 1? We're gonna be shooting somebody for sure.,"Happiness, Surprise",Happiness,0.7054511308670043,0.8255,3
+battlefield1_0_ensemble_51.jpg,Battlefield 1? We're gonna be shooting somebody for sure.,"Happiness, Surprise",Surprise,0.3242362149138211,0.8255,3
+battlefield1_22_ensemble_159.jpg,"There, I shot. I have that guy right in my sights. I mean, 100%. Nothing's happening. That's not an enemy. That's a control point you need to capture. Oh, well then what... What is the point of what I'm doing? Uh-oh, I got shot.","Anger, Happiness",Anger,0.3355402888579798,0.9372,3
+battlefield1_22_ensemble_18.jpg,"There, I shot. I have that guy right in my sights. I mean, 100%. Nothing's happening. That's not an enemy. That's a control point you need to capture. Oh, well then what... What is the point of what I'm doing? Uh-oh, I got shot.","Anger, Happiness",Happiness,0.452731986840566,0.9372,3
+battlefield1_23_ensemble_6.jpg,"Graphics, it's awesome. Oh, barbed wire? That does not bother me. I wear it around my feet for traction.",Happiness,Happiness,0.3233723721832897,0.9069,3
+battlefield1_25_ensemble_42.jpg,"talking and running away from it. The little blue dots mean it's a teammate. What, it's a teammate? Yeah. Oh, really? You mean to tell me I've been using friendly fire the whole time?","Happiness, Surprise",Happiness,0.4205796078810498,0.8971,4
+battlefield1_25_ensemble_348.jpg,"talking and running away from it. The little blue dots mean it's a teammate. What, it's a teammate? Yeah. Oh, really? You mean to tell me I've been using friendly fire the whole time?","Happiness, Surprise",Surprise,0.0987072922972084,0.8971,4
+battlefield1_28_ensemble_183.jpg,That's a German flag! That's my flag! I'm gonna protect it then. Jawohl.,"Anger, Fear, Happiness, Surprise",Anger,0.2650620934524473,0.8244,2
+battlefield1_28_ensemble_243.jpg,That's a German flag! That's my flag! I'm gonna protect it then. Jawohl.,"Anger, Fear, Happiness, Surprise",Fear,0.5748178469652528,0.8244,2
+battlefield1_28_ensemble_27.jpg,That's a German flag! That's my flag! I'm gonna protect it then. Jawohl.,"Anger, Fear, Happiness, Surprise",Happiness,0.693745851235422,0.8244,2
+battlefield1_28_ensemble_189.jpg,That's a German flag! That's my flag! I'm gonna protect it then. Jawohl.,"Anger, Fear, Happiness, Surprise",Surprise,0.1969915930220535,0.8244,2
+battlefield1_37_ensemble_318.jpg,"Oh, is that... Oh, no! I was just gonna say, that is cool.","Happiness, Surprise",Happiness,0.848469576472233,0.8392,3
+battlefield1_37_ensemble_405.jpg,"Oh, is that... Oh, no! I was just gonna say, that is cool.","Happiness, Surprise",Surprise,0.5415786935931213,0.8392,3
+battlefield1_4_ensemble_123.jpg,multiple strategic points across a massive map. I just hope they don't curse me,"Disgust, Fear, Surprise",Disgust,0.3669044716128458,0.9599,1
+battlefield1_4_ensemble_45.jpg,multiple strategic points across a massive map. I just hope they don't curse me,"Disgust, Fear, Surprise",Fear,0.3834417992426703,0.9599,1
+battlefield1_4_ensemble_33.jpg,multiple strategic points across a massive map. I just hope they don't curse me,"Disgust, Fear, Surprise",Surprise,0.1215856290624408,0.9599,1
+battlefield1_46_ensemble_252.jpg,"Oh no, did I die again? No, your team lost. I can see why, I was on it.","Happiness, Surprise",Happiness,0.7665261030197142,0.9018,2
+battlefield1_46_ensemble_189.jpg,"Oh no, did I die again? No, your team lost. I can see why, I was on it.","Happiness, Surprise",Surprise,0.5507224492348155,0.9018,2
+battlefield1_50_ensemble_249.jpg,"Battlefield 1 is number one. If I could play it again for like 15 hours, I could maybe shoot somebody except me.",Happiness,Happiness,0.5263120581636839,0.9164,2
+battlefield1_8_ensemble_111.jpg,I'm down already.,"Anger, Sadness",Anger,0.2953160045047601,0.9349,0
+battlefield1_8_ensemble_90.jpg,I'm down already.,"Anger, Sadness",Sadness,0.5904853542645772,0.9349,0
+bully_burger_26_ensemble_72.jpg,and it's all smashed with new or the greater unblocked.,Happiness,Happiness,0.3763995916754841,0.5113,8
+bully_burger_32_ensemble_51.jpg,"Would you have stood up and said something? Yeah. Oh, really? And did you?","Anger, Disgust, Sadness, Surprise",Anger,0.1901675843108338,0.9456,1
+bully_burger_32_ensemble_63.jpg,"Would you have stood up and said something? Yeah. Oh, really? And did you?","Anger, Disgust, Sadness, Surprise",Disgust,0.0394454667953059,0.9456,1
+bully_burger_32_ensemble_75.jpg,"Would you have stood up and said something? Yeah. Oh, really? And did you?","Anger, Disgust, Sadness, Surprise",Sadness,0.6589674750963846,0.9456,1
+bully_burger_32_ensemble_63.jpg,"Would you have stood up and said something? Yeah. Oh, really? And did you?","Anger, Disgust, Sadness, Surprise",Surprise,0.4148672490672223,0.9456,1
+bully_burger_40_ensemble_84.jpg,All right.,Happiness,Happiness,0.1776758395135402,0.8216,1
+bully_burger_50_ensemble_90.jpg,From hilarious to heartbreaking. Oh my god.,Sadness,Sadness,0.5887306729952494,0.8396,1
+bully_burger_53_ensemble_63.jpg,"Oh, well, good for Burger King for pointing that out. Oh, my goodness.","Anger, Disgust, Surprise",Anger,0.0752313470778365,0.9575,0
+bully_burger_53_ensemble_9.jpg,"Oh, well, good for Burger King for pointing that out. Oh, my goodness.","Anger, Disgust, Surprise",Disgust,0.0905872796532397,0.9575,0
+bully_burger_53_ensemble_48.jpg,"Oh, well, good for Burger King for pointing that out. Oh, my goodness.","Anger, Disgust, Surprise",Surprise,0.2695146190623442,0.9575,0
+bully_burger_54_ensemble_36.jpg,Oh my god. It's just so upsetting. 12%? Ugh.,"Anger, Disgust, Fear, Sadness, Surprise",Anger,0.20939655493324,0.9059,0
+bully_burger_54_ensemble_117.jpg,Oh my god. It's just so upsetting. 12%? Ugh.,"Anger, Disgust, Fear, Sadness, Surprise",Disgust,0.0884373032769856,0.9059,0
+bully_burger_54_ensemble_18.jpg,Oh my god. It's just so upsetting. 12%? Ugh.,"Anger, Disgust, Fear, Sadness, Surprise",Fear,0.6998223065751219,0.9059,0
+bully_burger_54_ensemble_120.jpg,Oh my god. It's just so upsetting. 12%? Ugh.,"Anger, Disgust, Fear, Sadness, Surprise",Sadness,0.6041002084694989,0.9059,0
+bully_burger_54_ensemble_72.jpg,Oh my god. It's just so upsetting. 12%? Ugh.,"Anger, Disgust, Fear, Sadness, Surprise",Surprise,0.4234317789475122,0.9059,0
+bully_burger_58_ensemble_189.jpg,"So that was a video put out by Burger King surrounding the topic of bullying. Wow. As you saw in the video, more people cared about the quality of their food. About the burger. About the burger. Oh my god.","Anger, Disgust, Sadness, Surprise",Anger,0.3881443490584691,0.9387,2
+bully_burger_58_ensemble_120.jpg,"So that was a video put out by Burger King surrounding the topic of bullying. Wow. As you saw in the video, more people cared about the quality of their food. About the burger. About the burger. Oh my god.","Anger, Disgust, Sadness, Surprise",Disgust,0.3572529499453574,0.9387,2
+bully_burger_58_ensemble_183.jpg,"So that was a video put out by Burger King surrounding the topic of bullying. Wow. As you saw in the video, more people cared about the quality of their food. About the burger. About the burger. Oh my god.","Anger, Disgust, Sadness, Surprise",Sadness,0.620676855246226,0.9387,2
+bully_burger_58_ensemble_174.jpg,"So that was a video put out by Burger King surrounding the topic of bullying. Wow. As you saw in the video, more people cared about the quality of their food. About the burger. About the burger. Oh my god.","Anger, Disgust, Sadness, Surprise",Surprise,0.3159288590153058,0.9387,2
+bully_burger_68_ensemble_126.jpg,"It's very difficult, I think, to get people to stop in the course of their day because we're all busy, we're all trying to earn a living,",Sadness,Sadness,0.665212889760177,0.9615,1
+bully_burger_69_ensemble_9.jpg,"Just to get people to stop for a moment and think, would that be me? Do I care more about a hamburger than a human life?","Anger, Disgust",Anger,0.3636868379100993,0.9835,0
+bully_burger_69_ensemble_69.jpg,"Just to get people to stop for a moment and think, would that be me? Do I care more about a hamburger than a human life?","Anger, Disgust",Disgust,0.340356554611695,0.9835,0
+bully_burger_76_ensemble_141.jpg,"I worked in schools and this guy came in and started talking about bullying and I thought to myself, well, can't you stand up for yourself? That was my first thought.","Anger, Sadness",Anger,0.295243164524436,0.9364,4
+bully_burger_76_ensemble_150.jpg,"I worked in schools and this guy came in and started talking about bullying and I thought to myself, well, can't you stand up for yourself? That was my first thought.","Anger, Sadness",Sadness,0.642848511536916,0.9364,4
+bully_burger_78_ensemble_48.jpg,"The cyberbullying, especially in middle school, is excruciating","Anger, Disgust, Sadness",Anger,0.288760678221782,0.9262,1
+bully_burger_78_ensemble_84.jpg,"The cyberbullying, especially in middle school, is excruciating","Anger, Disgust, Sadness",Disgust,0.3678172001076115,0.9262,1
+bully_burger_78_ensemble_18.jpg,"The cyberbullying, especially in middle school, is excruciating","Anger, Disgust, Sadness",Sadness,0.6442110734561197,0.9262,1
+bully_burger_79_ensemble_135.jpg,"I don't know if it affects more people or less people, it's just one person targeted or whatever, but everybody jumps in on it because it's anonymous.",Neutral,Neutral,0.3769797055671612,0.9568,0
+bully_burger_93_ensemble_27.jpg,"Voolies tend to be very insecure, unhappy human beings, and they're made bigger by picking on someone.",Sadness,Sadness,0.5645380430949959,0.9604,1
+bully_burger_94_ensemble_54.jpg,So stay strong and you're better than they are.,Happiness,Happiness,0.5025812089443207,0.9328,1
+bully_burger_95_ensemble_96.jpg,"You can turn around and walk away any time, go, oh, yeah, great, fine. They're only going to react to you. They're only going to bully you if they get a reaction.",Anger,Anger,0.3156964629888534,0.9623,1
+bully_burger_96_ensemble_33.jpg,You walk away. Turn your back. I've done it myself and it works.,"Anger, Sadness",Anger,0.2492967227979702,0.917,1
+bully_burger_96_ensemble_48.jpg,You walk away. Turn your back. I've done it myself and it works.,"Anger, Sadness",Sadness,0.6529726185717509,0.917,1
+burnshoes_12_ensemble_96.jpg,"thing was, I am going to protest young African American men being shot in the street.","Anger, Disgust",Anger,0.3793466251033047,0.8767,3
+burnshoes_12_ensemble_51.jpg,"thing was, I am going to protest young African American men being shot in the street.","Anger, Disgust",Disgust,0.2229102910496294,0.8767,3
+burnshoes_14_ensemble_144.jpg,person who wants everyone to stand for the flag. I was always a little bit teed off when I was in a crowd at a baseball game or football game when I was a kid and I saw men who forgot to take off their hats.,"Anger, Disgust",Anger,0.3945144588748613,0.9563,3
+burnshoes_14_ensemble_348.jpg,person who wants everyone to stand for the flag. I was always a little bit teed off when I was in a crowd at a baseball game or football game when I was a kid and I saw men who forgot to take off their hats.,"Anger, Disgust",Disgust,0.3920422338688567,0.9563,3
+burnshoes_15_ensemble_312.jpg,I'm a former military. I've lost a brother in Vietnam. The flag to me is something sacred. Give him a minute or just have him not show up during the national anthem. I'm not for it. I just don't agree with it.,Happiness,Happiness,0.4606894056002298,0.9373,2
+burnshoes_20_ensemble_75.jpg,incredible people who've overcome a lot of handicaps.,Happiness,Happiness,0.5327521363894144,0.9035,1
+burnshoes_25_ensemble_3.jpg,for the national team at age 16. Awesome.,Happiness,Happiness,0.4682948390642801,0.7755,3
+burnshoes_34_ensemble_279.jpg,"The video showing people overcoming physical challenges is amazing. I'm not behind him. He has no physical handicap. And yet he's using his football and his football fame to protest something that is very, very dear to many people.",Happiness,Happiness,0.3382224552333355,0.9544,2
+burnshoes_36_ensemble_51.jpg,I bet they're both positive and negative.,"Anger, Happiness",Anger,0.3668137612885734,0.7017,3
+burnshoes_36_ensemble_0.jpg,I bet they're both positive and negative.,"Anger, Happiness",Happiness,0.6150489449501038,0.7017,3
+burnshoes_41_ensemble_0.jpg,will destroy something rather than give it to someone who needs it. I don't understand why people feel that that's a choice.,"Anger, Disgust",Anger,0.4111261860105497,0.9479,2
+burnshoes_41_ensemble_51.jpg,will destroy something rather than give it to someone who needs it. I don't understand why people feel that that's a choice.,"Anger, Disgust",Disgust,0.0484680593945085,0.9479,2
+burnshoes_48_ensemble_75.jpg,I have so much money I can burn up my shoes and not think about anyone else on the planet.,"Anger, Disgust",Anger,0.3819116974870364,0.9041,3
+burnshoes_48_ensemble_72.jpg,I have so much money I can burn up my shoes and not think about anyone else on the planet.,"Anger, Disgust",Disgust,0.0874038740682105,0.9041,3
+burnshoes_49_ensemble_39.jpg,"Mm-hmm, okay. They can protest. Free speech, that's fine. It just seems a little wasteful.",Anger,Anger,0.4168203696608543,0.9292,1
+burnshoes_51_ensemble_102.jpg,I think that makes a little more sense.,Neutral,Neutral,0.1223155458768208,0.8503,1
+burnshoes_68_ensemble_198.jpg,"Here's my question for Nike. If Mr. Kaepernick wore socks mocking Muslims or gays, would you hire him to endorse your products? Well, now there's an interesting connection. Now we're mocking, so this is mockable. This is a mockable offense now. Okay.","Anger, Disgust",Anger,0.5976174076398213,0.9541,0
+burnshoes_68_ensemble_321.jpg,"Here's my question for Nike. If Mr. Kaepernick wore socks mocking Muslims or gays, would you hire him to endorse your products? Well, now there's an interesting connection. Now we're mocking, so this is mockable. This is a mockable offense now. Okay.","Anger, Disgust",Disgust,0.0620465564231077,0.9541,0
+burnshoes_73_ensemble_27.jpg,"I mean, let's try to remember the 1968 Olympics. They won medals, and they stood on the platform, and they raised their hand in black power soliloquy.","Anger, Disgust",Anger,0.6634498834609985,0.9177,2
+burnshoes_73_ensemble_252.jpg,"I mean, let's try to remember the 1968 Olympics. They won medals, and they stood on the platform, and they raised their hand in black power soliloquy.","Anger, Disgust",Disgust,0.2573788571171462,0.9177,2
+burnshoes_74_ensemble_129.jpg,"in protest of what was going on in the country. And people just, I think they lost their medals for that. It's free speech. You have the right to state an opinion.","Anger, Disgust",Anger,0.5126049237188324,0.9665,0
+burnshoes_74_ensemble_102.jpg,"in protest of what was going on in the country. And people just, I think they lost their medals for that. It's free speech. You have the right to state an opinion.","Anger, Disgust",Disgust,0.3258147694221187,0.9665,0
+burnshoes_92_ensemble_330.jpg,"gone down a road of reduced civility. We used to be able to argue in a very polite and mature fashion, and I feel like now we just have become yellers and screamers.","Anger, Disgust, Sadness",Anger,0.3818101572755877,0.9598,1
+burnshoes_92_ensemble_126.jpg,"gone down a road of reduced civility. We used to be able to argue in a very polite and mature fashion, and I feel like now we just have become yellers and screamers.","Anger, Disgust, Sadness",Disgust,0.12235778379019,0.9598,1
+burnshoes_92_ensemble_78.jpg,"gone down a road of reduced civility. We used to be able to argue in a very polite and mature fashion, and I feel like now we just have become yellers and screamers.","Anger, Disgust, Sadness",Sadness,0.64355569964383,0.9598,1
+burnshoes_94_ensemble_303.jpg,"It's built on a like or a dislike of the president. Ever since he was elected president, there has been a mass separation about all things.",Anger,Anger,0.5810096859931946,0.9799,0
+cuphead_0_ensemble_90.jpg,What is so wrong about getting that guy?,"Anger, Happiness, Surprise",Anger,0.3319260440766811,0.7369,3
+cuphead_0_ensemble_18.jpg,What is so wrong about getting that guy?,"Anger, Happiness, Surprise",Happiness,0.4520313044389089,0.7369,3
+cuphead_0_ensemble_6.jpg,What is so wrong about getting that guy?,"Anger, Happiness, Surprise",Surprise,0.2735266207406918,0.7369,3
+cuphead_11_ensemble_24.jpg,I'll have you play the simple difficulty so you can at least have a fighting chance.,"Fear, Surprise",Fear,0.4195125746213683,0.9054,1
+cuphead_11_ensemble_87.jpg,I'll have you play the simple difficulty so you can at least have a fighting chance.,"Fear, Surprise",Surprise,0.1523050594643488,0.9054,1
+cuphead_21_ensemble_108.jpg,I killed him. Uh-oh. What is this?,"Fear, Happiness, Surprise",Fear,0.4418381891545935,0.8004,2
+cuphead_21_ensemble_90.jpg,I killed him. Uh-oh. What is this?,"Fear, Happiness, Surprise",Happiness,0.1150187569459129,0.8004,2
+cuphead_21_ensemble_138.jpg,I killed him. Uh-oh. What is this?,"Fear, Happiness, Surprise",Surprise,0.3878552267191821,0.8004,2
+cuphead_23_ensemble_183.jpg,"I got carrots coming at me. Oh, I got killed by a giant carrot.","Happiness, Surprise",Happiness,0.7380087569333942,0.9558,0
+cuphead_23_ensemble_72.jpg,"I got carrots coming at me. Oh, I got killed by a giant carrot.","Happiness, Surprise",Surprise,0.3327655627702673,0.9558,0
+cuphead_24_ensemble_156.jpg,I start from the beginning every time. I found a flaw.,"Anger, Happiness, Surprise",Anger,0.1375723851379007,0.8952,1
+cuphead_24_ensemble_120.jpg,I start from the beginning every time. I found a flaw.,"Anger, Happiness, Surprise",Happiness,0.705842634042104,0.8952,1
+cuphead_24_ensemble_108.jpg,I start from the beginning every time. I found a flaw.,"Anger, Happiness, Surprise",Surprise,0.441857931514581,0.8952,1
+cuphead_29_ensemble_12.jpg,"Okay, I don't understand the camera.",Anger,Anger,0.2268679517153292,0.9018,1
+cuphead_31_ensemble_3.jpg,Ha-ha! I shot the carrots! Ha-ha! I got your baby carrots! Ha-ha-ha!,"Happiness, Surprise",Happiness,0.6053458253542581,0.9506,1
+cuphead_31_ensemble_168.jpg,Ha-ha! I shot the carrots! Ha-ha! I got your baby carrots! Ha-ha-ha!,"Happiness, Surprise",Surprise,0.2590303248683388,0.9506,1
+cuphead_32_ensemble_33.jpg,"I don't know, guys. That's getting beyond my concentration level right now.","Happiness, Surprise",Happiness,0.7740873694419861,0.9497,1
+cuphead_32_ensemble_111.jpg,"I don't know, guys. That's getting beyond my concentration level right now.","Happiness, Surprise",Surprise,0.3036406856651107,0.9497,1
+cuphead_35_ensemble_99.jpg,Grant and Zeppelin finally reacting to something with Zeppelin in the title.,"Happiness, Surprise",Happiness,0.6234354376792908,0.8947,2
+cuphead_35_ensemble_120.jpg,Grant and Zeppelin finally reacting to something with Zeppelin in the title.,"Happiness, Surprise",Surprise,0.3799781214081923,0.8947,2
+cuphead_38_ensemble_201.jpg,"Man, they're throwing a lot of stuff at you.",Happiness,Happiness,0.1620210918287436,0.9435,0
+cuphead_58_ensemble_96.jpg,"Oh, oh! Oh, this one!","Happiness, Surprise",Happiness,0.6440418859322865,0.7991,2
+cuphead_58_ensemble_51.jpg,"Oh, oh! Oh, this one!","Happiness, Surprise",Surprise,0.23236285833021,0.7991,2
+cuphead_63_ensemble_174.jpg,Shoot those guys! It's like I just had him in my sights and I already was in his.,"Happiness, Sadness, Surprise",Happiness,0.7339403809668092,0.9321,1
+cuphead_63_ensemble_78.jpg,Shoot those guys! It's like I just had him in my sights and I already was in his.,"Happiness, Sadness, Surprise",Sadness,0.5051881273587544,0.9321,1
+cuphead_63_ensemble_51.jpg,Shoot those guys! It's like I just had him in my sights and I already was in his.,"Happiness, Sadness, Surprise",Surprise,0.26080798668166,0.9321,1
+cuphead_66_ensemble_78.jpg,"Get that guy. What is so right about getting that guy? Oh, I can't take many more hits.","Anger, Fear, Happiness, Surprise",Anger,0.3525243625044822,0.8589,3
+cuphead_66_ensemble_0.jpg,"Get that guy. What is so right about getting that guy? Oh, I can't take many more hits.","Anger, Fear, Happiness, Surprise",Fear,0.5493815541267395,0.8589,3
+cuphead_66_ensemble_228.jpg,"Get that guy. What is so right about getting that guy? Oh, I can't take many more hits.","Anger, Fear, Happiness, Surprise",Happiness,0.6678279042243958,0.8589,3
+cuphead_66_ensemble_66.jpg,"Get that guy. What is so right about getting that guy? Oh, I can't take many more hits.","Anger, Fear, Happiness, Surprise",Surprise,0.3707902133464813,0.8589,3
+cuphead_68_ensemble_30.jpg,It's too much for me.,"Anger, Happiness, Surprise",Anger,0.363678564724239,0.932,0
+cuphead_68_ensemble_144.jpg,It's too much for me.,"Anger, Happiness, Surprise",Happiness,0.6946837505823258,0.932,0
+cuphead_68_ensemble_114.jpg,It's too much for me.,"Anger, Happiness, Surprise",Surprise,0.2524465985569056,0.932,0
+cuphead_70_ensemble_252.jpg,"Take all your fire ants, your little tadpoles. Get him! Oh, no! Oh, that's it, guys.","Happiness, Surprise",Happiness,0.810221930377106,0.8762,2
+cuphead_70_ensemble_132.jpg,"Take all your fire ants, your little tadpoles. Get him! Oh, no! Oh, that's it, guys.","Happiness, Surprise",Surprise,0.2301655022541429,0.8762,2
+david_bowie_101_ensemble_75.jpg,Stepping through the dark,Sadness,Sadness,0.6451455354690552,0.8071,1
+david_bowie_105_ensemble_60.jpg,"Oh, I like it. I like it.",Happiness,Happiness,0.7329653700192769,0.9893,0
+david_bowie_106_ensemble_96.jpg,"Doesn't everyone in the world know this song? Oh, thank you.",Happiness,Happiness,0.5692744056383768,0.957,0
+david_bowie_109_ensemble_30.jpg,Thank you. That was great.,"Happiness, Sadness",Happiness,0.4123120589014939,0.8851,1
+david_bowie_109_ensemble_21.jpg,Thank you. That was great.,"Happiness, Sadness",Sadness,0.5889663291906259,0.8851,1
+david_bowie_13_ensemble_153.jpg,Oh.,"Fear, Surprise",Fear,0.3512039082426355,0.2585,1
+david_bowie_13_ensemble_75.jpg,Oh.,"Fear, Surprise",Surprise,0.6762044619524397,0.2585,1
+david_bowie_16_ensemble_0.jpg,"Look up here, I'm in heaven.","Fear, Sadness, Surprise",Fear,0.4542395422856013,0.8451,1
+david_bowie_16_ensemble_51.jpg,"Look up here, I'm in heaven.","Fear, Sadness, Surprise",Sadness,0.5266122221946716,0.8451,1
+david_bowie_16_ensemble_6.jpg,"Look up here, I'm in heaven.","Fear, Sadness, Surprise",Surprise,0.0956099400398242,0.8451,1
+david_bowie_17_ensemble_36.jpg,He's gonna make me cry. Sorry.,"Sadness, Surprise",Sadness,0.620289141623654,0.7472,3
+david_bowie_17_ensemble_111.jpg,He's gonna make me cry. Sorry.,"Sadness, Surprise",Surprise,0.2599314173583807,0.7472,3
+david_bowie_18_ensemble_63.jpg,I haven't watched this yet.,"Disgust, Fear, Sadness",Disgust,0.1103505411253233,0.9426,0
+david_bowie_18_ensemble_69.jpg,I haven't watched this yet.,"Disgust, Fear, Sadness",Fear,0.3876471736778815,0.9426,0
+david_bowie_18_ensemble_0.jpg,I haven't watched this yet.,"Disgust, Fear, Sadness",Sadness,0.6946464975674946,0.9426,0
+david_bowie_29_ensemble_222.jpg,"Looking at this, I'd like to think of it as a prettier picture.",Sadness,Sadness,0.4684464436038098,0.938,1
+david_bowie_30_ensemble_27.jpg,I'll be free when I go to heaven.,Neutral,Neutral,0.3505696058273315,0.9475,0
+david_bowie_36_ensemble_90.jpg,me,Sadness,Sadness,0.7664689421653746,0.5037,1
+david_bowie_38_ensemble_3.jpg,wanted to leave some mark perhaps. Well this guy did it.,Anger,Anger,0.3555898186709823,0.8327,4
+david_bowie_42_ensemble_108.jpg,It's a big one for me. I just adored that guy.,"Fear, Sadness",Fear,0.330648869741708,0.9359,1
+david_bowie_42_ensemble_18.jpg,It's a big one for me. I just adored that guy.,"Fear, Sadness",Sadness,0.6020517510499175,0.9359,1
+david_bowie_53_ensemble_72.jpg,"So this song is called Lazarus. Wow, really?","Happiness, Surprise",Happiness,0.5144903063774109,0.926,0
+david_bowie_53_ensemble_81.jpg,"So this song is called Lazarus. Wow, really?","Happiness, Surprise",Surprise,0.2004745749021569,0.926,0
+david_bowie_59_ensemble_111.jpg,"To know you're that close to death but still make a video to say goodbye to everybody. I mean, like I said, he's a class act.",Sadness,Sadness,0.4607789218425751,0.923,3
+david_bowie_64_ensemble_180.jpg,I saw him live many times because I lived in England when he was doing his thing and I was lucky enough to see him in England and in America.,Neutral,Neutral,0.3800271265208721,0.9591,2
+david_bowie_67_ensemble_36.jpg,"A friend of mine wrote for a music magazine or newspaper, and she said, we're going to the Civic to see this new English guy.",Sadness,Sadness,0.6148356596628824,0.9462,1
+david_bowie_68_ensemble_9.jpg,"And then he started singing, and it was just, he truly was magical.",Happiness,Happiness,0.2191782568891843,0.9149,1
+david_bowie_69_ensemble_114.jpg,I couldn't just applaud and cheer. My life had been changed.,Neutral,Neutral,0.3993354442839821,0.9875,0
+david_bowie_84_ensemble_75.jpg,Is there life on Mars?,"Sadness, Surprise",Sadness,0.4221923035285816,0.7848,1
+david_bowie_84_ensemble_84.jpg,Is there life on Mars?,"Sadness, Surprise",Surprise,0.1625005005754672,0.7848,1
+david_bowie_85_ensemble_60.jpg,"Oh, oh, oh.",Happiness,Happiness,0.6903013586836266,0.5704,2
+david_bowie_94_ensemble_0.jpg,Let's dance.,Happiness,Happiness,0.4664222598075866,0.8027,0
+david_bowie_97_ensemble_15.jpg,"Here we go, this is what the type of music I'm used to and I like.","Happiness, Surprise",Happiness,0.748167316118876,0.8967,2
+david_bowie_97_ensemble_6.jpg,"Here we go, this is what the type of music I'm used to and I like.","Happiness, Surprise",Surprise,0.1912643688265234,0.8967,2
+dolan_dark_104_ensemble_63.jpg,The inside is completely dry.,Happiness,Happiness,0.255320681259036,0.9189,1
+dolan_dark_105_ensemble_18.jpg,"to show you the power of flex tape. Well, that's a twist ending.","Happiness, Surprise",Happiness,0.7936259110768635,0.8813,2
+dolan_dark_105_ensemble_195.jpg,"to show you the power of flex tape. Well, that's a twist ending.","Happiness, Surprise",Surprise,0.427878253558841,0.8813,2
+dolan_dark_109_ensemble_111.jpg,And any description that I would give it wouldn't do it justice.,"Anger, Sadness",Anger,0.2597678451199909,0.9526,0
+dolan_dark_109_ensemble_18.jpg,And any description that I would give it wouldn't do it justice.,"Anger, Sadness",Sadness,0.3146281266442237,0.9526,0
+dolan_dark_135_ensemble_30.jpg,"If I put someone through college or helped, I'd be a little bit upset about that.","Anger, Happiness",Anger,0.3003222291608826,0.9501,1
+dolan_dark_135_ensemble_90.jpg,"If I put someone through college or helped, I'd be a little bit upset about that.","Anger, Happiness",Happiness,0.2639105133002229,0.9501,1
+dolan_dark_14_ensemble_0.jpg,"Why? I don't get it. You know, it's like, what for?","Anger, Sadness, Surprise",Anger,0.0664628512846926,0.9456,0
+dolan_dark_14_ensemble_75.jpg,"Why? I don't get it. You know, it's like, what for?","Anger, Sadness, Surprise",Sadness,0.7203018661313163,0.9456,0
+dolan_dark_14_ensemble_3.jpg,"Why? I don't get it. You know, it's like, what for?","Anger, Sadness, Surprise",Surprise,0.1299947306203345,0.9456,0
+dolan_dark_22_ensemble_54.jpg,"It's got to be a... Oh, okay.",Surprise,Surprise,0.2143023777753114,0.8331,1
+dolan_dark_31_ensemble_54.jpg,I don't get it.,"Anger, Sadness",Anger,0.3800456784665584,0.9528,0
+dolan_dark_31_ensemble_42.jpg,I don't get it.,"Anger, Sadness",Sadness,0.5906248255955,0.9528,0
+dolan_dark_5_ensemble_36.jpg,"I don't know what to make of it. I mean, I really don't.",Happiness,Happiness,0.4794817132254441,0.9866,0
+dolan_dark_60_ensemble_6.jpg,Do you know the way? Do you know the way? Do you know the way?,"Happiness, Surprise",Happiness,0.4642482350269952,0.9059,2
+dolan_dark_60_ensemble_84.jpg,Do you know the way? Do you know the way? Do you know the way?,"Happiness, Surprise",Surprise,0.3600800705822679,0.9059,2
+dolan_dark_67_ensemble_42.jpg,Here it comes. Do you know the way?,Happiness,Happiness,0.7476716041564941,0.927,0
+dolan_dark_68_ensemble_66.jpg,Love it. A little bit of genius in that.,"Happiness, Surprise",Happiness,0.0312080953591292,0.9671,0
+dolan_dark_68_ensemble_6.jpg,Love it. A little bit of genius in that.,"Happiness, Surprise",Surprise,0.1374743413180112,0.9671,0
+dolan_dark_73_ensemble_75.jpg,in the whole galaxy. An ogre in a war is when he's angry.,Happiness,Happiness,0.3852440135826167,0.7755,4
+dolan_dark_75_ensemble_42.jpg,You wouldn't want to see me angry.,Happiness,Happiness,0.3778037043909231,0.9232,0
+dolan_dark_76_ensemble_63.jpg,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheadayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayay,"Disgust, Fear, Surprise",Disgust,0.3661266469086209,0.6483,1
+dolan_dark_76_ensemble_6.jpg,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheadayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayay,"Disgust, Fear, Surprise",Fear,0.3141440044657711,0.6483,1
+dolan_dark_76_ensemble_24.jpg,AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhheadayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayayay,"Disgust, Fear, Surprise",Surprise,0.1336369088137347,0.6483,1
+dolan_dark_89_ensemble_90.jpg,"It's just not my kind of humor, I guess, you know? I'm old, what can I say?","Anger, Disgust, Sadness",Anger,0.2965426951025923,0.9419,0
+dolan_dark_89_ensemble_81.jpg,"It's just not my kind of humor, I guess, you know? I'm old, what can I say?","Anger, Disgust, Sadness",Disgust,0.0751004848571028,0.9419,0
+dolan_dark_89_ensemble_39.jpg,"It's just not my kind of humor, I guess, you know? I'm old, what can I say?","Anger, Disgust, Sadness",Sadness,0.3746154457330704,0.9419,0
+dolan_dark_90_ensemble_0.jpg,"It is really, really creative to do those edits. It's like DJ and music.",Happiness,Happiness,0.3449228173418106,0.8721,3
+eminem_12_ensemble_9.jpg,"I was going to go easy on you, not to hurt your feelings. Is it Eminem?","Happiness, Surprise",Happiness,0.114474864382203,0.9433,1
+eminem_12_ensemble_78.jpg,"I was going to go easy on you, not to hurt your feelings. Is it Eminem?","Happiness, Surprise",Surprise,0.2285939439487996,0.9433,1
+eminem_142_ensemble_9.jpg,"And that's when you go, oh, I know I'm getting old because I don't like the music.",Anger,Anger,0.4226968282212813,0.946,0
+eminem_144_ensemble_159.jpg,"That was just like, ahhh. World's going to hell in a hand basket really quick. These kids, they're crazy.",Happiness,Happiness,0.6943842569986979,0.8112,4
+eminem_145_ensemble_48.jpg,"In the early days of rock and roll, there was a thing called good music and a thing called rock and roll. And the good music people said, that rock and roll will never last.",Neutral,Neutral,0.333938308660421,0.9571,1
+eminem_146_ensemble_159.jpg,"And I heard a comment the other day, somebody said, that rap is never gonna be here. And I said, look careful, buddy. I said, it may be here longer than you.",Happiness,Happiness,0.7277879707026451,0.9371,1
+eminem_149_ensemble_240.jpg,Only among younger company. Just to say I'm gonna be cool. And I'm not.,Happiness,Happiness,0.7403542200724283,0.883,1
+eminem_25_ensemble_156.jpg,"in a while, so I wanna make sure somewhere in the chicken scratch house, scribble and doodle, enough rhymes to... Rap. ...get some people through tough times... Never understood it.",Happiness,Happiness,0.6255783438682556,0.8097,7
+eminem_27_ensemble_6.jpg,Whoa!,"Happiness, Surprise",Happiness,0.7725948693283962,0.3012,1
+eminem_27_ensemble_105.jpg,Whoa!,"Happiness, Surprise",Surprise,0.1680735455710716,0.3012,1
+eminem_31_ensemble_57.jpg,How do you give a mother what?,"Disgust, Surprise",Disgust,0.0591991018609115,0.6815,3
+eminem_31_ensemble_24.jpg,How do you give a mother what?,"Disgust, Surprise",Surprise,0.2472523391091575,0.6815,3
+eminem_35_ensemble_3.jpg,"Why be a king when you can be a god? Did you get all that? Yeah, right.",Neutral,Neutral,0.4299156962608905,0.9172,2
+eminem_42_ensemble_78.jpg,"I ain't mad. I just think it's up. You don't answer fans. Oh, my.","Anger, Disgust",Anger,0.0703902496801068,0.8438,3
+eminem_42_ensemble_81.jpg,"I ain't mad. I just think it's up. You don't answer fans. Oh, my.","Anger, Disgust",Disgust,0.0376999213256772,0.8438,3
+eminem_44_ensemble_90.jpg,"Oh, whoa.","Anger, Disgust, Surprise",Anger,0.149635602797692,0.5843,2
+eminem_44_ensemble_75.jpg,"Oh, whoa.","Anger, Disgust, Surprise",Disgust,0.0999427457853339,0.5843,2
+eminem_44_ensemble_81.jpg,"Oh, whoa.","Anger, Disgust, Surprise",Surprise,0.3337791739595656,0.5843,2
+eminem_46_ensemble_57.jpg,"Is he making a social statement here, or what is it?","Anger, Surprise",Anger,0.6391209945132936,0.9548,0
+eminem_46_ensemble_0.jpg,"Is he making a social statement here, or what is it?","Anger, Surprise",Surprise,0.171304603179718,0.9548,0
+eminem_56_ensemble_84.jpg,Thank you.,"Anger, Disgust, Sadness, Surprise",Anger,0.2445292584598064,0.5231,1
+eminem_56_ensemble_150.jpg,Thank you.,"Anger, Disgust, Sadness, Surprise",Disgust,0.062526853639838,0.5231,1
+eminem_56_ensemble_129.jpg,Thank you.,"Anger, Disgust, Sadness, Surprise",Sadness,0.6201906205129597,0.5231,1
+eminem_56_ensemble_93.jpg,Thank you.,"Anger, Disgust, Sadness, Surprise",Surprise,0.4841148859510819,0.5231,1
+eminem_66_ensemble_117.jpg,"Nodz's own daughter. Well, maybe that's saying something.","Happiness, Surprise",Happiness,0.655243258072725,0.8685,2
+eminem_66_ensemble_24.jpg,"Nodz's own daughter. Well, maybe that's saying something.","Happiness, Surprise",Surprise,0.3724660187913464,0.8685,2
+eminem_71_ensemble_12.jpg,"Wow. I mean, the guy's really got it down. He's quite a rapper.","Happiness, Surprise",Happiness,0.4106760571400324,0.9526,1
+eminem_71_ensemble_51.jpg,"Wow. I mean, the guy's really got it down. He's quite a rapper.","Happiness, Surprise",Surprise,0.2892274690760891,0.9526,1
+eminem_84_ensemble_66.jpg,"Why do you think he calls himself Eminem? I have no idea, because it's his rap name!",Happiness,Happiness,0.5494286417961121,0.928,2
+eminem_88_ensemble_57.jpg,"I might be old, but I'm not completely out of it yet.",Happiness,Happiness,0.3812049726645152,0.9752,0
+esports_97_ensemble_9.jpg,I'm pretty amazed actually that it's that popular.,Happiness,Happiness,0.4230392772249409,0.8821,1
+f_marry_kill_100_ensemble_36.jpg,Easily killed George Clooney for his role in Gravity. I thought it was an overrated movie and he sucked.,Anger,Anger,0.2150765682260195,0.9421,1
+f_marry_kill_103_ensemble_0.jpg,And I'll marry George Clooney in a suit. My husband never wears suits. I'll marry a man in a suit.,Happiness,Happiness,0.6017034252484639,0.9417,1
+f_marry_kill_14_ensemble_33.jpg,"It sounds awesome. Funny, rude, murderous, perfect.",Happiness,Happiness,0.3448682427406311,0.9459,0
+f_marry_kill_25_ensemble_42.jpg,because I like to look on the pillow every day and see something beautiful like that looking back at it.,Happiness,Happiness,0.3447283566345023,0.9276,2
+f_marry_kill_39_ensemble_27.jpg,"Jennifer Lawrence, she's a stone beauty, talented, the greatest smile in the world.",Happiness,Happiness,0.1216714797459038,0.9568,0
+f_marry_kill_43_ensemble_54.jpg,"Emma Stone. Oh, I dream about Emma. I really do.",Happiness,Happiness,0.2857115136183428,0.9728,0
+f_marry_kill_6_ensemble_129.jpg,"Today we're going to have you play a fun little game called Fuck, Marry, Kill. Oh wow.","Happiness, Surprise",Happiness,0.33454531027625,0.892,3
+f_marry_kill_6_ensemble_96.jpg,"Today we're going to have you play a fun little game called Fuck, Marry, Kill. Oh wow.","Happiness, Surprise",Surprise,0.4193393656363089,0.892,3
+f_marry_kill_67_ensemble_54.jpg,"Oh, it's the boys. I am so fucking Chris Hemsworth.","Happiness, Surprise",Happiness,0.2891686260700226,0.9617,1
+f_marry_kill_67_ensemble_42.jpg,"Oh, it's the boys. I am so fucking Chris Hemsworth.","Happiness, Surprise",Surprise,0.2013351785695842,0.9617,1
+f_marry_kill_68_ensemble_15.jpg,"I'd marry, oh, then I'd have to kill. Oh, this is hard. I guess I'm going to marry Captain America.","Anger, Happiness",Anger,0.0835441591674424,0.9412,2
+f_marry_kill_68_ensemble_90.jpg,"I'd marry, oh, then I'd have to kill. Oh, this is hard. I guess I'm going to marry Captain America.","Anger, Happiness",Happiness,0.5364759166538846,0.9412,2
+f_marry_kill_72_ensemble_96.jpg,I would marry Chris Pratt.,Happiness,Happiness,0.4985500870218425,0.8923,0
+f_marry_kill_73_ensemble_204.jpg,"And of course, who wouldn't fuck Chris Hemsworth, who's a pretty handsome guy. In fact, he and I look a lot alike.","Happiness, Surprise",Happiness,0.7090325951576233,0.9578,0
+f_marry_kill_73_ensemble_39.jpg,"And of course, who wouldn't fuck Chris Hemsworth, who's a pretty handsome guy. In fact, he and I look a lot alike.","Happiness, Surprise",Surprise,0.4726211036776958,0.9578,0
+fatality_0_ensemble_30.jpg,"Oh, God, blood is spurting everywhere. Oh, yuck!","Disgust, Fear",Disgust,0.095308124662557,0.8519,2
+fatality_0_ensemble_6.jpg,"Oh, God, blood is spurting everywhere. Oh, yuck!","Disgust, Fear",Fear,0.3235085493142164,0.8519,2
+fatality_11_ensemble_75.jpg,"some dental work there. Once again, that's pretty gory.","Disgust, Happiness",Disgust,0.0370811218577184,0.8845,1
+fatality_11_ensemble_24.jpg,"some dental work there. Once again, that's pretty gory.","Disgust, Happiness",Happiness,0.5811224180748542,0.8845,1
+fatality_14_ensemble_42.jpg,"don't even understand the reference, the here's Johnny reference.",Neutral,Neutral,0.4813731983304023,0.9139,0
+fatality_15_ensemble_39.jpg,That's absolutely horrible. Shame on whoever put that out.,"Anger, Disgust, Sadness",Anger,0.3927866568854386,0.9335,0
+fatality_15_ensemble_138.jpg,That's absolutely horrible. Shame on whoever put that out.,"Anger, Disgust, Sadness",Disgust,0.1526704789915432,0.9335,0
+fatality_15_ensemble_18.jpg,That's absolutely horrible. Shame on whoever put that out.,"Anger, Disgust, Sadness",Sadness,0.4899343252182007,0.9335,0
+fatality_17_ensemble_75.jpg,Oh my god.,"Disgust, Fear, Sadness, Surprise",Disgust,0.292753492266552,0.7543,1
+fatality_17_ensemble_108.jpg,Oh my god.,"Disgust, Fear, Sadness, Surprise",Fear,0.3746062656700601,0.7543,1
+fatality_17_ensemble_3.jpg,Oh my god.,"Disgust, Fear, Sadness, Surprise",Sadness,0.6690713763237,0.7543,1
+fatality_17_ensemble_72.jpg,Oh my god.,"Disgust, Fear, Sadness, Surprise",Surprise,0.2649359665811062,0.7543,1
+fatality_20_ensemble_75.jpg,you,"Disgust, Fear, Surprise",Disgust,0.0397389263568455,0.0583,1
+fatality_20_ensemble_45.jpg,you,"Disgust, Fear, Surprise",Fear,0.6329477822401537,0.0583,1
+fatality_20_ensemble_24.jpg,you,"Disgust, Fear, Surprise",Surprise,0.4774178611261179,0.0583,1
+fatality_22_ensemble_45.jpg,"who could change the world,"" and I go, why are you putting your energy into really gratuitous and obscene violence?","Anger, Disgust",Anger,0.3480106859157482,0.9368,2
+fatality_22_ensemble_51.jpg,"who could change the world,"" and I go, why are you putting your energy into really gratuitous and obscene violence?","Anger, Disgust",Disgust,0.0770073269800923,0.9368,2
+fatality_23_ensemble_156.jpg,"put her head down in her stomach. Very, very creative, but really grotesque.","Happiness, Surprise",Happiness,0.3383109807332587,0.8868,2
+fatality_23_ensemble_159.jpg,"put her head down in her stomach. Very, very creative, but really grotesque.","Happiness, Surprise",Surprise,0.2373187952519705,0.8868,2
+fatality_24_ensemble_54.jpg,the best selling games? I do not get,Disgust,Disgust,0.377828198717907,0.7252,3
+fatality_27_ensemble_39.jpg,"believe that they put games like that out. Where have I been? I guess I haven't been around, because I never saw anything like that. I must really be old.","Anger, Disgust, Sadness, Surprise",Anger,0.3938637957465208,0.9691,1
+fatality_27_ensemble_126.jpg,"believe that they put games like that out. Where have I been? I guess I haven't been around, because I never saw anything like that. I must really be old.","Anger, Disgust, Sadness, Surprise",Disgust,0.1794055028029981,0.9691,1
+fatality_27_ensemble_231.jpg,"believe that they put games like that out. Where have I been? I guess I haven't been around, because I never saw anything like that. I must really be old.","Anger, Disgust, Sadness, Surprise",Sadness,0.6411527196794916,0.9691,1
+fatality_27_ensemble_24.jpg,"believe that they put games like that out. Where have I been? I guess I haven't been around, because I never saw anything like that. I must really be old.","Anger, Disgust, Sadness, Surprise",Surprise,0.2670946059127648,0.9691,1
+fatality_4_ensemble_108.jpg,elders is what I'm referring to. I'm sure there's some people who just think that's very exciting.,"Disgust, Sadness",Disgust,0.029770495442837,0.902,1
+fatality_4_ensemble_18.jpg,elders is what I'm referring to. I'm sure there's some people who just think that's very exciting.,"Disgust, Sadness",Sadness,0.5984460726677694,0.902,1
+fatality_5_ensemble_84.jpg,you,Disgust,Disgust,0.0777769505535575,0.0449,1
+fatality_6_ensemble_150.jpg,"Oh, I don't wanna watch this. Oh, no, I can't believe this.","Disgust, Fear, Surprise",Disgust,0.1407586643472313,0.8387,4
+fatality_6_ensemble_75.jpg,"Oh, I don't wanna watch this. Oh, no, I can't believe this.","Disgust, Fear, Surprise",Fear,0.520817836124537,0.8387,4
+fatality_6_ensemble_156.jpg,"Oh, I don't wanna watch this. Oh, no, I can't believe this.","Disgust, Fear, Surprise",Surprise,0.3651404547837659,0.8387,4
+fatality_8_ensemble_168.jpg,Oh my goodness.,"Anger, Disgust, Fear, Sadness, Surprise",Anger,0.2694651563523573,0.6733,1
+fatality_8_ensemble_183.jpg,Oh my goodness.,"Anger, Disgust, Fear, Sadness, Surprise",Disgust,0.0363574567329578,0.6733,1
+fatality_8_ensemble_180.jpg,Oh my goodness.,"Anger, Disgust, Fear, Sadness, Surprise",Fear,0.3803022888799508,0.6733,1
+fatality_8_ensemble_57.jpg,Oh my goodness.,"Anger, Disgust, Fear, Sadness, Surprise",Sadness,0.5472101767857869,0.6733,1
+fatality_8_ensemble_198.jpg,Oh my goodness.,"Anger, Disgust, Fear, Sadness, Surprise",Surprise,0.2472904051925865,0.6733,1
+fatality_9_ensemble_129.jpg,"No. No! Oh, no, I can't watch that.","Anger, Disgust, Fear, Sadness, Surprise",Anger,0.3092344323386853,0.8277,2
+fatality_9_ensemble_108.jpg,"No. No! Oh, no, I can't watch that.","Anger, Disgust, Fear, Sadness, Surprise",Disgust,0.207346764776601,0.8277,2
+fatality_9_ensemble_111.jpg,"No. No! Oh, no, I can't watch that.","Anger, Disgust, Fear, Sadness, Surprise",Fear,0.6262608170509338,0.8277,2
+fatality_9_ensemble_132.jpg,"No. No! Oh, no, I can't watch that.","Anger, Disgust, Fear, Sadness, Surprise",Sadness,0.6438916118147091,0.8277,2
+fatality_9_ensemble_117.jpg,"No. No! Oh, no, I can't watch that.","Anger, Disgust, Fear, Sadness, Surprise",Surprise,0.2348972780172463,0.8277,2
+flappy_bird_106_ensemble_21.jpg,"I'd love to deal with that problem, wouldn't you? Good gravy, 50,000 a day on a game?","Happiness, Surprise",Happiness,0.4384360313415527,0.9244,1
+flappy_bird_106_ensemble_57.jpg,"I'd love to deal with that problem, wouldn't you? Good gravy, 50,000 a day on a game?","Happiness, Surprise",Surprise,0.3531540443021191,0.9244,1
+flappy_bird_110_ensemble_39.jpg,"His decision, despite all the money, was to stop letting people download the game. I admire him for that.",Happiness,Happiness,0.2899840654075745,0.9594,1
+flappy_bird_14_ensemble_132.jpg,Okay. That didn't take long.,"Happiness, Surprise",Happiness,0.8724171517929875,0.8283,1
+flappy_bird_14_ensemble_153.jpg,Okay. That didn't take long.,"Happiness, Surprise",Surprise,0.1875791362153897,0.8283,1
+flappy_bird_23_ensemble_75.jpg,OOOOH! Ugh!,"Happiness, Surprise",Happiness,0.4369336863358815,0.3193,2
+flappy_bird_23_ensemble_39.jpg,OOOOH! Ugh!,"Happiness, Surprise",Surprise,0.4733422946495314,0.3193,2
+flappy_bird_25_ensemble_66.jpg,"Oh, ow. Ooh! So close!","Happiness, Sadness, Surprise",Happiness,0.6871798833211262,0.7087,3
+flappy_bird_25_ensemble_48.jpg,"Oh, ow. Ooh! So close!","Happiness, Sadness, Surprise",Sadness,0.5405845642089844,0.7087,3
+flappy_bird_25_ensemble_90.jpg,"Oh, ow. Ooh! So close!","Happiness, Sadness, Surprise",Surprise,0.736995240052541,0.7087,3
+flappy_bird_30_ensemble_30.jpg,you,"Disgust, Surprise",Disgust,0.0778208857611351,0.0645,1
+flappy_bird_30_ensemble_93.jpg,you,"Disgust, Surprise",Surprise,0.2007120841493209,0.0645,1
+flappy_bird_31_ensemble_66.jpg,Yeah.,"Anger, Disgust, Fear, Surprise",Anger,0.116570024137363,0.3579,1
+flappy_bird_31_ensemble_21.jpg,Yeah.,"Anger, Disgust, Fear, Surprise",Disgust,0.0891131130502722,0.3579,1
+flappy_bird_31_ensemble_66.jpg,Yeah.,"Anger, Disgust, Fear, Surprise",Fear,0.3395256237567393,0.3579,1
+flappy_bird_31_ensemble_63.jpg,Yeah.,"Anger, Disgust, Fear, Surprise",Surprise,0.3350543968457107,0.3579,1
+flappy_bird_32_ensemble_57.jpg,I,"Anger, Fear, Happiness, Surprise",Anger,0.2303719270663956,0.0543,1
+flappy_bird_32_ensemble_84.jpg,I,"Anger, Fear, Happiness, Surprise",Fear,0.4782159129778544,0.0543,1
+flappy_bird_32_ensemble_27.jpg,I,"Anger, Fear, Happiness, Surprise",Happiness,0.3689757672881376,0.0543,1
+flappy_bird_32_ensemble_45.jpg,I,"Anger, Fear, Happiness, Surprise",Surprise,0.3850915862677675,0.0543,1
+flappy_bird_33_ensemble_57.jpg,Ooh.,"Happiness, Surprise",Happiness,0.7308420538902283,0.3993,1
+flappy_bird_33_ensemble_96.jpg,Ooh.,"Happiness, Surprise",Surprise,0.2559307302193095,0.3993,1
+flappy_bird_34_ensemble_72.jpg,You're so dead!,"Happiness, Surprise",Happiness,0.6831737756729126,0.8629,1
+flappy_bird_34_ensemble_72.jpg,You're so dead!,"Happiness, Surprise",Surprise,0.2372797973609219,0.8629,1
+flappy_bird_35_ensemble_69.jpg,He dies!,"Happiness, Surprise",Happiness,0.7428375085194905,0.7041,1
+flappy_bird_35_ensemble_15.jpg,He dies!,"Happiness, Surprise",Surprise,0.2831644851433148,0.7041,1
+flappy_bird_43_ensemble_42.jpg,Yeah. Chicken .,"Anger, Disgust",Anger,0.2341120491425196,0.6764,2
+flappy_bird_43_ensemble_33.jpg,Yeah. Chicken .,"Anger, Disgust",Disgust,0.0681923850206658,0.6764,2
+flappy_bird_44_ensemble_51.jpg,In a rat's ass I am.,"Anger, Happiness, Surprise",Anger,0.4263642482246075,0.811,1
+flappy_bird_44_ensemble_120.jpg,In a rat's ass I am.,"Anger, Happiness, Surprise",Happiness,0.6445494690930929,0.811,1
+flappy_bird_44_ensemble_90.jpg,In a rat's ass I am.,"Anger, Happiness, Surprise",Surprise,0.2108620470630595,0.811,1
+flappy_bird_47_ensemble_75.jpg,"Oh, okay, I got one.","Happiness, Surprise",Happiness,0.3673925300439198,0.7113,3
+flappy_bird_47_ensemble_78.jpg,"Oh, okay, I got one.","Happiness, Surprise",Surprise,0.484889214237531,0.7113,3
+flappy_bird_49_ensemble_57.jpg,Yes! You got one! Don't try to make me feel good.,"Anger, Happiness, Surprise",Anger,0.3730012973149617,0.9518,0
+flappy_bird_49_ensemble_117.jpg,Yes! You got one! Don't try to make me feel good.,"Anger, Happiness, Surprise",Happiness,0.6273329655329386,0.9518,0
+flappy_bird_49_ensemble_111.jpg,Yes! You got one! Don't try to make me feel good.,"Anger, Happiness, Surprise",Surprise,0.1753791375922541,0.9518,0
+flappy_bird_51_ensemble_3.jpg,"I made it almost to the second pipe! Boom, boom, boom!",Happiness,Happiness,0.689594070116679,0.908,1
+flappy_bird_52_ensemble_258.jpg,"How long will you continue torturing me and embarrassing me?"" So people can go, God, those old people, they're terrible!",Happiness,Happiness,0.7111003200213114,0.9104,1
+flappy_bird_54_ensemble_42.jpg,I hate this! And I hate you guys!,"Anger, Happiness",Anger,0.5231598202948553,0.9039,0
+flappy_bird_54_ensemble_78.jpg,I hate this! And I hate you guys!,"Anger, Happiness",Happiness,0.5602695741089646,0.9039,0
+flappy_bird_56_ensemble_141.jpg,"Trying so hard to do something so simple and it's so difficult! You know, you wanna shoot that little bird, break that big screen up, you know?","Anger, Happiness",Anger,0.4097019783805298,0.8858,6
+flappy_bird_56_ensemble_246.jpg,"Trying so hard to do something so simple and it's so difficult! You know, you wanna shoot that little bird, break that big screen up, you know?","Anger, Happiness",Happiness,0.6650835076967875,0.8858,6
+flappy_bird_59_ensemble_45.jpg,Would you say that you like this game? You know what? I actually did.,"Happiness, Surprise",Happiness,0.5801136210772209,0.945,1
+flappy_bird_59_ensemble_54.jpg,Would you say that you like this game? You know what? I actually did.,"Happiness, Surprise",Surprise,0.3183927163481712,0.945,1
+flappy_bird_71_ensemble_45.jpg,Four pounds of in a three pound bag. That's how I describe it.,"Anger, Disgust",Anger,0.4125627867334008,0.9119,1
+flappy_bird_71_ensemble_75.jpg,Four pounds of in a three pound bag. That's how I describe it.,"Anger, Disgust",Disgust,0.091707012305657,0.9119,1
+flappy_bird_72_ensemble_84.jpg,"Well, recently this game became the number one free downloaded game on phones. Wow.",Surprise,Surprise,0.2304059086503305,0.9027,2
+flappy_bird_76_ensemble_48.jpg,"Because they don't hate the game, they hate the fact that they haven't gotten it yet.",Happiness,Happiness,0.6258128682425028,0.929,1
+flappy_bird_78_ensemble_144.jpg,but it's very frustrating because I keep playing and I keep losing. So maybe there's a comparison there.,Anger,Anger,0.5171927213668823,0.9101,2
+flappy_bird_79_ensemble_66.jpg,"In the back of your mind, you always think you're going to beat it. And that's the appeal. You know, you go, oh, I can do better than one. Oh, I can do better than two.",Happiness,Happiness,0.7480015952411634,0.9229,2
+flappy_bird_91_ensemble_165.jpg,wasn't making as much as the guys who created Google so what's he ain't nothing,Anger,Anger,0.6746838917538365,0.9027,1
+flappy_bird_94_ensemble_96.jpg,"but he had to deal with all of this hate, because people were downloading it, but they were also saying it's the worst game ever, they were being racist against him, and even death threats came because of this game. You're kidding! He's getting death threats for a game?","Happiness, Surprise",Happiness,0.3814754638229773,0.9633,1
+flappy_bird_94_ensemble_237.jpg,"but he had to deal with all of this hate, because people were downloading it, but they were also saying it's the worst game ever, they were being racist against him, and even death threats came because of this game. You're kidding! He's getting death threats for a game?","Happiness, Surprise",Surprise,0.3118453771985647,0.9633,1
+flappy_bird_98_ensemble_72.jpg,That's their own fault. They're downloading it. It's not his fault.,"Anger, Happiness, Surprise",Anger,0.2001876210172971,0.9474,0
+flappy_bird_98_ensemble_6.jpg,That's their own fault. They're downloading it. It's not his fault.,"Anger, Happiness, Surprise",Happiness,0.6020035147666931,0.9474,0
+flappy_bird_98_ensemble_21.jpg,That's their own fault. They're downloading it. It's not his fault.,"Anger, Happiness, Surprise",Surprise,0.4425299535347448,0.9474,0
+fortnite_104_ensemble_111.jpg,"Ah, !","Anger, Fear, Surprise",Anger,0.5107905467351277,0.392,2
+fortnite_104_ensemble_33.jpg,"Ah, !","Anger, Fear, Surprise",Fear,0.5340711826285484,0.392,2
+fortnite_104_ensemble_93.jpg,"Ah, !","Anger, Fear, Surprise",Surprise,0.1265488826708557,0.392,2
+fortnite_114_ensemble_48.jpg,You were the fourth person left. Really?,"Happiness, Surprise",Happiness,0.3336009006015956,0.891,0
+fortnite_114_ensemble_69.jpg,You were the fourth person left. Really?,"Happiness, Surprise",Surprise,0.92893648147583,0.891,0
+fortnite_115_ensemble_87.jpg,All right! Go team! We did it! Sorta.,Happiness,Happiness,0.3950709129373232,0.8431,1
+fortnite_117_ensemble_141.jpg,"I like the fact that as soon as I hit the ground, I got rid of an enemy, and I didn't let my team down.",Happiness,Happiness,0.383418757468462,0.9513,1
+fortnite_118_ensemble_339.jpg,"So Fortnite is consistently one of the most popular games to be played on the live streaming site Twitch. One of the streamers who plays it the most, a guy who goes by the name Ninja, reportedly makes $500,000 a month playing this game. You can make money playing this game?",Surprise,Surprise,0.0641756112936577,0.9764,0
+game_of_thrones_127_ensemble_0.jpg,"There's so much going on, it's so powerful, and some of it is so good, and some of it you're looking at, gosh, that is so dark. But there's a fascination with darkness.","Happiness, Surprise",Happiness,0.3342618607315467,0.94,0
+game_of_thrones_127_ensemble_21.jpg,"There's so much going on, it's so powerful, and some of it is so good, and some of it you're looking at, gosh, that is so dark. But there's a fascination with darkness.","Happiness, Surprise",Surprise,0.2781919154028098,0.94,0
+game_of_thrones_135_ensemble_75.jpg,Life's too short. I'll give up something else so I can watch this.,Happiness,Happiness,0.4899186789989471,0.951,0
+game_of_thrones_136_ensemble_141.jpg,"I will now be obsessed and a freak, you know? I... Thank you so much, Dallin!","Anger, Disgust",Anger,0.3983971327543258,0.9014,2
+game_of_thrones_136_ensemble_78.jpg,"I will now be obsessed and a freak, you know? I... Thank you so much, Dallin!","Anger, Disgust",Disgust,0.1859309777307013,0.9014,2
+game_of_thrones_16_ensemble_192.jpg,"It looks like just, I love that kind of stuff. And what I've seen of it and what I've watched on the internet, it's just wonderful.",Happiness,Happiness,0.5957176685333252,0.9171,1
+game_of_thrones_29_ensemble_42.jpg,Even the music is good.,"Happiness, Surprise",Happiness,0.3186425752878749,0.9426,0
+game_of_thrones_29_ensemble_24.jpg,Even the music is good.,"Happiness, Surprise",Surprise,0.1986094553676593,0.9426,0
+game_of_thrones_85_ensemble_129.jpg,"So a revenge killing, again, killing, killing, killing, killing.","Anger, Disgust, Sadness",Anger,0.5152344902356465,0.8264,2
+game_of_thrones_85_ensemble_60.jpg,"So a revenge killing, again, killing, killing, killing, killing.","Anger, Disgust, Sadness",Disgust,0.0969967270118348,0.8264,2
+game_of_thrones_85_ensemble_135.jpg,"So a revenge killing, again, killing, killing, killing, killing.","Anger, Disgust, Sadness",Sadness,0.3885635519487317,0.8264,2
+godofwar_10_ensemble_54.jpg,"Hey, hey now!","Anger, Disgust, Fear, Surprise",Anger,0.2046213092986213,0.7122,2
+godofwar_10_ensemble_69.jpg,"Hey, hey now!","Anger, Disgust, Fear, Surprise",Disgust,0.0665129376675158,0.7122,2
+godofwar_10_ensemble_60.jpg,"Hey, hey now!","Anger, Disgust, Fear, Surprise",Fear,0.4842327634493509,0.7122,2
+godofwar_10_ensemble_150.jpg,"Hey, hey now!","Anger, Disgust, Fear, Surprise",Surprise,0.5027757664533044,0.7122,2
+godofwar_108_ensemble_63.jpg,Up and up and and and over.,Happiness,Happiness,0.6556784113248189,0.7912,3
+godofwar_119_ensemble_63.jpg,That's the magic! That's pretty cool. Get it in that guy's head there.,"Happiness, Surprise",Happiness,0.621906820963971,0.8715,1
+godofwar_119_ensemble_141.jpg,That's the magic! That's pretty cool. Get it in that guy's head there.,"Happiness, Surprise",Surprise,0.381364246246036,0.8715,1
+godofwar_123_ensemble_90.jpg,"Oh my god. Oh, oh.","Disgust, Happiness, Surprise",Disgust,0.2001191731542349,0.6994,3
+godofwar_123_ensemble_78.jpg,"Oh my god. Oh, oh.","Disgust, Happiness, Surprise",Happiness,0.6206162373224894,0.6994,3
+godofwar_123_ensemble_90.jpg,"Oh my god. Oh, oh.","Disgust, Happiness, Surprise",Surprise,0.1993211357233424,0.6994,3
+godofwar_2_ensemble_132.jpg,"In this one, Zeus' son, the former god of war, is continuing his mission to open Pandora's box and end the reign of the Olympian gods. Does he know what's in Pandora's box?","Happiness, Surprise",Happiness,0.6603115857066505,0.9149,3
+godofwar_2_ensemble_246.jpg,"In this one, Zeus' son, the former god of war, is continuing his mission to open Pandora's box and end the reign of the Olympian gods. Does he know what's in Pandora's box?","Happiness, Surprise",Surprise,0.3970861768380573,0.9149,3
+godofwar_3_ensemble_138.jpg,"because it does teach a little bit of history along with, you know, having the fun of playing the game.",Happiness,Happiness,0.5449273586415444,0.9247,1
+godofwar_34_ensemble_66.jpg,"You can do it! Come on! With all your might, shove it!",Happiness,Happiness,0.3702612798060743,0.9387,0
+godofwar_37_ensemble_72.jpg,Ah! Where did that guy come from? What is this?,"Fear, Happiness, Surprise",Fear,0.4879523837007582,0.9175,1
+godofwar_37_ensemble_27.jpg,Ah! Where did that guy come from? What is this?,"Fear, Happiness, Surprise",Happiness,0.6378026206165093,0.9175,1
+godofwar_37_ensemble_30.jpg,Ah! Where did that guy come from? What is this?,"Fear, Happiness, Surprise",Surprise,0.210613013298156,0.9175,1
+godofwar_44_ensemble_102.jpg,"Yeah, that's it. Kick his butt. Watch out!",Happiness,Happiness,0.6604657769203186,0.8198,1
+godofwar_47_ensemble_273.jpg,"I could just get him in the teeth. Yeah, yeah, yeah, I got blood. You go for it. Here, try that. This is amazing.","Happiness, Surprise",Happiness,0.7356230020523071,0.879,2
+godofwar_47_ensemble_192.jpg,"I could just get him in the teeth. Yeah, yeah, yeah, I got blood. You go for it. Here, try that. This is amazing.","Happiness, Surprise",Surprise,0.3113280435403188,0.879,2
+godofwar_50_ensemble_186.jpg,"He can get out of the way. Yeah, yeah, the other way. Okay, now. Boy, he's got one big bad breath. I think you are dead.","Anger, Happiness",Anger,0.2823232617229223,0.902,2
+godofwar_50_ensemble_297.jpg,"He can get out of the way. Yeah, yeah, the other way. Okay, now. Boy, he's got one big bad breath. I think you are dead.","Anger, Happiness",Happiness,0.6930372317632039,0.902,2
+godofwar_52_ensemble_216.jpg,to get close to. Now press circle. Press who? Circle. Circle.,Happiness,Happiness,0.4506483501619156,0.8857,1
+godofwar_54_ensemble_102.jpg,"Oh, you missed the square.",Fear,Fear,0.4343781918287276,0.8365,1
+godofwar_60_ensemble_48.jpg,"Oh, he's bleeding. Ha-ha! I like your blood. I'll eat your blood.","Happiness, Surprise",Happiness,0.3679361268877983,0.8874,1
+godofwar_60_ensemble_9.jpg,"Oh, he's bleeding. Ha-ha! I like your blood. I'll eat your blood.","Happiness, Surprise",Surprise,0.3434263893161509,0.8874,1
+godofwar_67_ensemble_39.jpg,R1. Open chest. Open. Open chest. Open. Assessment.,Anger,Anger,0.3124775354899107,0.8741,2
+godofwar_68_ensemble_12.jpg,Uh-oh.,"Sadness, Surprise",Sadness,0.751762847105662,0.6969,1
+godofwar_68_ensemble_39.jpg,Uh-oh.,"Sadness, Surprise",Surprise,0.408856162564281,0.6969,1
+godofwar_71_ensemble_129.jpg,"Okay, this is good. Oh, hey, it's really helpful when they're... Uh-oh, big boy's coming. Let's keep traversing.","Happiness, Surprise",Happiness,0.3598996267038197,0.912,1
+godofwar_71_ensemble_87.jpg,"Okay, this is good. Oh, hey, it's really helpful when they're... Uh-oh, big boy's coming. Let's keep traversing.","Happiness, Surprise",Surprise,0.6654025021318924,0.912,1
+godofwar_72_ensemble_75.jpg,"No, it's not that guy back again, is it?","Anger, Fear, Happiness, Sadness, Surprise",Anger,0.1522807921571951,0.9603,0
+godofwar_72_ensemble_12.jpg,"No, it's not that guy back again, is it?","Anger, Fear, Happiness, Sadness, Surprise",Fear,0.3979978807118289,0.9603,0
+godofwar_72_ensemble_45.jpg,"No, it's not that guy back again, is it?","Anger, Fear, Happiness, Sadness, Surprise",Happiness,0.5983673096883819,0.9603,0
+godofwar_72_ensemble_105.jpg,"No, it's not that guy back again, is it?","Anger, Fear, Happiness, Sadness, Surprise",Sadness,0.6717018087704976,0.9603,0
+godofwar_72_ensemble_6.jpg,"No, it's not that guy back again, is it?","Anger, Fear, Happiness, Sadness, Surprise",Surprise,0.5419540620447757,0.9603,0
+godofwar_74_ensemble_126.jpg,I'm on a ledge. How could you be so inconsiderate?,"Anger, Surprise",Anger,0.2111860808453525,0.9575,0
+godofwar_74_ensemble_6.jpg,I'm on a ledge. How could you be so inconsiderate?,"Anger, Surprise",Surprise,0.4067713735639359,0.9575,0
+godofwar_79_ensemble_27.jpg,and you meet Mr. Big Ugly again.,Happiness,Happiness,0.3535799116458898,0.8604,1
+godofwar_80_ensemble_12.jpg,"Oh, this is so big. Oh, oh, oh. Help me. Oh, no.","Anger, Fear, Surprise",Anger,0.1564462641836144,0.8346,2
+godofwar_80_ensemble_3.jpg,"Oh, this is so big. Oh, oh, oh. Help me. Oh, no.","Anger, Fear, Surprise",Fear,0.4299150618661209,0.8346,2
+godofwar_80_ensemble_96.jpg,"Oh, this is so big. Oh, oh, oh. Help me. Oh, no.","Anger, Fear, Surprise",Surprise,0.5260614057381947,0.8346,2
+godofwar_82_ensemble_12.jpg,"Glide, baby, glide, glide. Oh, no.","Happiness, Sadness, Surprise",Happiness,0.5684137145678202,0.815,1
+godofwar_82_ensemble_84.jpg,"Glide, baby, glide, glide. Oh, no.","Happiness, Sadness, Surprise",Sadness,0.5185690224995435,0.815,1
+godofwar_82_ensemble_6.jpg,"Glide, baby, glide, glide. Oh, no.","Happiness, Sadness, Surprise",Surprise,0.2770970066388448,0.815,1
+godofwar_87_ensemble_18.jpg,Am I going in the temple? Or whatever this is?,Happiness,Happiness,0.3525428337355454,0.8808,1
+godofwar_94_ensemble_54.jpg,"No, no, his head.","Anger, Happiness",Anger,0.3747062813490629,0.9032,0
+godofwar_94_ensemble_75.jpg,"No, no, his head.","Anger, Happiness",Happiness,0.6229771971702576,0.9032,0
+godofwar_96_ensemble_45.jpg,tummy get him in the tummy slice his tummy open,Neutral,Neutral,0.3541759469856818,0.7957,3
+godofwar_99_ensemble_6.jpg,"Jump, jump, jump, jump, jump. Ooh, circle, circle. You think you scare me? Is that all you've got?","Happiness, Surprise",Happiness,0.4030000847560259,0.8677,2
+godofwar_99_ensemble_0.jpg,"Jump, jump, jump, jump, jump. Ooh, circle, circle. You think you scare me? Is that all you've got?","Happiness, Surprise",Surprise,0.5311915717708567,0.8677,2
+granday_20_ensemble_66.jpg,"I like that. If that's a kid's cartoon show, that's my kind of show.",Happiness,Happiness,0.8001624345779419,0.9507,0
+granday_22_ensemble_54.jpg,"Oh, that's funny.",Happiness,Happiness,0.8554835319519043,0.8903,1
+granday_27_ensemble_39.jpg,Exactly.,"Happiness, Surprise",Happiness,0.5723791420459747,0.6674,1
+granday_27_ensemble_72.jpg,Exactly.,"Happiness, Surprise",Surprise,0.4447699698740409,0.6674,1
+granday_29_ensemble_102.jpg,That was great! I love that.,Happiness,Happiness,0.5623177289962769,0.8622,0
+granday_31_ensemble_6.jpg,They're actually really good dancers.,"Happiness, Surprise",Happiness,0.638885756333669,0.8279,1
+granday_31_ensemble_48.jpg,They're actually really good dancers.,"Happiness, Surprise",Surprise,0.4503385666757821,0.8279,1
+granday_32_ensemble_66.jpg,"Oh, that's, I like that.","Happiness, Surprise",Happiness,0.6006245012243334,0.8413,1
+granday_32_ensemble_48.jpg,"Oh, that's, I like that.","Happiness, Surprise",Surprise,0.2465338523052156,0.8413,1
+granday_34_ensemble_63.jpg,"You're going, oh my God, that's great. I can't even tell what he's doing.","Anger, Disgust",Anger,0.3283109973415906,0.8883,1
+granday_34_ensemble_57.jpg,"You're going, oh my God, that's great. I can't even tell what he's doing.","Anger, Disgust",Disgust,0.0358956383436233,0.8883,1
+granday_36_ensemble_132.jpg,Yes. It's a yes from me. Of course it's not from Simon.,Happiness,Happiness,0.6754586100412148,0.9011,1
+granday_39_ensemble_45.jpg,by the name of Granday. Oh. Oh. There's a meme lord? There's such a thing?,"Happiness, Surprise",Happiness,0.3525331529478231,0.9043,2
+granday_39_ensemble_57.jpg,by the name of Granday. Oh. Oh. There's a meme lord? There's such a thing?,"Happiness, Surprise",Surprise,0.3102754548792436,0.9043,2
+granday_45_ensemble_57.jpg,What are your thoughts on how there are people whose life revolves around finding these trends and then making these types of edits with them? It's their lives.,Neutral,Neutral,0.4613980005184809,0.9478,1
+granday_46_ensemble_84.jpg,"somehow making a lot of money off of this, I don't see the point.",Disgust,Disgust,0.0425733225521001,0.9426,1
+granday_55_ensemble_147.jpg,"my daughter decided to do if she's in grad school now, she wants to be an actor. So you have to be happy. You can't have someone live your life",Happiness,Happiness,0.4315880810221036,0.9094,3
+granday_57_ensemble_45.jpg,"but to me, it'd be like, that's what you do? Get out there and be a doctor. We need good doctors. We have a shortage right now. We don't need any more damn memes.","Anger, Disgust",Anger,0.1188227388992387,0.9569,1
+granday_57_ensemble_45.jpg,"but to me, it'd be like, that's what you do? Get out there and be a doctor. We need good doctors. We have a shortage right now. We don't need any more damn memes.","Anger, Disgust",Disgust,0.0687037168093363,0.9569,1
+gta1_0_ensemble_99.jpg,"That's me? Whoa, he is kind of good looking.",Happiness,Happiness,0.6573289357035401,0.9039,1
+gta1_13_ensemble_66.jpg,"Stop, stop, stop. Okay. Why did you stop? Because it's a stop sign.",Fear,Fear,0.3589461252240145,0.9216,1
+gta1_16_ensemble_102.jpg,Can you feel a car? That's really nice.,"Disgust, Happiness, Surprise",Disgust,0.3371445001297009,0.6754,4
+gta1_16_ensemble_108.jpg,Can you feel a car? That's really nice.,"Disgust, Happiness, Surprise",Happiness,0.7503192226092019,0.6754,4
+gta1_16_ensemble_57.jpg,Can you feel a car? That's really nice.,"Disgust, Happiness, Surprise",Surprise,0.5506120741929986,0.6754,4
+gta1_17_ensemble_198.jpg,"Now look me. Hey, there it is. Hey! I'm gonna be using your car. Yeah, I am! Who the man? Let's break these feet out of here. Oop, wrong way. Ah! We're out of here!","Happiness, Surprise",Happiness,0.7432827154918442,0.8655,5
+gta1_17_ensemble_78.jpg,"Now look me. Hey, there it is. Hey! I'm gonna be using your car. Yeah, I am! Who the man? Let's break these feet out of here. Oop, wrong way. Ah! We're out of here!","Happiness, Surprise",Surprise,0.3901130478520789,0.8655,5
+gta1_19_ensemble_57.jpg,Is that you on my sidewalk? I'm sorry.,"Happiness, Surprise",Happiness,0.5640814105669657,0.85,1
+gta1_19_ensemble_21.jpg,Is that you on my sidewalk? I'm sorry.,"Happiness, Surprise",Surprise,0.1980911022656073,0.85,1
+gta1_20_ensemble_15.jpg,"I'm down at Santa Monica. Oh my god, that even looks like the real sign down at the pier. I think I want to go on the roller coaster.","Happiness, Surprise",Happiness,0.6271689751265912,0.9335,2
+gta1_20_ensemble_78.jpg,"I'm down at Santa Monica. Oh my god, that even looks like the real sign down at the pier. I think I want to go on the roller coaster.","Happiness, Surprise",Surprise,0.4082417268849288,0.9335,2
+gta1_21_ensemble_411.jpg,"Wow! Oh, look at that! That is so cool! The thing vibrates! Oh, that was cool!","Happiness, Surprise",Happiness,0.839297890663147,0.88,2
+gta1_21_ensemble_231.jpg,"Wow! Oh, look at that! That is so cool! The thing vibrates! Oh, that was cool!","Happiness, Surprise",Surprise,0.4696399830281734,0.88,2
+gta1_22_ensemble_366.jpg,"Come on. The is wrong with me. Oh, jeez. That's expressive language. Hard, hard. Right to her. Over! Hey, you can play. No, don't get upset. No, you're out of shape.","Anger, Disgust, Happiness, Surprise",Anger,0.3716727550029235,0.8862,3
+gta1_22_ensemble_399.jpg,"Come on. The is wrong with me. Oh, jeez. That's expressive language. Hard, hard. Right to her. Over! Hey, you can play. No, don't get upset. No, you're out of shape.","Anger, Disgust, Happiness, Surprise",Disgust,0.3267105224071778,0.8862,3
+gta1_22_ensemble_330.jpg,"Come on. The is wrong with me. Oh, jeez. That's expressive language. Hard, hard. Right to her. Over! Hey, you can play. No, don't get upset. No, you're out of shape.","Anger, Disgust, Happiness, Surprise",Happiness,0.7483164667115418,0.8862,3
+gta1_22_ensemble_411.jpg,"Come on. The is wrong with me. Oh, jeez. That's expressive language. Hard, hard. Right to her. Over! Hey, you can play. No, don't get upset. No, you're out of shape.","Anger, Disgust, Happiness, Surprise",Surprise,0.2827813460802038,0.8862,3
+gta1_23_ensemble_3.jpg,"They're gonna cancel my insurance, for God's sakes. What do I do? Oh, no. Pistol. Uh-oh.",Surprise,Surprise,0.124114137440524,0.8908,1
+gta1_25_ensemble_21.jpg,"Baby! Hey, AR-15. I'm looking for trouble.",Happiness,Happiness,0.5189935341725628,0.8149,1
+gta1_28_ensemble_207.jpg,Where's the person?,Happiness,Happiness,0.5704819957415262,0.7821,1
+gta1_34_ensemble_81.jpg,I hit a woman for the first time in my life and I'm having fun.,"Happiness, Surprise",Happiness,0.6147706906000774,0.9662,0
+gta1_34_ensemble_72.jpg,I hit a woman for the first time in my life and I'm having fun.,"Happiness, Surprise",Surprise,0.2996261412430954,0.9662,0
+gta1_37_ensemble_321.jpg,"You'll never take me alive! Here, turn around, turn around, turn around! Oh, I'm... wasted.","Happiness, Surprise",Happiness,0.6525106231371561,0.8633,2
+gta1_37_ensemble_327.jpg,"You'll never take me alive! Here, turn around, turn around, turn around! Oh, I'm... wasted.","Happiness, Surprise",Surprise,0.307725796320786,0.8633,2
+gta1_39_ensemble_12.jpg,"I'm trying to get away from the cops. Too late. You can't get away from the cops. There's no fun in life anymore, like in the old days when there wasn't DNA and .",Anger,Anger,0.3536507072093495,0.9597,1
+gta1_40_ensemble_168.jpg,"Captain, you got caught!","Anger, Sadness",Anger,0.2192886900468297,0.797,1
+gta1_40_ensemble_156.jpg,"Captain, you got caught!","Anger, Sadness",Sadness,0.6751697262128857,0.797,1
+gta1_45_ensemble_201.jpg,"People, everybody, I can't stand them anymore! Don, the cops are coming! Who gives a about the about the cops?","Anger, Disgust, Sadness",Anger,0.4361407061417897,0.8729,2
+gta1_45_ensemble_51.jpg,"People, everybody, I can't stand them anymore! Don, the cops are coming! Who gives a about the about the cops?","Anger, Disgust, Sadness",Disgust,0.07946920768923,0.8729,2
+gta1_45_ensemble_9.jpg,"People, everybody, I can't stand them anymore! Don, the cops are coming! Who gives a about the about the cops?","Anger, Disgust, Sadness",Sadness,0.4353144516547521,0.8729,2
+gta1_46_ensemble_153.jpg,"Oh yeah, wise guy? Oh, I got hit. Twice. Oh, God. Damn it, get out.",Anger,Anger,0.5411179264383332,0.73,8
+gta1_7_ensemble_216.jpg,Nope. Come on. Come on. Reach for it. Let's see what these things do. Ah-ha!,"Happiness, Surprise",Happiness,0.4847986238698164,0.8837,2
+gta1_7_ensemble_210.jpg,Nope. Come on. Come on. Reach for it. Let's see what these things do. Ah-ha!,"Happiness, Surprise",Surprise,0.1610548841611792,0.8837,2
+gta2_11_ensemble_105.jpg,"Oh, we're going to the strip club!",Happiness,Happiness,0.6245674093564351,0.9353,1
+gta2_19_ensemble_267.jpg,"accept a dance or turn her down. Okay, well, never mind. Oh, please. I was gonna grind you good. That's one way to get your exercise.","Happiness, Surprise",Happiness,0.5762001819387268,0.8592,5
+gta2_19_ensemble_249.jpg,"accept a dance or turn her down. Okay, well, never mind. Oh, please. I was gonna grind you good. That's one way to get your exercise.","Happiness, Surprise",Surprise,0.4077535653968191,0.8592,5
+gta2_20_ensemble_213.jpg,"over here, baby! Oh, that's what's up! Okay, okay. That's enough for me. I don't really want to be in a strip club. Never have been and never will be.","Anger, Disgust, Surprise",Anger,0.1911872350589777,0.8732,6
+gta2_20_ensemble_132.jpg,"over here, baby! Oh, that's what's up! Okay, okay. That's enough for me. I don't really want to be in a strip club. Never have been and never will be.","Anger, Disgust, Surprise",Disgust,0.1046536202371547,0.8732,6
+gta2_20_ensemble_225.jpg,"over here, baby! Oh, that's what's up! Okay, okay. That's enough for me. I don't really want to be in a strip club. Never have been and never will be.","Anger, Disgust, Surprise",Surprise,0.4310195616756876,0.8732,6
+gta2_23_ensemble_66.jpg,"Come on, follow my sweet ass. Oh, oh.","Happiness, Surprise",Happiness,0.0473037195732714,0.7697,2
+gta2_23_ensemble_123.jpg,"Come on, follow my sweet ass. Oh, oh.","Happiness, Surprise",Surprise,0.1449494668559433,0.7697,2
+gta2_26_ensemble_21.jpg,"Oh my, oh my god. Can you give me five minutes alone?","Disgust, Fear, Surprise",Disgust,0.264655448118381,0.8531,3
+gta2_26_ensemble_42.jpg,"Oh my, oh my god. Can you give me five minutes alone?","Disgust, Fear, Surprise",Fear,0.6840281089146931,0.8531,3
+gta2_26_ensemble_162.jpg,"Oh my, oh my god. Can you give me five minutes alone?","Disgust, Fear, Surprise",Surprise,0.2279510491838057,0.8531,3
+gta2_29_ensemble_165.jpg,Hold R2 to touch? Mmm... I feel all sweaty. You do?,Surprise,Surprise,0.0879231789796581,0.8569,2
+gta2_33_ensemble_102.jpg,"It's like really seedy Venice, bad part of town we're in.","Fear, Happiness",Fear,0.454181610237488,0.8741,2
+gta2_33_ensemble_42.jpg,"It's like really seedy Venice, bad part of town we're in.","Fear, Happiness",Happiness,0.479714016116656,0.8741,2
+gta2_39_ensemble_63.jpg,It's a marijuana shot.,"Disgust, Happiness, Surprise",Disgust,0.3714141060287754,0.9504,0
+gta2_39_ensemble_114.jpg,It's a marijuana shot.,"Disgust, Happiness, Surprise",Happiness,0.6980534195899963,0.9504,0
+gta2_39_ensemble_156.jpg,It's a marijuana shot.,"Disgust, Happiness, Surprise",Surprise,0.3984404848074209,0.9504,0
+gta2_41_ensemble_111.jpg,It's gonna be a nice weekend. Muscle Beach. The muscle people.,Neutral,Neutral,0.4672522244707974,0.8666,2
+gta2_43_ensemble_42.jpg,"Oh my God. Well, okay, a powerful woman, that's not a bad thing.","Anger, Disgust, Happiness, Surprise",Anger,0.3473415952951958,0.8789,2
+gta2_43_ensemble_78.jpg,"Oh my God. Well, okay, a powerful woman, that's not a bad thing.","Anger, Disgust, Happiness, Surprise",Disgust,0.2071596547554808,0.8789,2
+gta2_43_ensemble_48.jpg,"Oh my God. Well, okay, a powerful woman, that's not a bad thing.","Anger, Disgust, Happiness, Surprise",Happiness,0.7783945004145304,0.8789,2
+gta2_43_ensemble_111.jpg,"Oh my God. Well, okay, a powerful woman, that's not a bad thing.","Anger, Disgust, Happiness, Surprise",Surprise,0.3993602075303594,0.8789,2
+gta2_44_ensemble_15.jpg,Don't screw with the man.,Surprise,Surprise,0.1378701091035315,0.8662,1
+gta2_51_ensemble_105.jpg,"Oh my God, what is he doing? He's shooting instead of flying? No, no, come on. What is going to make him fly?","Anger, Disgust, Fear, Surprise",Anger,0.4192111045122146,0.9337,2
+gta2_51_ensemble_30.jpg,"Oh my God, what is he doing? He's shooting instead of flying? No, no, come on. What is going to make him fly?","Anger, Disgust, Fear, Surprise",Disgust,0.3713044043009479,0.9337,2
+gta2_51_ensemble_15.jpg,"Oh my God, what is he doing? He's shooting instead of flying? No, no, come on. What is going to make him fly?","Anger, Disgust, Fear, Surprise",Fear,0.471457432367817,0.9337,2
+gta2_51_ensemble_201.jpg,"Oh my God, what is he doing? He's shooting instead of flying? No, no, come on. What is going to make him fly?","Anger, Disgust, Fear, Surprise",Surprise,0.3859650973851482,0.9337,2
+gta2_52_ensemble_42.jpg,"No, no, no, no. Come on. Oh, my God.","Anger, Happiness, Surprise",Anger,0.331955375913217,0.9389,0
+gta2_52_ensemble_129.jpg,"No, no, no, no. Come on. Oh, my God.","Anger, Happiness, Surprise",Happiness,0.6484909013212619,0.9389,0
+gta2_52_ensemble_45.jpg,"No, no, no, no. Come on. Oh, my God.","Anger, Happiness, Surprise",Surprise,0.3840873322139183,0.9389,0
+gta2_53_ensemble_72.jpg,"Okay, what will make him fly? You need to hold the right trigger. Now he's dead.","Anger, Sadness",Anger,0.3669038563966751,0.9702,0
+gta2_53_ensemble_93.jpg,"Okay, what will make him fly? You need to hold the right trigger. Now he's dead.","Anger, Sadness",Sadness,0.4501010179519653,0.9702,0
+gta2_54_ensemble_12.jpg,"Oh, my gosh! Oh, my gosh! This is so cool!","Fear, Happiness, Surprise",Fear,0.4029655009508132,0.9375,0
+gta2_54_ensemble_75.jpg,"Oh, my gosh! Oh, my gosh! This is so cool!","Fear, Happiness, Surprise",Happiness,0.5946306983629862,0.9375,0
+gta2_54_ensemble_57.jpg,"Oh, my gosh! Oh, my gosh! This is so cool!","Fear, Happiness, Surprise",Surprise,0.8802151479185718,0.9375,0
+gta2_55_ensemble_48.jpg,"Oh, . Ah!","Fear, Surprise",Fear,0.4764247752415637,0.692,1
+gta2_55_ensemble_129.jpg,"Oh, . Ah!","Fear, Surprise",Surprise,0.1256867932776879,0.692,1
+gta2_59_ensemble_381.jpg,"Uh-oh. The helicopter's damaged. Piece of . That's right. Take no respon... Ooh, ooh, ooh, ooh. Ooh! That's what happens when you steal helicopters.","Anger, Disgust, Happiness",Anger,0.3616413438872936,0.8982,4
+gta2_59_ensemble_234.jpg,"Uh-oh. The helicopter's damaged. Piece of . That's right. Take no respon... Ooh, ooh, ooh, ooh. Ooh! That's what happens when you steal helicopters.","Anger, Disgust, Happiness",Disgust,0.0633298877316216,0.8982,4
+gta2_59_ensemble_369.jpg,"Uh-oh. The helicopter's damaged. Piece of . That's right. Take no respon... Ooh, ooh, ooh, ooh. Ooh! That's what happens when you steal helicopters.","Anger, Disgust, Happiness",Happiness,0.6812614798545837,0.8982,4
+gta2_60_ensemble_72.jpg,"Look at me, I'm flying, I'm flying.","Happiness, Surprise",Happiness,0.7568141617383546,0.8312,1
+gta2_60_ensemble_126.jpg,"Look at me, I'm flying, I'm flying.","Happiness, Surprise",Surprise,0.2891962085297835,0.8312,1
+gta2_61_ensemble_84.jpg,Ooooooh!,"Happiness, Surprise",Happiness,0.6747222143257402,0.3319,1
+gta2_61_ensemble_63.jpg,Ooooooh!,"Happiness, Surprise",Surprise,0.7540011207262675,0.3319,1
+gta2_66_ensemble_96.jpg,a lot of fun today. More fun than I did the last,Happiness,Happiness,0.3286150382700725,0.941,1
+gta2_72_ensemble_6.jpg,I had some more. I'm gonna stay here and play and you guys can go.,Happiness,Happiness,0.6150477131207783,0.9157,3
+happy_wheels_16_ensemble_12.jpg,"I got the baby on the back. I'm gonna lose that kid, I know.","Fear, Happiness",Fear,0.3596229039729029,0.8391,2
+happy_wheels_16_ensemble_90.jpg,"I got the baby on the back. I'm gonna lose that kid, I know.","Fear, Happiness",Happiness,0.8802708381446996,0.8391,2
+happy_wheels_19_ensemble_168.jpg,I don't get what it's supposed to do. Oh god! Oh! Oh my god!,"Disgust, Fear, Surprise",Disgust,0.1203859010711312,0.8764,3
+happy_wheels_19_ensemble_174.jpg,I don't get what it's supposed to do. Oh god! Oh! Oh my god!,"Disgust, Fear, Surprise",Fear,0.3301736709612951,0.8764,3
+happy_wheels_19_ensemble_138.jpg,I don't get what it's supposed to do. Oh god! Oh! Oh my god!,"Disgust, Fear, Surprise",Surprise,0.3079739689152726,0.8764,3
+happy_wheels_26_ensemble_177.jpg,"Oh, I'm still alive! Oh! Is that signal death?","Anger, Happiness, Surprise",Anger,0.3774568516589056,0.8536,1
+happy_wheels_26_ensemble_210.jpg,"Oh, I'm still alive! Oh! Is that signal death?","Anger, Happiness, Surprise",Happiness,0.66253856817582,0.8536,1
+happy_wheels_26_ensemble_141.jpg,"Oh, I'm still alive! Oh! Is that signal death?","Anger, Happiness, Surprise",Surprise,0.4611424015214045,0.8536,1
+happy_wheels_33_ensemble_78.jpg,"Oh, God. Oh, my God.","Happiness, Surprise",Happiness,0.6672289172808329,0.8399,1
+happy_wheels_33_ensemble_72.jpg,"Oh, God. Oh, my God.","Happiness, Surprise",Surprise,0.582840066192734,0.8399,1
+happy_wheels_34_ensemble_183.jpg,I know I killed the guy. Can't I just kill him without it being so graphic? Or does that mean that it's not as much fun?,"Anger, Disgust",Anger,0.3801887249493134,0.9458,1
+happy_wheels_34_ensemble_129.jpg,I know I killed the guy. Can't I just kill him without it being so graphic? Or does that mean that it's not as much fun?,"Anger, Disgust",Disgust,0.0445546639959609,0.9458,1
+happy_wheels_42_ensemble_66.jpg,"Who are you? Oh, my goodness.",Happiness,Happiness,0.4677503804365793,0.7362,3
+happy_wheels_44_ensemble_66.jpg,Heh.,Happiness,Happiness,0.672897458076477,0.6597,1
+happy_wheels_51_ensemble_33.jpg,"Why did that happen? Oh, stop the poor guy!","Anger, Fear, Sadness, Surprise",Anger,0.0833902996323709,0.8803,0
+happy_wheels_51_ensemble_63.jpg,"Why did that happen? Oh, stop the poor guy!","Anger, Fear, Sadness, Surprise",Fear,0.3446736900756756,0.8803,0
+happy_wheels_51_ensemble_27.jpg,"Why did that happen? Oh, stop the poor guy!","Anger, Fear, Sadness, Surprise",Sadness,0.6161899322983517,0.8803,0
+happy_wheels_51_ensemble_18.jpg,"Why did that happen? Oh, stop the poor guy!","Anger, Fear, Sadness, Surprise",Surprise,0.4724280905549752,0.8803,0
+happy_wheels_54_ensemble_81.jpg,"See, I'm cautious. Oh, jeez! What the hell was that? Oh, a wrecking ball. That's nice.","Anger, Happiness, Sadness, Surprise",Anger,0.2983534619365112,0.9503,0
+happy_wheels_54_ensemble_99.jpg,"See, I'm cautious. Oh, jeez! What the hell was that? Oh, a wrecking ball. That's nice.","Anger, Happiness, Sadness, Surprise",Happiness,0.5624633431434631,0.9503,0
+happy_wheels_54_ensemble_57.jpg,"See, I'm cautious. Oh, jeez! What the hell was that? Oh, a wrecking ball. That's nice.","Anger, Happiness, Sadness, Surprise",Sadness,0.6320483480089543,0.9503,0
+happy_wheels_54_ensemble_174.jpg,"See, I'm cautious. Oh, jeez! What the hell was that? Oh, a wrecking ball. That's nice.","Anger, Happiness, Sadness, Surprise",Surprise,0.494513471921285,0.9503,0
+happy_wheels_63_ensemble_63.jpg,Quite graphic. Horrible.,"Sadness, Surprise",Sadness,0.4194282839695612,0.6608,1
+happy_wheels_63_ensemble_42.jpg,Quite graphic. Horrible.,"Sadness, Surprise",Surprise,0.0785872392819521,0.6608,1
+happy_wheels_64_ensemble_93.jpg,"Why isn't this child in a helmet? No, seriously. This child should be in a helmet.","Anger, Disgust",Anger,0.383052871725912,0.976,0
+happy_wheels_64_ensemble_15.jpg,"Why isn't this child in a helmet? No, seriously. This child should be in a helmet.","Anger, Disgust",Disgust,0.0504832121978335,0.976,0
+happy_wheels_65_ensemble_447.jpg,"Hmm. Wait a minute. What just happened? Well, to hell with the child. Dump the kid. Let's go. Oh. This is worse. Oh, this is worse.","Anger, Disgust, Happiness, Surprise",Anger,0.400610660513242,0.9124,3
+happy_wheels_65_ensemble_555.jpg,"Hmm. Wait a minute. What just happened? Well, to hell with the child. Dump the kid. Let's go. Oh. This is worse. Oh, this is worse.","Anger, Disgust, Happiness, Surprise",Disgust,0.0564186375142459,0.9124,3
+happy_wheels_65_ensemble_378.jpg,"Hmm. Wait a minute. What just happened? Well, to hell with the child. Dump the kid. Let's go. Oh. This is worse. Oh, this is worse.","Anger, Disgust, Happiness, Surprise",Happiness,0.7146241863568623,0.9124,3
+happy_wheels_65_ensemble_462.jpg,"Hmm. Wait a minute. What just happened? Well, to hell with the child. Dump the kid. Let's go. Oh. This is worse. Oh, this is worse.","Anger, Disgust, Happiness, Surprise",Surprise,0.5899692177772522,0.9124,3
+happy_wheels_78_ensemble_96.jpg,"You are dead! No , my brain's flying.","Anger, Disgust, Happiness, Surprise",Anger,0.1771342762901137,0.8584,1
+happy_wheels_78_ensemble_60.jpg,"You are dead! No , my brain's flying.","Anger, Disgust, Happiness, Surprise",Disgust,0.0699100089841644,0.8584,1
+happy_wheels_78_ensemble_48.jpg,"You are dead! No , my brain's flying.","Anger, Disgust, Happiness, Surprise",Happiness,0.6716702579869178,0.8584,1
+happy_wheels_78_ensemble_102.jpg,"You are dead! No , my brain's flying.","Anger, Disgust, Happiness, Surprise",Surprise,0.4994919481782446,0.8584,1
+happy_wheels_83_ensemble_117.jpg,Ha ha ha! Dropped him like a bad habit.,Happiness,Happiness,0.6481809217990637,0.8713,2
+happy_wheels_91_ensemble_156.jpg,Somebody's gonna pop out. Somebody's gonna pop out.,"Fear, Happiness, Surprise",Fear,0.3879054758198234,0.8942,1
+happy_wheels_91_ensemble_165.jpg,Somebody's gonna pop out. Somebody's gonna pop out.,"Fear, Happiness, Surprise",Happiness,0.4651206930478413,0.8942,1
+happy_wheels_91_ensemble_159.jpg,Somebody's gonna pop out. Somebody's gonna pop out.,"Fear, Happiness, Surprise",Surprise,0.5450844935348216,0.8942,1
+happy_wheels_95_ensemble_84.jpg,"Uh-huh. Yeah, I'm getting wise to this thing. I'm really getting good.","Happiness, Surprise",Happiness,0.6054346362749736,0.969,0
+happy_wheels_95_ensemble_51.jpg,"Uh-huh. Yeah, I'm getting wise to this thing. I'm really getting good.","Happiness, Surprise",Surprise,0.461515853802363,0.969,0
+happy_wheels_97_ensemble_204.jpg,That is fun. What? The bull.,"Happiness, Surprise",Happiness,0.7456309795379639,0.7494,2
+happy_wheels_97_ensemble_261.jpg,That is fun. What? The bull.,"Happiness, Surprise",Surprise,0.2366356516162137,0.7494,2
+happy_wheels_99_ensemble_36.jpg,"Oh, God. I thought you said it's easier.","Anger, Surprise",Anger,0.3581116523087218,0.9308,1
+happy_wheels_99_ensemble_39.jpg,"Oh, God. I thought you said it's easier.","Anger, Surprise",Surprise,0.221040551285897,0.9308,1
+heartbeat_22_ensemble_15.jpg,It's his heart.,"Fear, Surprise",Fear,0.3670940256367127,0.9314,0
+heartbeat_22_ensemble_51.jpg,It's his heart.,"Fear, Surprise",Surprise,0.4810221606803058,0.9314,0
+heartbeat_23_ensemble_15.jpg,Thank you.,Happiness,Happiness,0.0290549878266551,0.5342,1
+heartbeat_25_ensemble_66.jpg,"Oh, you see, you cannot control your heart.","Happiness, Surprise",Happiness,0.5907734035152405,0.9585,0
+heartbeat_25_ensemble_99.jpg,"Oh, you see, you cannot control your heart.","Happiness, Surprise",Surprise,0.5130862959194701,0.9585,0
+heartbeat_28_ensemble_57.jpg,I can see why it went viral. It's nice.,Happiness,Happiness,0.3598370179533958,0.9673,0
+heartbeat_3_ensemble_84.jpg,Oh! Oh! Oh!,"Anger, Fear, Surprise",Anger,0.371030619367089,0.7252,1
+heartbeat_3_ensemble_45.jpg,Oh! Oh! Oh!,"Anger, Fear, Surprise",Fear,0.373245511126394,0.7252,1
+heartbeat_3_ensemble_12.jpg,Oh! Oh! Oh!,"Anger, Fear, Surprise",Surprise,0.2328322563941279,0.7252,1
+heartbeat_37_ensemble_6.jpg,No!,"Anger, Fear, Sadness, Surprise",Anger,0.0975361817205945,0.7011,0
+heartbeat_37_ensemble_66.jpg,No!,"Anger, Fear, Sadness, Surprise",Fear,0.2104638102352974,0.7011,0
+heartbeat_37_ensemble_12.jpg,No!,"Anger, Fear, Sadness, Surprise",Sadness,0.545558492342631,0.7011,0
+heartbeat_37_ensemble_54.jpg,No!,"Anger, Fear, Sadness, Surprise",Surprise,0.4536188965042432,0.7011,0
+heartbeat_43_ensemble_69.jpg,you,"Happiness, Sadness, Surprise",Happiness,0.3978874161839485,0.1455,1
+heartbeat_43_ensemble_33.jpg,you,"Happiness, Sadness, Surprise",Sadness,0.6707289020220437,0.1455,1
+heartbeat_43_ensemble_105.jpg,you,"Happiness, Sadness, Surprise",Surprise,0.2538734700436175,0.1455,1
+heartbeat_45_ensemble_18.jpg,"empowered, um,","Happiness, Surprise",Happiness,0.4927803874015807,0.5072,2
+heartbeat_45_ensemble_102.jpg,"empowered, um,","Happiness, Surprise",Surprise,0.3885737185676892,0.5072,2
+heartbeat_52_ensemble_186.jpg,it was very honest because you know you make a decision you ruled by your head or you ruled by your heart and if you want to be happy you let it be your heart.,Happiness,Happiness,0.5560195055866755,0.8644,9
+heartbeat_55_ensemble_0.jpg,"This should be up for an Oscar. I mean, it's just wonderful. It's done beautifully.",Happiness,Happiness,0.2931126945962508,0.9321,1
+heartbeat_61_ensemble_39.jpg,"Ten, fifteen years ago I had a gay student who was just distraught. He was distraught because basically what was happening is his parents were telling him he was going to roast in hell and it was very hard to deal with because there was so little, there was very little out there and I think that within the last decade it's improved",Anger,Anger,0.2990463783368032,0.9365,5
+heartbeat_62_ensemble_111.jpg,"The young generation now, they accept so many things that the older could not and would not open their minds to accept. So because of that, you know, it's a new day now.",Neutral,Neutral,0.3635955316325028,0.9551,1
+heartbeat_64_ensemble_63.jpg,"These guys did a great job with this and I accepted it. I'm not that young, but I accepted it.",Happiness,Happiness,0.0611974406514923,0.9409,1
+japanese_show_17_ensemble_66.jpg,LAUGHTER,"Happiness, Surprise",Happiness,0.7794909477217438,0.2098,1
+japanese_show_17_ensemble_3.jpg,LAUGHTER,"Happiness, Surprise",Surprise,0.2219466826258537,0.2098,1
+japanese_show_28_ensemble_48.jpg,That's the biggest bazooka I've ever seen coming out of face.,"Happiness, Surprise",Happiness,0.391737017835112,0.9653,0
+japanese_show_28_ensemble_54.jpg,That's the biggest bazooka I've ever seen coming out of face.,"Happiness, Surprise",Surprise,0.1829506603575314,0.9653,0
+japanese_show_33_ensemble_66.jpg,"No, not again!","Happiness, Surprise",Happiness,0.7682329615472648,0.8825,0
+japanese_show_33_ensemble_18.jpg,"No, not again!","Happiness, Surprise",Surprise,0.2289543745961661,0.8825,0
+japanese_show_38_ensemble_66.jpg,"Oh no, no, no. Oh, what do you got on there now? Whipped cream? Ow!","Disgust, Surprise",Disgust,0.0867642226330786,0.8266,4
+japanese_show_38_ensemble_90.jpg,"Oh no, no, no. Oh, what do you got on there now? Whipped cream? Ow!","Disgust, Surprise",Surprise,0.2633144205052909,0.8266,4
+japanese_show_40_ensemble_108.jpg,You'll never eat whipped cream again. That was funny.,Happiness,Happiness,0.6736279926314191,0.952,0
+japanese_show_44_ensemble_93.jpg,"Oh, that looks like a little frog. I love frogs. Oh, no.","Fear, Surprise",Fear,0.3833872605631256,0.9356,0
+japanese_show_44_ensemble_111.jpg,"Oh, that looks like a little frog. I love frogs. Oh, no.","Fear, Surprise",Surprise,0.1954321855089023,0.9356,0
+japanese_show_50_ensemble_18.jpg,"Poor little frog. Oh, I really disapprove.","Anger, Disgust, Fear, Sadness, Surprise",Anger,0.1647713317470334,0.9302,0
+japanese_show_50_ensemble_60.jpg,"Poor little frog. Oh, I really disapprove.","Anger, Disgust, Fear, Sadness, Surprise",Disgust,0.067044257519938,0.9302,0
+japanese_show_50_ensemble_60.jpg,"Poor little frog. Oh, I really disapprove.","Anger, Disgust, Fear, Sadness, Surprise",Fear,0.1604726747609675,0.9302,0
+japanese_show_50_ensemble_0.jpg,"Poor little frog. Oh, I really disapprove.","Anger, Disgust, Fear, Sadness, Surprise",Sadness,0.6148133873939514,0.9302,0
+japanese_show_50_ensemble_18.jpg,"Poor little frog. Oh, I really disapprove.","Anger, Disgust, Fear, Sadness, Surprise",Surprise,0.1989212564932548,0.9302,0
+japanese_show_52_ensemble_87.jpg,"Oh, the frog says, no, I like the other guy.","Happiness, Surprise",Happiness,0.7340256562819907,0.7837,3
+japanese_show_52_ensemble_81.jpg,"Oh, the frog says, no, I like the other guy.","Happiness, Surprise",Surprise,0.2659308923563609,0.7837,3
+japanese_show_55_ensemble_24.jpg,"Oh, you dropped Mr. Froggy.","Happiness, Surprise",Happiness,0.7413480331290494,0.9029,0
+japanese_show_55_ensemble_108.jpg,"Oh, you dropped Mr. Froggy.","Happiness, Surprise",Surprise,0.2248059088804422,0.9029,0
+japanese_show_59_ensemble_24.jpg,Get it out of my mouth!,Happiness,Happiness,0.6613532956847898,0.932,0
+japanese_show_62_ensemble_30.jpg,"Okay, so what did we just show you? Crazy Japanese videos.","Happiness, Surprise",Happiness,0.3169545431931813,0.9605,0
+japanese_show_62_ensemble_87.jpg,"Okay, so what did we just show you? Crazy Japanese videos.","Happiness, Surprise",Surprise,0.1743569444493275,0.9605,0
+japanese_show_74_ensemble_51.jpg,"If that's what entertains you, fine. I'd like to know what the ratings were.",Anger,Anger,0.3333521519233827,0.919,1
+japanese_show_75_ensemble_21.jpg,"It's clean, you know, and it's absolutely silly. I think it's wonderful.",Happiness,Happiness,0.3456897263725598,0.9601,0
+japanese_show_84_ensemble_87.jpg,"Maybe people died, maybe people got hurt, maybe people just had had enough of it.",Neutral,Neutral,0.310364562086761,0.9096,2
+japanese_show_85_ensemble_42.jpg,Maybe they just didn't want to debase people anymore.,"Anger, Sadness",Anger,0.2966858111321926,0.9236,1
+japanese_show_85_ensemble_60.jpg,Maybe they just didn't want to debase people anymore.,"Anger, Sadness",Sadness,0.5764939879032589,0.9236,1
+juice_wrld_59_ensemble_102.jpg,I don't see that much different from so many,"Anger, Disgust, Sadness",Anger,0.3262060849832828,0.9868,0
+juice_wrld_59_ensemble_33.jpg,I don't see that much different from so many,"Anger, Disgust, Sadness",Disgust,0.3745633346649507,0.9868,0
+juice_wrld_59_ensemble_9.jpg,I don't see that much different from so many,"Anger, Disgust, Sadness",Sadness,0.3325870928428709,0.9868,0
+juice_wrld_65_ensemble_186.jpg,Someone snuffed him out before he could grow and mature and be who he is going to be. It makes me angry.,"Anger, Disgust, Sadness",Anger,0.3901757373108018,0.9635,1
+juice_wrld_65_ensemble_132.jpg,Someone snuffed him out before he could grow and mature and be who he is going to be. It makes me angry.,"Anger, Disgust, Sadness",Disgust,0.1274424720710764,0.9635,1
+juice_wrld_65_ensemble_15.jpg,Someone snuffed him out before he could grow and mature and be who he is going to be. It makes me angry.,"Anger, Disgust, Sadness",Sadness,0.3789016554752984,0.9635,1
+kda_27_ensemble_60.jpg,"Nice colors and everything, but... You know, this is for kids.","Disgust, Happiness, Surprise",Disgust,0.0534585007320113,0.9061,1
+kda_27_ensemble_138.jpg,"Nice colors and everything, but... You know, this is for kids.","Disgust, Happiness, Surprise",Happiness,0.2984257961312929,0.9061,1
+kda_27_ensemble_105.jpg,"Nice colors and everything, but... You know, this is for kids.","Disgust, Happiness, Surprise",Surprise,0.1513848857333262,0.9061,1
+lil_pump_128_ensemble_78.jpg,"I think he had a really rough childhood. This is that one line he's been doing, I've been alone since third grade. So obviously he has not had a lot of love and attention.",Sadness,Sadness,0.4258497132902171,0.9117,3
+lil_pump_30_ensemble_78.jpg,My big love do cocaine. At least it rhymes.,"Disgust, Happiness",Disgust,0.1272045398751894,0.7808,3
+lil_pump_30_ensemble_36.jpg,My big love do cocaine. At least it rhymes.,"Disgust, Happiness",Happiness,0.4389040120195512,0.7808,3
+lil_pump_31_ensemble_84.jpg,"So good thing there's closed captions, because there's no way you would be understanding otherwise.","Anger, Disgust",Anger,0.4681658048224275,0.8877,1
+lil_pump_31_ensemble_12.jpg,"So good thing there's closed captions, because there's no way you would be understanding otherwise.","Anger, Disgust",Disgust,0.0617834811178591,0.8877,1
+lil_pump_43_ensemble_0.jpg,Yeah.,"Anger, Disgust",Anger,0.4072614157705262,0.2346,1
+lil_pump_43_ensemble_60.jpg,Yeah.,"Anger, Disgust",Disgust,0.0437342530349269,0.2346,1
+lil_pump_60_ensemble_45.jpg,"Yeah, we kind of get the impression you don't care about a lot.","Anger, Disgust",Anger,0.4057840108871459,0.9498,1
+lil_pump_60_ensemble_39.jpg,"Yeah, we kind of get the impression you don't care about a lot.","Anger, Disgust",Disgust,0.0366510871099731,0.9498,1
+lil_pump_65_ensemble_75.jpg,"I don't know what he's talking about, but sure, it's got a beat to it.",Anger,Anger,0.2794611961075272,0.9138,1
+lil_pump_72_ensemble_105.jpg,DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose,"Disgust, Sadness",Disgust,0.055395877690125,0.9602,1
+lil_pump_72_ensemble_102.jpg,DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose DeRose,"Disgust, Sadness",Sadness,0.6676518120886012,0.9602,1
+lil_pump_97_ensemble_0.jpg,"Oh yeah, this is really appealing.","Anger, Disgust",Anger,0.3703768209864696,0.8636,1
+lil_pump_97_ensemble_84.jpg,"Oh yeah, this is really appealing.","Anger, Disgust",Disgust,0.0358608764799181,0.8636,1
+marshmello_100_ensemble_114.jpg,"Oh, yeah. More fun or is that it? That's it. Oh, that was a real treat.",Happiness,Happiness,0.734804610411326,0.9295,2
+marshmello_105_ensemble_99.jpg,"So those videos all come from an EDM producer and DJ known as Marshmello. Marshmello. Oh, how perfect.","Happiness, Surprise",Happiness,0.3672513067590159,0.9645,0
+marshmello_105_ensemble_120.jpg,"So those videos all come from an EDM producer and DJ known as Marshmello. Marshmello. Oh, how perfect.","Happiness, Surprise",Surprise,0.3534251991659403,0.9645,0
+marshmello_29_ensemble_66.jpg,Aww. That's nice.,Happiness,Happiness,0.7123220960276353,0.7453,1
+marshmello_42_ensemble_6.jpg,It's kind of pleasant. It's not so percussive that you're getting a headache.,Anger,Anger,0.3019511339565118,0.9808,0
+marshmello_69_ensemble_30.jpg,"Oh, wow. Very sensual.",Happiness,Happiness,0.7714475989341736,0.8879,1
+marshmello_83_ensemble_69.jpg,There he is. That's Philip. He's been on the show.,Happiness,Happiness,0.7455379764238993,0.9449,0
+marshmello_87_ensemble_9.jpg,"So, Don, fully unrelated to being on Elders React, we know you do some gigs around L.A. sometimes. Can you tell us, what was it like to be on the set of these music videos? Well, first thing, I've done several over the years, but this one, I absolutely love the music.",Happiness,Happiness,0.5255041569471359,0.9698,1
+marshmello_89_ensemble_189.jpg,"I love doing it. I really do. And yeah, I'm a ham, but at least an honest one.",Happiness,Happiness,0.5608925273690863,0.9507,0
+not_mad_13_ensemble_225.jpg,"There are a lot of stereotypes regarding the elder generation and how you might get mad at things easier than other generations, so we're gonna put that to the test. Why is my generation being singled out?","Anger, Surprise",Anger,0.5062098414664337,0.9656,1
+not_mad_13_ensemble_228.jpg,"There are a lot of stereotypes regarding the elder generation and how you might get mad at things easier than other generations, so we're gonna put that to the test. Why is my generation being singled out?","Anger, Surprise",Surprise,0.0902429811249021,0.9656,1
+not_mad_15_ensemble_210.jpg,"All of the videos we're about to show you will relate directly to your generation. Okay, so I'll go tarnation and those whippersnappers and all those expressions",Anger,Anger,0.199716379866004,0.9453,0
+not_mad_18_ensemble_0.jpg,"I'm a retired teacher. I mean, you know, looking annoyed is part of the repertoire of being a good teacher.",Anger,Anger,0.3843340331758528,0.9496,0
+not_mad_4_ensemble_84.jpg,"Oh, stop with that bull .","Anger, Disgust, Surprise",Anger,0.3004148403446527,0.8266,2
+not_mad_4_ensemble_69.jpg,"Oh, stop with that bull .","Anger, Disgust, Surprise",Disgust,0.2409895717476805,0.8266,2
+not_mad_4_ensemble_27.jpg,"Oh, stop with that bull .","Anger, Disgust, Surprise",Surprise,0.1648246330150868,0.8266,2
+not_mad_64_ensemble_72.jpg,It's very dangerous to make those broad kind of generalizations about people.,"Anger, Sadness",Anger,0.3896708590309382,0.9693,0
+not_mad_64_ensemble_12.jpg,It's very dangerous to make those broad kind of generalizations about people.,"Anger, Sadness",Sadness,0.5829376744059104,0.9693,0
+overwatch_28_ensemble_141.jpg,I'll shoot anything in front of me! I have died!,"Anger, Happiness",Anger,0.2158393779148658,0.9675,0
+overwatch_28_ensemble_132.jpg,I'll shoot anything in front of me! I have died!,"Anger, Happiness",Happiness,0.6884248852729797,0.9675,0
+overwatch_34_ensemble_330.jpg,"Try that! Huh? Messing with a rock here! Oh, get that one! Get that one! Did I get anyone?","Happiness, Surprise",Happiness,0.7240887684818962,0.8443,6
+overwatch_34_ensemble_42.jpg,"Try that! Huh? Messing with a rock here! Oh, get that one! Get that one! Did I get anyone?","Happiness, Surprise",Surprise,0.3629643324141701,0.8443,6
+overwatch_39_ensemble_84.jpg,"I'm lovin' it! Come on! Oh, they got me. Good bounce, though. I enjoyed the bounce.","Happiness, Surprise",Happiness,0.7506026426951089,0.887,2
+overwatch_39_ensemble_36.jpg,"I'm lovin' it! Come on! Oh, they got me. Good bounce, though. I enjoyed the bounce.","Happiness, Surprise",Surprise,0.4883945425007464,0.887,2
+overwatch_4_ensemble_90.jpg,Where are you? Take that! Take that! Bite me!,Happiness,Happiness,0.4977377702792485,0.9094,1
+overwatch_55_ensemble_126.jpg,Go around. Come on! I'm not! I'm... I'll shoot anybody! Do not remove me from this game for inactivity!,"Anger, Happiness, Surprise",Anger,0.2217158854937312,0.9176,1
+overwatch_55_ensemble_273.jpg,Go around. Come on! I'm not! I'm... I'll shoot anybody! Do not remove me from this game for inactivity!,"Anger, Happiness, Surprise",Happiness,0.4749749153852462,0.9176,1
+overwatch_55_ensemble_12.jpg,Go around. Come on! I'm not! I'm... I'll shoot anybody! Do not remove me from this game for inactivity!,"Anger, Happiness, Surprise",Surprise,0.2795157952647269,0.9176,1
+overwatch_58_ensemble_132.jpg,Come on! Nope. I'm dead. I'm out. I don't think I scored a single point.,"Anger, Sadness",Anger,0.1642578154472478,0.9397,1
+overwatch_58_ensemble_9.jpg,Come on! Nope. I'm dead. I'm out. I don't think I scored a single point.,"Anger, Sadness",Sadness,0.6177187164624531,0.9397,1
+overwatch_66_ensemble_153.jpg,Overwatch rocks. Rock does not.,Happiness,Happiness,0.6715808211004117,0.9632,0
+pewdiepie_104_ensemble_90.jpg,"That's fine, but his verbiage was total, I mean, total garbage can.","Anger, Disgust, Sadness",Anger,0.5648497109706351,0.9057,0
+pewdiepie_104_ensemble_21.jpg,"That's fine, but his verbiage was total, I mean, total garbage can.","Anger, Disgust, Sadness",Disgust,0.1163843106844547,0.9057,0
+pewdiepie_104_ensemble_93.jpg,"That's fine, but his verbiage was total, I mean, total garbage can.","Anger, Disgust, Sadness",Sadness,0.3680300960938136,0.9057,0
+pewdiepie_128_ensemble_114.jpg,He actually is the number one most subscribed person on YouTube. Get out of here!,"Happiness, Surprise",Happiness,0.3551077467078963,0.9342,1
+pewdiepie_128_ensemble_114.jpg,He actually is the number one most subscribed person on YouTube. Get out of here!,"Happiness, Surprise",Surprise,0.2973084505647432,0.9342,1
+pewdiepie_150_ensemble_78.jpg,"Well, look at a hedge fund operator. I mean, what is he doing for 500 million bucks of your money?",Happiness,Happiness,0.6457259013798746,0.9398,2
+pewdiepie_165_ensemble_18.jpg,Whoa! Whoa! Dude! Ooh! Ooh! Ooh!,Happiness,Happiness,0.7381646434798672,0.6782,3
+pewdiepie_30_ensemble_9.jpg,"Here we go, baby. Oh, here he goes. Here we go. Ah!","Happiness, Surprise",Happiness,0.7063897047232335,0.8704,1
+pewdiepie_30_ensemble_39.jpg,"Here we go, baby. Oh, here he goes. Here we go. Ah!","Happiness, Surprise",Surprise,0.2793471412733196,0.8704,1
+pewdiepie_46_ensemble_81.jpg,Pewds Lord Techno Ranger.,Happiness,Happiness,0.7188046375910441,0.4654,4
+pewdiepie_53_ensemble_75.jpg,What?,Happiness,Happiness,0.7030270299224928,0.6178,1
+play_lastofus_100_ensemble_27.jpg,"Oh, oh, oh, oh, oh, oh, oh!","Disgust, Fear, Surprise",Disgust,0.0985730177101989,0.7514,2
+play_lastofus_100_ensemble_39.jpg,"Oh, oh, oh, oh, oh, oh, oh!","Disgust, Fear, Surprise",Fear,0.3982377199766536,0.7514,2
+play_lastofus_100_ensemble_51.jpg,"Oh, oh, oh, oh, oh, oh, oh!","Disgust, Fear, Surprise",Surprise,0.2872776315392305,0.7514,2
+play_lastofus_102_ensemble_27.jpg,"I got some notion. Oh, is this Tommy?","Disgust, Fear, Surprise",Disgust,0.0419041647839293,0.8228,1
+play_lastofus_102_ensemble_78.jpg,"I got some notion. Oh, is this Tommy?","Disgust, Fear, Surprise",Fear,0.3927179387925813,0.8228,1
+play_lastofus_102_ensemble_51.jpg,"I got some notion. Oh, is this Tommy?","Disgust, Fear, Surprise",Surprise,0.1677729801740497,0.8228,1
+play_lastofus_107_ensemble_198.jpg,"They say, where'd it go? They said, uh... I like this. I don't have to steer it and do all that stuff. I like that.","Happiness, Surprise",Happiness,0.5834095670227589,0.8961,3
+play_lastofus_107_ensemble_192.jpg,"They say, where'd it go? They said, uh... I like this. I don't have to steer it and do all that stuff. I like that.","Happiness, Surprise",Surprise,0.1713385578378018,0.8961,3
+play_lastofus_123_ensemble_102.jpg,"Oh my God! Shoot him! Oh, shoot him!","Anger, Disgust, Fear, Surprise",Anger,0.3509036354293835,0.8226,2
+play_lastofus_123_ensemble_0.jpg,"Oh my God! Shoot him! Oh, shoot him!","Anger, Disgust, Fear, Surprise",Disgust,0.1192375642145033,0.8226,2
+play_lastofus_123_ensemble_114.jpg,"Oh my God! Shoot him! Oh, shoot him!","Anger, Disgust, Fear, Surprise",Fear,0.304028301499784,0.8226,2
+play_lastofus_123_ensemble_54.jpg,"Oh my God! Shoot him! Oh, shoot him!","Anger, Disgust, Fear, Surprise",Surprise,0.1914594271996368,0.8226,2
+play_lastofus_133_ensemble_180.jpg,"Go, man, go! There we go.","Fear, Happiness, Sadness, Surprise",Fear,0.4134564946095148,0.8708,1
+play_lastofus_133_ensemble_105.jpg,"Go, man, go! There we go.","Fear, Happiness, Sadness, Surprise",Happiness,0.5566422734782783,0.8708,1
+play_lastofus_133_ensemble_204.jpg,"Go, man, go! There we go.","Fear, Happiness, Sadness, Surprise",Sadness,0.6708346406618754,0.8708,1
+play_lastofus_133_ensemble_3.jpg,"Go, man, go! There we go.","Fear, Happiness, Sadness, Surprise",Surprise,0.5120911927272875,0.8708,1
+play_lastofus_134_ensemble_60.jpg,Jeez! That was frightening.,"Fear, Happiness, Surprise",Fear,0.4074544127215631,0.843,1
+play_lastofus_134_ensemble_120.jpg,Jeez! That was frightening.,"Fear, Happiness, Surprise",Happiness,0.6924314300219218,0.843,1
+play_lastofus_134_ensemble_39.jpg,Jeez! That was frightening.,"Fear, Happiness, Surprise",Surprise,0.4698340911418199,0.843,1
+play_lastofus_146_ensemble_114.jpg,"Ooh, God, this is scary.","Fear, Happiness, Surprise",Fear,0.3888020685404297,0.8005,2
+play_lastofus_146_ensemble_99.jpg,"Ooh, God, this is scary.","Fear, Happiness, Surprise",Happiness,0.6403565009435017,0.8005,2
+play_lastofus_146_ensemble_108.jpg,"Ooh, God, this is scary.","Fear, Happiness, Surprise",Surprise,0.2996406313031911,0.8005,2
+play_lastofus_153_ensemble_27.jpg,"My leg hurts. Oh, she got a broken leg. Oh, no.","Fear, Sadness, Surprise",Fear,0.2704221460167673,0.9008,1
+play_lastofus_153_ensemble_39.jpg,"My leg hurts. Oh, she got a broken leg. Oh, no.","Fear, Sadness, Surprise",Sadness,0.6724940737088521,0.9008,1
+play_lastofus_153_ensemble_108.jpg,"My leg hurts. Oh, she got a broken leg. Oh, no.","Fear, Sadness, Surprise",Surprise,0.3842894465972979,0.9008,1
+play_lastofus_165_ensemble_129.jpg,"Okay, this is making her go faster. Oh, geez louise!",Happiness,Happiness,0.6511384637466158,0.7111,5
+play_lastofus_166_ensemble_51.jpg,"Run faster, run! Ah!","Anger, Disgust, Fear, Sadness, Surprise",Anger,0.0836123678212364,0.7195,1
+play_lastofus_166_ensemble_12.jpg,"Run faster, run! Ah!","Anger, Disgust, Fear, Sadness, Surprise",Disgust,0.0893133521967683,0.7195,1
+play_lastofus_166_ensemble_123.jpg,"Run faster, run! Ah!","Anger, Disgust, Fear, Sadness, Surprise",Fear,0.375631181830781,0.7195,1
+play_lastofus_166_ensemble_0.jpg,"Run faster, run! Ah!","Anger, Disgust, Fear, Sadness, Surprise",Sadness,0.7153919339179993,0.7195,1
+play_lastofus_166_ensemble_114.jpg,"Run faster, run! Ah!","Anger, Disgust, Fear, Sadness, Surprise",Surprise,0.6304180895527075,0.7195,1
+play_lastofus_177_ensemble_21.jpg,"Oh, no, no, no, no, no, no, no, no. Get away, get away, get away, get away. Stop, that's good. He's dead.","Anger, Happiness, Sadness, Surprise",Anger,0.3687929047937182,0.8601,3
+play_lastofus_177_ensemble_9.jpg,"Oh, no, no, no, no, no, no, no, no. Get away, get away, get away, get away. Stop, that's good. He's dead.","Anger, Happiness, Sadness, Surprise",Happiness,0.584327499071757,0.8601,3
+play_lastofus_177_ensemble_90.jpg,"Oh, no, no, no, no, no, no, no, no. Get away, get away, get away, get away. Stop, that's good. He's dead.","Anger, Happiness, Sadness, Surprise",Sadness,0.5082883437474568,0.8601,3
+play_lastofus_177_ensemble_69.jpg,"Oh, no, no, no, no, no, no, no, no. Get away, get away, get away, get away. Stop, that's good. He's dead.","Anger, Happiness, Sadness, Surprise",Surprise,0.3187613530705372,0.8601,3
+play_lastofus_188_ensemble_63.jpg,Who is...,"Fear, Happiness, Surprise",Fear,0.3976982371772592,0.7036,1
+play_lastofus_188_ensemble_9.jpg,Who is...,"Fear, Happiness, Surprise",Happiness,0.6528495947519939,0.7036,1
+play_lastofus_188_ensemble_156.jpg,Who is...,"Fear, Happiness, Surprise",Surprise,0.3500739534695943,0.7036,1
+play_lastofus_192_ensemble_72.jpg,"Come on. Hello. Oh! Oh, jeez!","Fear, Surprise",Fear,0.3866997561391845,0.8084,1
+play_lastofus_192_ensemble_63.jpg,"Come on. Hello. Oh! Oh, jeez!","Fear, Surprise",Surprise,0.4790410147765969,0.8084,1
+play_lastofus_200_ensemble_90.jpg,"But... Yes, sir. Oh, no!","Disgust, Fear, Surprise",Disgust,0.0730949334676562,0.8147,1
+play_lastofus_200_ensemble_126.jpg,"But... Yes, sir. Oh, no!","Disgust, Fear, Surprise",Fear,0.3755853907205164,0.8147,1
+play_lastofus_200_ensemble_57.jpg,"But... Yes, sir. Oh, no!","Disgust, Fear, Surprise",Surprise,0.4177278087324035,0.8147,1
+play_lastofus_202_ensemble_0.jpg,"Oh, .","Disgust, Fear, Surprise",Disgust,0.0411772597581292,0.5475,2
+play_lastofus_202_ensemble_66.jpg,"Oh, .","Disgust, Fear, Surprise",Fear,0.6050370142551575,0.5475,2
+play_lastofus_202_ensemble_63.jpg,"Oh, .","Disgust, Fear, Surprise",Surprise,0.6315842162422023,0.5475,2
+play_lastofus_205_ensemble_138.jpg,"Who's that? Tommy! Oh, Tommy!","Fear, Surprise",Fear,0.4047155676720043,0.8729,1
+play_lastofus_205_ensemble_132.jpg,"Who's that? Tommy! Oh, Tommy!","Fear, Surprise",Surprise,0.5077191041375452,0.8729,1
+play_lastofus_212_ensemble_42.jpg,"I'm gonna pick you up. I know, baby. I know it hurts. Oh. Oh, no. Come on, baby. Please. I know, baby. I know.","Disgust, Fear, Sadness, Surprise",Disgust,0.0885464114447434,0.8555,4
+play_lastofus_212_ensemble_180.jpg,"I'm gonna pick you up. I know, baby. I know it hurts. Oh. Oh, no. Come on, baby. Please. I know, baby. I know.","Disgust, Fear, Sadness, Surprise",Fear,0.3701691672753281,0.8555,4
+play_lastofus_212_ensemble_204.jpg,"I'm gonna pick you up. I know, baby. I know it hurts. Oh. Oh, no. Come on, baby. Please. I know, baby. I know.","Disgust, Fear, Sadness, Surprise",Sadness,0.7285782669415656,0.8555,4
+play_lastofus_212_ensemble_174.jpg,"I'm gonna pick you up. I know, baby. I know it hurts. Oh. Oh, no. Come on, baby. Please. I know, baby. I know.","Disgust, Fear, Sadness, Surprise",Surprise,0.4416292822558484,0.8555,4
+play_lastofus_218_ensemble_84.jpg,Sarah just bit the big one.,Happiness,Happiness,0.5100418233653917,0.8575,1
+play_lastofus_219_ensemble_42.jpg,Okay. This is really horrifying.,"Disgust, Fear, Surprise",Disgust,0.0391548092787464,0.8955,0
+play_lastofus_219_ensemble_78.jpg,Okay. This is really horrifying.,"Disgust, Fear, Surprise",Fear,0.385236205295115,0.8955,0
+play_lastofus_219_ensemble_18.jpg,Okay. This is really horrifying.,"Disgust, Fear, Surprise",Surprise,0.2379164084171255,0.8955,0
+play_lastofus_220_ensemble_51.jpg,"No, please.","Disgust, Fear, Sadness, Surprise",Disgust,0.0632125685235834,0.7372,1
+play_lastofus_220_ensemble_54.jpg,"No, please.","Disgust, Fear, Sadness, Surprise",Fear,0.3900360332133315,0.7372,1
+play_lastofus_220_ensemble_102.jpg,"No, please.","Disgust, Fear, Sadness, Surprise",Sadness,0.6536209384600321,0.7372,1
+play_lastofus_220_ensemble_3.jpg,"No, please.","Disgust, Fear, Sadness, Surprise",Surprise,0.1184032882783692,0.7372,1
+play_lastofus_223_ensemble_120.jpg,"It's a very dark game. Very, uh... very depressing.",Happiness,Happiness,0.3538525775212898,0.8617,1
+play_lastofus_23_ensemble_36.jpg,"You kept complaining about your broken watch. Aww, isn't that sweet?",Happiness,Happiness,0.6662779842511786,0.8839,2
+play_lastofus_30_ensemble_201.jpg,"Okay, she's going back to sleep. So everything that happens now is a dream. I don't know.","Happiness, Surprise",Happiness,0.6894207795461018,0.938,1
+play_lastofus_30_ensemble_219.jpg,"Okay, she's going back to sleep. So everything that happens now is a dream. I don't know.","Happiness, Surprise",Surprise,0.2006568626950786,0.938,1
+play_lastofus_32_ensemble_84.jpg,"Oh, see, that's sweet. Some sweet moments. I like that.",Sadness,Sadness,0.5571078856786091,0.9133,0
+play_lastofus_43_ensemble_51.jpg,"Wait, wait. Okay, this is creepy.","Disgust, Fear, Surprise",Disgust,0.0653765628336842,0.8363,1
+play_lastofus_43_ensemble_39.jpg,"Wait, wait. Okay, this is creepy.","Disgust, Fear, Surprise",Fear,0.3919843303911153,0.8363,1
+play_lastofus_43_ensemble_3.jpg,"Wait, wait. Okay, this is creepy.","Disgust, Fear, Surprise",Surprise,0.4351062392031458,0.8363,1
+play_lastofus_62_ensemble_159.jpg,seem to be somehow connected to the nationwide pandemic. Pandemic? Oh my god. It is. It's the plague.,"Fear, Surprise",Fear,0.3322500583405295,0.8759,2
+play_lastofus_62_ensemble_150.jpg,seem to be somehow connected to the nationwide pandemic. Pandemic? Oh my god. It is. It's the plague.,"Fear, Surprise",Surprise,0.1569549331749537,0.8759,2
+play_lastofus_66_ensemble_108.jpg,Whoa!,"Anger, Fear, Happiness, Surprise",Anger,0.3676365745967918,0.7843,0
+play_lastofus_66_ensemble_111.jpg,Whoa!,"Anger, Fear, Happiness, Surprise",Fear,0.424683208266894,0.7843,0
+play_lastofus_66_ensemble_93.jpg,Whoa!,"Anger, Fear, Happiness, Surprise",Happiness,0.5684136152235482,0.7843,0
+play_lastofus_66_ensemble_96.jpg,Whoa!,"Anger, Fear, Happiness, Surprise",Surprise,0.295140815898776,0.7843,0
+play_lastofus_69_ensemble_138.jpg,"That's amazing! Oh, we could feel like the shotgun or the bomb. Where's Dad?","Happiness, Sadness, Surprise",Happiness,0.6783190766970316,0.8273,2
+play_lastofus_69_ensemble_168.jpg,"That's amazing! Oh, we could feel like the shotgun or the bomb. Where's Dad?","Happiness, Sadness, Surprise",Sadness,0.7247943878173828,0.8273,2
+play_lastofus_69_ensemble_42.jpg,"That's amazing! Oh, we could feel like the shotgun or the bomb. Where's Dad?","Happiness, Sadness, Surprise",Surprise,0.2414597993095716,0.8273,2
+play_lastofus_73_ensemble_30.jpg,"Dad, where are you?",Happiness,Happiness,0.5112499442401239,0.906,0
+play_lastofus_82_ensemble_93.jpg,Okay. Where is everybody?,"Fear, Surprise",Fear,0.4108423388873537,0.8324,1
+play_lastofus_82_ensemble_132.jpg,Okay. Where is everybody?,"Fear, Surprise",Surprise,0.2167641228685776,0.8324,1
+play_lastofus_86_ensemble_9.jpg,Let's get the gun.,Neutral,Neutral,0.3601310461138686,0.8949,0
+play_lastofus_90_ensemble_129.jpg,"I think they're sick. Kinda sick. Oh, oh, oh, oh, oh, oh!","Fear, Surprise",Fear,0.5117904542670205,0.764,3
+play_lastofus_90_ensemble_87.jpg,"I think they're sick. Kinda sick. Oh, oh, oh, oh, oh, oh!","Fear, Surprise",Surprise,0.2029192606684066,0.764,3
+play_red_dead_103_ensemble_192.jpg,"I'm obviously not very good on this directional stuff. Whoa, hello! I guess I wasn't fast enough.","Anger, Happiness",Anger,0.4308926845956855,0.9404,1
+play_red_dead_103_ensemble_216.jpg,"I'm obviously not very good on this directional stuff. Whoa, hello! I guess I wasn't fast enough.","Anger, Happiness",Happiness,0.550713419727091,0.9404,1
+play_red_dead_114_ensemble_93.jpg,How'd the horse get in there?,"Anger, Fear, Surprise",Anger,0.3510913494974374,0.9207,1
+play_red_dead_114_ensemble_111.jpg,How'd the horse get in there?,"Anger, Fear, Surprise",Fear,0.4831827792028585,0.9207,1
+play_red_dead_114_ensemble_111.jpg,How'd the horse get in there?,"Anger, Fear, Surprise",Surprise,0.1279633144548586,0.9207,1
+play_red_dead_116_ensemble_30.jpg,"Left button. Oh, left. I'm aiming it. I'm going to get that rock for sure.","Anger, Happiness",Anger,0.3323798442675956,0.9345,0
+play_red_dead_116_ensemble_114.jpg,"Left button. Oh, left. I'm aiming it. I'm going to get that rock for sure.","Anger, Happiness",Happiness,0.4639309969190969,0.9345,0
+play_red_dead_119_ensemble_78.jpg,"Where are you? Stand fast, you puppy!","Anger, Happiness, Surprise",Anger,0.2051085790199078,0.908,1
+play_red_dead_119_ensemble_72.jpg,"Where are you? Stand fast, you puppy!","Anger, Happiness, Surprise",Happiness,0.5854410330454509,0.908,1
+play_red_dead_119_ensemble_6.jpg,"Where are you? Stand fast, you puppy!","Anger, Happiness, Surprise",Surprise,0.4201522295673687,0.908,1
+play_red_dead_124_ensemble_99.jpg,Help! Take that!,"Anger, Fear, Surprise",Anger,0.3049830139053173,0.7112,2
+play_red_dead_124_ensemble_54.jpg,Help! Take that!,"Anger, Fear, Surprise",Fear,0.5904346099819736,0.7112,2
+play_red_dead_124_ensemble_75.jpg,Help! Take that!,"Anger, Fear, Surprise",Surprise,0.2675119880307449,0.7112,2
+play_red_dead_126_ensemble_204.jpg,Take that and that. I don't care if I get shot.,"Happiness, Surprise",Happiness,0.7668261528015137,0.9019,2
+play_red_dead_126_ensemble_276.jpg,Take that and that. I don't care if I get shot.,"Happiness, Surprise",Surprise,0.4139638370969079,0.9019,2
+play_red_dead_138_ensemble_93.jpg,It'll go slow-mo. Oh. Oh! What happened?,"Anger, Happiness, Surprise",Anger,0.305443152140575,0.8748,1
+play_red_dead_138_ensemble_90.jpg,It'll go slow-mo. Oh. Oh! What happened?,"Anger, Happiness, Surprise",Happiness,0.3856206525372007,0.8748,1
+play_red_dead_138_ensemble_111.jpg,It'll go slow-mo. Oh. Oh! What happened?,"Anger, Happiness, Surprise",Surprise,0.1022656649972006,0.8748,1
+play_red_dead_140_ensemble_21.jpg,Take him! Take him! Ah-ha-ha! You're gone!,"Happiness, Surprise",Happiness,0.5892247074822812,0.9105,1
+play_red_dead_140_ensemble_93.jpg,Take him! Take him! Ah-ha-ha! You're gone!,"Happiness, Surprise",Surprise,0.4677727251934508,0.9105,1
+play_red_dead_141_ensemble_39.jpg,"Get behind here. Protect yourself. Oh, there he is. I see him.","Anger, Happiness",Anger,0.0680956766203454,0.9532,0
+play_red_dead_141_ensemble_36.jpg,"Get behind here. Protect yourself. Oh, there he is. I see him.","Anger, Happiness",Happiness,0.618927538394928,0.9532,0
+play_red_dead_174_ensemble_159.jpg,"The graphics aren't the best as far as, you know, it's real cartoony looking. But I love the fact it's a Western.",Sadness,Sadness,0.6181723078091939,0.9397,1
+play_red_dead_36_ensemble_72.jpg,"Jonah, put your gun down. That's right.",Anger,Anger,0.3015644916992751,0.9287,1
+play_red_dead_56_ensemble_24.jpg,"I have to walk. Whoops, hello.","Anger, Surprise",Anger,0.3788024293379686,0.8689,1
+play_red_dead_56_ensemble_27.jpg,"I have to walk. Whoops, hello.","Anger, Surprise",Surprise,0.4025467696289221,0.8689,1
+play_red_dead_62_ensemble_192.jpg,"Oh, and they have telephones, so that's interesting. Usually they didn't have telephones. Well, hello there.","Happiness, Surprise",Happiness,0.7454671859741211,0.908,2
+play_red_dead_62_ensemble_189.jpg,"Oh, and they have telephones, so that's interesting. Usually they didn't have telephones. Well, hello there.","Happiness, Surprise",Surprise,0.1908248953978917,0.908,2
+play_red_dead_69_ensemble_81.jpg,"Hello, Sheriff. I'm on the ground here, sneaking up on you.",Happiness,Happiness,0.6537918051083882,0.9419,0
+play_red_dead_8_ensemble_120.jpg,"Red Dead Redemption is a popular western action adventure game that the fans really wanted to see you guys play, so we're gonna have you play a mission from it. Okay, western?","Happiness, Surprise",Happiness,0.3421179419383406,0.9235,4
+play_red_dead_8_ensemble_84.jpg,"Red Dead Redemption is a popular western action adventure game that the fans really wanted to see you guys play, so we're gonna have you play a mission from it. Okay, western?","Happiness, Surprise",Surprise,0.4624734390664277,0.9235,4
+play_red_dead_86_ensemble_168.jpg,"Where is my horse? I forgot where I put my horse! Let me whistle again. Hey, hey! Okay, get on him.",Happiness,Happiness,0.5817800367588788,0.9098,1
+play_red_dead_93_ensemble_21.jpg,"I'm sorry, little horse. Oh, dear.",Happiness,Happiness,0.718000054359436,0.9299,0
+play_road_redemp_14_ensemble_144.jpg,"Whoa, jeez Louise. Okay, calm down, calm down.","Happiness, Surprise",Happiness,0.3253218922764062,0.8332,2
+play_road_redemp_14_ensemble_114.jpg,"Whoa, jeez Louise. Okay, calm down, calm down.","Happiness, Surprise",Surprise,0.4546955271313588,0.8332,2
+play_road_redemp_15_ensemble_225.jpg,"The faster you go, the easier it is to control. Oh, really? I don't think so! Oh, God, I'm in the wrong lane. Oh, I think you're a liar!","Disgust, Happiness",Disgust,0.3443839038566996,0.9416,2
+play_road_redemp_15_ensemble_132.jpg,"The faster you go, the easier it is to control. Oh, really? I don't think so! Oh, God, I'm in the wrong lane. Oh, I think you're a liar!","Disgust, Happiness",Happiness,0.6136107842127482,0.9416,2
+play_road_redemp_18_ensemble_126.jpg,Ah! Ooh!,"Anger, Happiness, Surprise",Anger,0.1567101832445999,0.5925,1
+play_road_redemp_18_ensemble_30.jpg,Ah! Ooh!,"Anger, Happiness, Surprise",Happiness,0.650574723927041,0.5925,1
+play_road_redemp_18_ensemble_9.jpg,Ah! Ooh!,"Anger, Happiness, Surprise",Surprise,0.4570105771223703,0.5925,1
+play_road_redemp_31_ensemble_216.jpg,"Oh, jeez, what the heck was that? I hit one of those buttons by mistake, man.","Anger, Fear, Surprise",Anger,0.4013709401090939,0.9421,1
+play_road_redemp_31_ensemble_132.jpg,"Oh, jeez, what the heck was that? I hit one of those buttons by mistake, man.","Anger, Fear, Surprise",Fear,0.4333652077863613,0.9421,1
+play_road_redemp_31_ensemble_192.jpg,"Oh, jeez, what the heck was that? I hit one of those buttons by mistake, man.","Anger, Fear, Surprise",Surprise,0.4121392897019783,0.9421,1
+play_road_redemp_36_ensemble_393.jpg,"Oh, he got me. He got me. No, you got him! I got him?! Awesome! Well, you just tried to kill a guy. Awesome! .","Happiness, Surprise",Happiness,0.7631051739056904,0.9247,2
+play_road_redemp_36_ensemble_357.jpg,"Oh, he got me. He got me. No, you got him! I got him?! Awesome! Well, you just tried to kill a guy. Awesome! .","Happiness, Surprise",Surprise,0.3969579251102894,0.9247,2
+play_road_redemp_38_ensemble_138.jpg,"I am really trying. I'm very unnerving. Oh my god, I'm in the wrong... Oh, shoot! Oh, I killed him. Oh! Oh! Oh my god, Lazarus.","Anger, Happiness, Surprise",Anger,0.3987523019689524,0.8631,5
+play_road_redemp_38_ensemble_153.jpg,"I am really trying. I'm very unnerving. Oh my god, I'm in the wrong... Oh, shoot! Oh, I killed him. Oh! Oh! Oh my god, Lazarus.","Anger, Happiness, Surprise",Happiness,0.6874583562193426,0.8631,5
+play_road_redemp_38_ensemble_210.jpg,"I am really trying. I'm very unnerving. Oh my god, I'm in the wrong... Oh, shoot! Oh, I killed him. Oh! Oh! Oh my god, Lazarus.","Anger, Happiness, Surprise",Surprise,0.5793079989376254,0.8631,5
+play_road_redemp_41_ensemble_102.jpg,Oh my gosh!,"Happiness, Surprise",Happiness,0.732537825902303,0.3585,3
+play_road_redemp_41_ensemble_60.jpg,Oh my gosh!,"Happiness, Surprise",Surprise,0.5041937503583123,0.3585,3
+play_road_redemp_49_ensemble_93.jpg,Sh,"Anger, Sadness, Surprise",Anger,0.3700842699812104,0.2406,1
+play_road_redemp_49_ensemble_207.jpg,Sh,"Anger, Sadness, Surprise",Sadness,0.479743193524571,0.2406,1
+play_road_redemp_49_ensemble_57.jpg,Sh,"Anger, Sadness, Surprise",Surprise,0.127901150578206,0.2406,1
+play_road_redemp_50_ensemble_36.jpg,"Oh, . Jeez! Sorry, buddy. Better you than me.","Happiness, Surprise",Happiness,0.6483872731526692,0.7777,3
+play_road_redemp_50_ensemble_81.jpg,"Oh, . Jeez! Sorry, buddy. Better you than me.","Happiness, Surprise",Surprise,0.301264467610733,0.7777,3
+play_road_redemp_53_ensemble_3.jpg,Oh! No. See ya. Oh. Oh.,"Fear, Happiness, Sadness, Surprise",Fear,0.3940234202461058,0.6682,4
+play_road_redemp_53_ensemble_168.jpg,Oh! No. See ya. Oh. Oh.,"Fear, Happiness, Sadness, Surprise",Happiness,0.597105085849762,0.6682,4
+play_road_redemp_53_ensemble_117.jpg,Oh! No. See ya. Oh. Oh.,"Fear, Happiness, Sadness, Surprise",Sadness,0.6791428722931283,0.6682,4
+play_road_redemp_53_ensemble_48.jpg,Oh! No. See ya. Oh. Oh.,"Fear, Happiness, Sadness, Surprise",Surprise,0.0930274986118699,0.6682,4
+play_road_redemp_56_ensemble_387.jpg,"Here we go, here we go, here we go. Oh, here we go, here we go. Oh, gosh, oh, gosh, oh, gosh. Oh, gosh, oh, gosh. Dang.","Happiness, Sadness",Happiness,0.6095090111096699,0.8401,6
+play_road_redemp_56_ensemble_63.jpg,"Here we go, here we go, here we go. Oh, here we go, here we go. Oh, gosh, oh, gosh, oh, gosh. Oh, gosh, oh, gosh. Dang.","Happiness, Sadness",Sadness,0.5924377682085495,0.8401,6
+play_road_redemp_57_ensemble_105.jpg,"Oh! Oh! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,","Fear, Surprise",Fear,0.4309861883521079,0.9385,10
+play_road_redemp_57_ensemble_57.jpg,"Oh! Oh! Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,","Fear, Surprise",Surprise,0.1989487567441099,0.9385,10
+play_road_redemp_60_ensemble_165.jpg,"But I would like to state very clearly that I am a very good driver, because I know from watching this you would never imagine it.",Happiness,Happiness,0.5424627264340718,0.9305,3
+pssy_slap_15_ensemble_12.jpg,Pussy slap! Is she saying slap?,"Anger, Surprise",Anger,0.2189311880353919,0.9209,0
+pssy_slap_15_ensemble_69.jpg,Pussy slap! Is she saying slap?,"Anger, Surprise",Surprise,0.2254639472196478,0.9209,0
+pssy_slap_17_ensemble_81.jpg,"Oh, so they're hitting... Oh, God.","Disgust, Fear, Surprise",Disgust,0.3147533937117348,0.7817,2
+pssy_slap_17_ensemble_48.jpg,"Oh, so they're hitting... Oh, God.","Disgust, Fear, Surprise",Fear,0.3790592005541928,0.7817,2
+pssy_slap_17_ensemble_6.jpg,"Oh, so they're hitting... Oh, God.","Disgust, Fear, Surprise",Surprise,0.1714012045622794,0.7817,2
+pssy_slap_56_ensemble_69.jpg,"In army uniforms, real respectful of the uniform, that's great.","Anger, Disgust, Sadness",Anger,0.2274694275865016,0.8261,2
+pssy_slap_56_ensemble_90.jpg,"In army uniforms, real respectful of the uniform, that's great.","Anger, Disgust, Sadness",Disgust,0.3530071135610342,0.8261,2
+pssy_slap_56_ensemble_0.jpg,"In army uniforms, real respectful of the uniform, that's great.","Anger, Disgust, Sadness",Sadness,0.5879242221514384,0.8261,2
+pssy_slap_60_ensemble_60.jpg,What I used to do when I was young is I used to hide behind a door and jump out and go boo. That's fun.,Neutral,Neutral,0.3414272090109685,0.9752,0
+pssy_slap_62_ensemble_90.jpg,"So these videos were all from something that may be becoming a trend called pussy slap. Oh, god.","Anger, Disgust, Sadness, Surprise",Anger,0.0588912765185038,0.9269,2
+pssy_slap_62_ensemble_117.jpg,"So these videos were all from something that may be becoming a trend called pussy slap. Oh, god.","Anger, Disgust, Sadness, Surprise",Disgust,0.0253250301956491,0.9269,2
+pssy_slap_62_ensemble_39.jpg,"So these videos were all from something that may be becoming a trend called pussy slap. Oh, god.","Anger, Disgust, Sadness, Surprise",Sadness,0.3769890736870527,0.9269,2
+pssy_slap_62_ensemble_78.jpg,"So these videos were all from something that may be becoming a trend called pussy slap. Oh, god.","Anger, Disgust, Sadness, Surprise",Surprise,0.1975213981543978,0.9269,2
+pssy_slap_75_ensemble_63.jpg,"I'll say the same thing that the older generation said about my generation, is that was, I'm really worried. You know, and they're going to turn out fine.",Happiness,Happiness,0.5816824808660581,0.9147,2
+pssy_slap_76_ensemble_156.jpg,"Obviously, when you see something like this, you make an assumption and go, oh, my God, what is with this generation? Which, of course, is a very dangerous thing to do, but it is kind of how people think.","Anger, Disgust, Sadness",Anger,0.2776947093262888,0.9603,2
+pssy_slap_76_ensemble_207.jpg,"Obviously, when you see something like this, you make an assumption and go, oh, my God, what is with this generation? Which, of course, is a very dangerous thing to do, but it is kind of how people think.","Anger, Disgust, Sadness",Disgust,0.1099700278081952,0.9603,2
+pssy_slap_76_ensemble_171.jpg,"Obviously, when you see something like this, you make an assumption and go, oh, my God, what is with this generation? Which, of course, is a very dangerous thing to do, but it is kind of how people think.","Anger, Disgust, Sadness",Sadness,0.5245925406163747,0.9603,2
+pssy_slap_85_ensemble_99.jpg,Come up with something new and different and creative and fun and interesting and start a new trend instead of just copying something.,Anger,Anger,0.3561125356871646,0.9579,1
+qwop_15_ensemble_138.jpg,"It's the Q, W, O, and P keys on the keyboard. Oh. Okay.","Happiness, Surprise",Happiness,0.1069121811503971,0.9323,1
+qwop_15_ensemble_87.jpg,"It's the Q, W, O, and P keys on the keyboard. Oh. Okay.","Happiness, Surprise",Surprise,0.5181964505463837,0.9323,1
+qwop_21_ensemble_96.jpg,"Oh, what happened?","Anger, Happiness, Sadness, Surprise",Anger,0.079777727403699,0.7943,1
+qwop_21_ensemble_147.jpg,"Oh, what happened?","Anger, Happiness, Sadness, Surprise",Happiness,0.352119505405426,0.7943,1
+qwop_21_ensemble_168.jpg,"Oh, what happened?","Anger, Happiness, Sadness, Surprise",Sadness,0.6021630501560027,0.7943,1
+qwop_21_ensemble_132.jpg,"Oh, what happened?","Anger, Happiness, Sadness, Surprise",Surprise,0.3745497368897001,0.7943,1
+qwop_26_ensemble_117.jpg,Oh no no no no no no no!,Happiness,Happiness,0.4947852654170427,0.7622,2
+qwop_28_ensemble_105.jpg,"Oh, God. Oh, oh, oh!",Happiness,Happiness,0.7010542551676526,0.5786,4
+qwop_38_ensemble_51.jpg,"Get up, you. Get up, get up. No, no, other way, other way!","Anger, Happiness",Anger,0.2469348125753565,0.8899,0
+qwop_38_ensemble_102.jpg,"Get up, you. Get up, get up. No, no, other way, other way!","Anger, Happiness",Happiness,0.2750749718126637,0.8899,0
+qwop_39_ensemble_102.jpg,"Oh, crap.","Anger, Surprise",Anger,0.0848729420201073,0.5366,2
+qwop_39_ensemble_57.jpg,"Oh, crap.","Anger, Surprise",Surprise,0.4133151868979136,0.5366,2
+qwop_40_ensemble_120.jpg,I just wanna figure out the rhythm. There's gotta be a rhythm to this. Obviously it's not starting with the calf.,"Anger, Happiness, Surprise",Anger,0.3170826658606529,0.9383,2
+qwop_40_ensemble_171.jpg,I just wanna figure out the rhythm. There's gotta be a rhythm to this. Obviously it's not starting with the calf.,"Anger, Happiness, Surprise",Happiness,0.5426688790137805,0.9383,2
+qwop_40_ensemble_186.jpg,I just wanna figure out the rhythm. There's gotta be a rhythm to this. Obviously it's not starting with the calf.,"Anger, Happiness, Surprise",Surprise,0.2964538140192712,0.9383,2
+qwop_41_ensemble_102.jpg,P-Q-O-W-P-Q-O-W-P-Q-O-W-P-Q.,"Anger, Happiness, Surprise",Anger,0.3476750827432933,0.9101,0
+qwop_41_ensemble_123.jpg,P-Q-O-W-P-Q-O-W-P-Q-O-W-P-Q.,"Anger, Happiness, Surprise",Happiness,0.6929884950388919,0.9101,0
+qwop_41_ensemble_162.jpg,P-Q-O-W-P-Q-O-W-P-Q-O-W-P-Q.,"Anger, Happiness, Surprise",Surprise,0.2788972125198938,0.9101,0
+qwop_42_ensemble_3.jpg,"Oh, this is annoying. 100 meters? Are you kidding me?","Anger, Happiness, Surprise",Anger,0.2549457472438613,0.9238,1
+qwop_42_ensemble_6.jpg,"Oh, this is annoying. 100 meters? Are you kidding me?","Anger, Happiness, Surprise",Happiness,0.3460265273849169,0.9238,1
+qwop_42_ensemble_12.jpg,"Oh, this is annoying. 100 meters? Are you kidding me?","Anger, Happiness, Surprise",Surprise,0.6375270833571752,0.9238,1
+qwop_44_ensemble_60.jpg,"Come on, come on. Oh, don't fall over.","Anger, Happiness",Anger,0.3680093232542276,0.886,1
+qwop_44_ensemble_99.jpg,"Come on, come on. Oh, don't fall over.","Anger, Happiness",Happiness,0.7087444861729939,0.886,1
+qwop_46_ensemble_141.jpg,How does he- Why doesn't he go? I don't understand.,"Anger, Sadness",Anger,0.1940051926935637,0.8348,2
+qwop_46_ensemble_138.jpg,How does he- Why doesn't he go? I don't understand.,"Anger, Sadness",Sadness,0.6842802166938782,0.8348,2
+qwop_48_ensemble_42.jpg,This is it? We just keep doing this?,"Anger, Happiness",Anger,0.0494497322166959,0.9059,1
+qwop_48_ensemble_78.jpg,This is it? We just keep doing this?,"Anger, Happiness",Happiness,0.7039555907249451,0.9059,1
+qwop_49_ensemble_78.jpg,Come on.,"Anger, Sadness",Anger,0.2898687528093781,0.4582,1
+qwop_49_ensemble_69.jpg,Come on.,"Anger, Sadness",Sadness,0.6718342888052597,0.4582,1
+qwop_52_ensemble_57.jpg,"I don't understand why he doesn't go. Woo! Oh! Sorry about that, sir.","Fear, Happiness, Surprise",Fear,0.3681321777403354,0.9281,1
+qwop_52_ensemble_3.jpg,"I don't understand why he doesn't go. Woo! Oh! Sorry about that, sir.","Fear, Happiness, Surprise",Happiness,0.6607874830563862,0.9281,1
+qwop_52_ensemble_153.jpg,"I don't understand why he doesn't go. Woo! Oh! Sorry about that, sir.","Fear, Happiness, Surprise",Surprise,0.5565580983017644,0.9281,1
+qwop_53_ensemble_3.jpg,"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,","Anger, Sadness",Anger,0.0906755495816469,0.9164,5
+qwop_53_ensemble_93.jpg,"Oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,","Anger, Sadness",Sadness,0.695067564646403,0.9164,5
+qwop_55_ensemble_132.jpg,"Oh, Jesus.","Anger, Happiness, Sadness, Surprise",Anger,0.2269500369826952,0.7636,1
+qwop_55_ensemble_111.jpg,"Oh, Jesus.","Anger, Happiness, Sadness, Surprise",Happiness,0.4170648306608199,0.7636,1
+qwop_55_ensemble_87.jpg,"Oh, Jesus.","Anger, Happiness, Sadness, Surprise",Sadness,0.5414671500523884,0.7636,1
+qwop_55_ensemble_84.jpg,"Oh, Jesus.","Anger, Happiness, Sadness, Surprise",Surprise,0.204346340149641,0.7636,1
+qwop_57_ensemble_255.jpg,This guy ain't moving.,Happiness,Happiness,0.5689240892728169,0.9225,0
+qwop_60_ensemble_213.jpg,"Get up. Get up. Get up. Get up. Up, up, up, up. Up, up, up, up, up, up, up. Get over the line. Up! 1.2 meters!",Happiness,Happiness,0.6783942181825312,0.8705,1
+qwop_61_ensemble_60.jpg,"If I'm willing to go again, if this guy doesn't quap out on me.",Happiness,Happiness,0.655926505724589,0.9005,2
+qwop_62_ensemble_168.jpg,"Baby's still alive. Ooh, I like that. Oh! Oh, go, go! 1.5 meters! Ha ha ha ha ha ha! Touchdown!",Happiness,Happiness,0.7837442954381306,0.8143,6
+qwop_63_ensemble_45.jpg,"I think I'm a Quoppy player. Okay, let's go. You ready?","Happiness, Surprise",Happiness,0.4258483013162657,0.8804,3
+qwop_63_ensemble_96.jpg,"I think I'm a Quoppy player. Okay, let's go. You ready?","Happiness, Surprise",Surprise,0.3386764468935628,0.8804,3
+qwop_64_ensemble_138.jpg,"Oop, wrong one. Oop, oop! Other way, other way! Up, up, up, up, up, up, up! Get that one down.",Happiness,Happiness,0.177627728631099,0.8346,3
+qwop_65_ensemble_90.jpg,"Come on, come on, he's standing up! And he falls 2.1 meter!","Happiness, Surprise",Happiness,0.638934314250946,0.8073,3
+qwop_65_ensemble_66.jpg,"Come on, come on, he's standing up! And he falls 2.1 meter!","Happiness, Surprise",Surprise,0.3714624034861723,0.8073,3
+qwop_67_ensemble_159.jpg,2.2,Happiness,Happiness,0.8940071066220601,0.7455,0
+qwop_86_ensemble_12.jpg,"I need more practice, obviously. A lot of practice.",Anger,Anger,0.3600917584650839,0.9462,0
+qwop_92_ensemble_0.jpg,"Oh, sure. I can't wait.",Anger,Anger,0.300214795085291,0.9104,0
+qwop_93_ensemble_33.jpg,"You know, that's a good question, and I do have an answer. No!",Anger,Anger,0.2045900287727514,0.9392,0
+rammstein_101_ensemble_21.jpg,"Yeah, light them on fire. That's a crowd pleaser.",Happiness,Happiness,0.7006774353699563,0.9006,1
+rammstein_104_ensemble_66.jpg,"Oh, not a fan of that.","Disgust, Fear, Surprise",Disgust,0.118604431249511,0.746,2
+rammstein_104_ensemble_24.jpg,"Oh, not a fan of that.","Disgust, Fear, Surprise",Fear,0.3113718579212824,0.746,2
+rammstein_104_ensemble_72.jpg,"Oh, not a fan of that.","Disgust, Fear, Surprise",Surprise,0.24827695870772,0.746,2
+rammstein_113_ensemble_6.jpg,"Oh, guys, guys, they ain't looking at it. Not going there.","Anger, Disgust",Anger,0.3147622287894288,0.9152,0
+rammstein_113_ensemble_66.jpg,"Oh, guys, guys, they ain't looking at it. Not going there.","Anger, Disgust",Disgust,0.303828621150778,0.9152,0
+rammstein_114_ensemble_93.jpg,Should be up there. Beautiful little girl. Lust on...,"Disgust, Fear, Surprise",Disgust,0.1084418222696209,0.4778,8
+rammstein_114_ensemble_66.jpg,Should be up there. Beautiful little girl. Lust on...,"Disgust, Fear, Surprise",Fear,0.3831486334631327,0.4778,8
+rammstein_114_ensemble_45.jpg,Should be up there. Beautiful little girl. Lust on...,"Disgust, Fear, Surprise",Surprise,0.0814497646254797,0.4778,8
+rammstein_123_ensemble_126.jpg,"My goodness. Oh. Oh, come on!","Anger, Disgust, Happiness, Surprise",Anger,0.2226243953530987,0.8566,1
+rammstein_123_ensemble_48.jpg,"My goodness. Oh. Oh, come on!","Anger, Disgust, Happiness, Surprise",Disgust,0.0894925256288648,0.8566,1
+rammstein_123_ensemble_72.jpg,"My goodness. Oh. Oh, come on!","Anger, Disgust, Happiness, Surprise",Happiness,0.710268755753835,0.8566,1
+rammstein_123_ensemble_48.jpg,"My goodness. Oh. Oh, come on!","Anger, Disgust, Happiness, Surprise",Surprise,0.3566287852751222,0.8566,1
+rammstein_146_ensemble_153.jpg,That's some of the best of that genre that I've seen that was like theatrical quality to me.,"Happiness, Surprise",Happiness,0.3400420375789205,0.9412,1
+rammstein_146_ensemble_129.jpg,That's some of the best of that genre that I've seen that was like theatrical quality to me.,"Happiness, Surprise",Surprise,0.4368518086918981,0.9412,1
+rammstein_22_ensemble_78.jpg,"Oh, du hast mich. It means you have me in German.",Happiness,Happiness,0.7209942528450595,0.9095,1
+rammstein_27_ensemble_87.jpg,"Oh, that looks... Oh!","Disgust, Happiness, Surprise",Disgust,0.0245972104215373,0.6866,2
+rammstein_27_ensemble_39.jpg,"Oh, that looks... Oh!","Disgust, Happiness, Surprise",Happiness,0.6836228388126171,0.6866,2
+rammstein_27_ensemble_60.jpg,"Oh, that looks... Oh!","Disgust, Happiness, Surprise",Surprise,0.1744287809512267,0.6866,2
+rammstein_29_ensemble_75.jpg,"Oh, what a happy, happy song.",Happiness,Happiness,0.6777153611183167,0.9177,0
+rammstein_33_ensemble_24.jpg,There was some sort of sex thing going on in the beginning. Big deal.,Anger,Anger,0.3590277580854793,0.9735,1
+rammstein_34_ensemble_6.jpg,There are nicer things to look at. That's kind of like borderline evil.,"Anger, Disgust, Surprise",Anger,0.2558241694544752,0.9242,1
+rammstein_34_ensemble_30.jpg,There are nicer things to look at. That's kind of like borderline evil.,"Anger, Disgust, Surprise",Disgust,0.3008185798923174,0.9242,1
+rammstein_34_ensemble_108.jpg,There are nicer things to look at. That's kind of like borderline evil.,"Anger, Disgust, Surprise",Surprise,0.4171702467388639,0.9242,1
+rammstein_49_ensemble_93.jpg,"I like it, and I like the visuals so far, because they're appropriately dark rock and roll.",Happiness,Happiness,0.3929431059632512,0.9113,1
+rammstein_54_ensemble_42.jpg,"Oh, I like that.","Fear, Happiness, Surprise",Fear,0.3505875297511617,0.8986,1
+rammstein_54_ensemble_180.jpg,"Oh, I like that.","Fear, Happiness, Surprise",Happiness,0.4497566738476355,0.8986,1
+rammstein_54_ensemble_48.jpg,"Oh, I like that.","Fear, Happiness, Surprise",Surprise,0.2051374670894195,0.8986,1
+rammstein_62_ensemble_57.jpg,"Oh, give me a break, will ya?","Anger, Disgust, Surprise",Anger,0.3618847260572975,0.8897,1
+rammstein_62_ensemble_60.jpg,"Oh, give me a break, will ya?","Anger, Disgust, Surprise",Disgust,0.1880559710164864,0.8897,1
+rammstein_62_ensemble_87.jpg,"Oh, give me a break, will ya?","Anger, Disgust, Surprise",Surprise,0.1173761351166806,0.8897,1
+rammstein_63_ensemble_39.jpg,"Oh, I don't want to know. I don't want to know what he's eating.","Anger, Disgust, Fear, Surprise",Anger,0.2237093366619361,0.9104,2
+rammstein_63_ensemble_69.jpg,"Oh, I don't want to know. I don't want to know what he's eating.","Anger, Disgust, Fear, Surprise",Disgust,0.0902100224047899,0.9104,2
+rammstein_63_ensemble_129.jpg,"Oh, I don't want to know. I don't want to know what he's eating.","Anger, Disgust, Fear, Surprise",Fear,0.4073293836100902,0.9104,2
+rammstein_63_ensemble_126.jpg,"Oh, I don't want to know. I don't want to know what he's eating.","Anger, Disgust, Fear, Surprise",Surprise,0.1918067010313582,0.9104,2
+rammstein_67_ensemble_36.jpg,Nudity. Nudity.,"Anger, Disgust, Surprise",Anger,0.3402748044087783,0.8751,0
+rammstein_67_ensemble_78.jpg,Nudity. Nudity.,"Anger, Disgust, Surprise",Disgust,0.0781938988294514,0.8751,0
+rammstein_67_ensemble_66.jpg,Nudity. Nudity.,"Anger, Disgust, Surprise",Surprise,0.0970083078573224,0.8751,0
+rammstein_68_ensemble_21.jpg,Oh my! Oh my!,"Disgust, Fear, Happiness, Surprise",Disgust,0.1057141510148848,0.837,1
+rammstein_68_ensemble_42.jpg,Oh my! Oh my!,"Disgust, Fear, Happiness, Surprise",Fear,0.3316598137219747,0.837,1
+rammstein_68_ensemble_12.jpg,Oh my! Oh my!,"Disgust, Fear, Happiness, Surprise",Happiness,0.3127232564923664,0.837,1
+rammstein_68_ensemble_9.jpg,Oh my! Oh my!,"Disgust, Fear, Happiness, Surprise",Surprise,0.2357232735181849,0.837,1
+rammstein_85_ensemble_111.jpg,"Oh! Oh, that was good. I like that. That was very rock and roll.","Happiness, Surprise",Happiness,0.6920893390973408,0.9232,0
+rammstein_85_ensemble_126.jpg,"Oh! Oh, that was good. I like that. That was very rock and roll.","Happiness, Surprise",Surprise,0.2404742969322787,0.9232,0
+rammstein_89_ensemble_69.jpg,What do I need to see a bunch of naked guys playing guitars for?,"Anger, Disgust, Happiness, Surprise",Anger,0.271709941017131,0.9752,0
+rammstein_89_ensemble_66.jpg,What do I need to see a bunch of naked guys playing guitars for?,"Anger, Disgust, Happiness, Surprise",Disgust,0.3453618652477435,0.9752,0
+rammstein_89_ensemble_54.jpg,What do I need to see a bunch of naked guys playing guitars for?,"Anger, Disgust, Happiness, Surprise",Happiness,0.3563590695460637,0.9752,0
+rammstein_89_ensemble_0.jpg,What do I need to see a bunch of naked guys playing guitars for?,"Anger, Disgust, Happiness, Surprise",Surprise,0.1746094773213068,0.9752,0
+rammstein_98_ensemble_42.jpg,"Look at the amount of people. Whoever they are, they're huge.",Surprise,Surprise,0.3936715126037597,0.9352,0
+slipknot_101_ensemble_231.jpg,"So there's some controversy with Slipknot that they're one of those bands that when violent crimes are committed, they'll sometimes be blamed for it. I think it is the cause to a lot of weak-minded young people.",Anger,Anger,0.3995511680393413,0.9897,0
+slipknot_118_ensemble_102.jpg,when it comes to personal creativity as well as their love and critical appreciation of music. Really?,Surprise,Surprise,0.0804456554429435,0.9273,2
+slipknot_122_ensemble_6.jpg,"That would amaze me, because I enjoy classical music a lot.",Happiness,Happiness,0.4864745338757832,0.8979,0
+slipknot_126_ensemble_90.jpg,That's one side of your character personality. And I can't help it if you're wrong.,Anger,Anger,0.3505804091691971,0.9231,1
+slipknot_24_ensemble_120.jpg,"I can hear father or mother saying, is this my child?","Disgust, Happiness",Disgust,0.0872181306545276,0.8999,1
+slipknot_24_ensemble_87.jpg,"I can hear father or mother saying, is this my child?","Disgust, Happiness",Happiness,0.356052634925921,0.8999,1
+slipknot_46_ensemble_93.jpg,"See, us elders went into this.",Disgust,Disgust,0.0821378814627151,0.8942,1
+slipknot_52_ensemble_84.jpg,Ooh! Is he eating himself?,Happiness,Happiness,0.4949527184168497,0.7793,2
+slipknot_55_ensemble_9.jpg,That's a lot of head banging.,"Happiness, Surprise",Happiness,0.6882957219953193,0.8756,1
+slipknot_55_ensemble_42.jpg,That's a lot of head banging.,"Happiness, Surprise",Surprise,0.2300796679320551,0.8756,1
+slipknot_60_ensemble_27.jpg,"Wow, that's pretty violent there.","Disgust, Happiness, Surprise",Disgust,0.0198429496958862,0.8892,0
+slipknot_60_ensemble_9.jpg,"Wow, that's pretty violent there.","Disgust, Happiness, Surprise",Happiness,0.5314093131759563,0.8892,0
+slipknot_60_ensemble_90.jpg,"Wow, that's pretty violent there.","Disgust, Happiness, Surprise",Surprise,0.2020733340743105,0.8892,0
+slipknot_69_ensemble_57.jpg,"Boom. Oh, man.",Surprise,Surprise,0.1089331640206789,0.68,2
+slipknot_70_ensemble_42.jpg,"God, this guy killed himself.","Anger, Disgust",Anger,0.1970643444607655,0.8437,1
+slipknot_70_ensemble_36.jpg,"God, this guy killed himself.","Anger, Disgust",Disgust,0.1103904262805979,0.8437,1
+vaping_for_the1st_100_ensemble_93.jpg,All you young people and old people need to learn to love your body.,Happiness,Happiness,0.0169731303603333,0.9626,0
+vaping_for_the1st_15_ensemble_66.jpg,"May I take a puff? Well, we don't have anything in there yet.","Happiness, Sadness, Surprise",Happiness,0.016768053496972,0.9734,0
+vaping_for_the1st_15_ensemble_69.jpg,"May I take a puff? Well, we don't have anything in there yet.","Happiness, Sadness, Surprise",Sadness,0.304823155204455,0.9734,0
+vaping_for_the1st_15_ensemble_6.jpg,"May I take a puff? Well, we don't have anything in there yet.","Happiness, Sadness, Surprise",Surprise,0.1551252098771977,0.9734,0
+vaping_for_the1st_19_ensemble_177.jpg,"and they offer an assortment of flavors to choose from to vape, so we have a few of them to show you now. Wow.","Happiness, Surprise",Happiness,0.388811931014061,0.96,2
+vaping_for_the1st_19_ensemble_177.jpg,"and they offer an assortment of flavors to choose from to vape, so we have a few of them to show you now. Wow.","Happiness, Surprise",Surprise,0.0839736635522664,0.96,2
+vaping_for_the1st_32_ensemble_42.jpg,Whoa!,"Happiness, Surprise",Happiness,0.0354371527050799,0.6024,1
+vaping_for_the1st_32_ensemble_117.jpg,Whoa!,"Happiness, Surprise",Surprise,0.3889591111801564,0.6024,1
+vaping_for_the1st_37_ensemble_60.jpg,I'm sorry.,"Disgust, Surprise",Disgust,0.135445253457874,0.37,2
+vaping_for_the1st_37_ensemble_15.jpg,I'm sorry.,"Disgust, Surprise",Surprise,0.162222715414178,0.37,2
+vaping_for_the1st_42_ensemble_3.jpg,Yeah.,"Disgust, Surprise",Disgust,0.0547657664107937,0.3883,1
+vaping_for_the1st_42_ensemble_69.jpg,Yeah.,"Disgust, Surprise",Surprise,0.2048949362640589,0.3883,1
+vaping_for_the1st_51_ensemble_150.jpg,This is a little milder. This one's not so bad. Maybe it's because it's the mint.,"Happiness, Surprise",Happiness,0.0304367568875839,0.992,0
+vaping_for_the1st_51_ensemble_3.jpg,This is a little milder. This one's not so bad. Maybe it's because it's the mint.,"Happiness, Surprise",Surprise,0.3702576141804456,0.992,0
+vaping_for_the1st_81_ensemble_129.jpg,"because they know that cigarettes are bad for you. And they're thinking that, well, now we can smoke and not worry about our health.",Neutral,Neutral,0.4997633720437685,0.9546,1
+vaping_for_the1st_9_ensemble_45.jpg,"But I'm a smoker, so I figure, well, you know, I know how to inhale. I'll try it. What the hell?",Neutral,Neutral,0.4110253290901131,0.9323,1
+vaping_for_the1st_92_ensemble_129.jpg,They told us years ago about cigarette smoking being okay until they realized it causes cancer.,Neutral,Neutral,0.4146374035626649,0.8776,2
+vaping_for_the1st_93_ensemble_75.jpg,"and to start doing this can be habitual, just like smoking.",Disgust,Disgust,0.1171217109076678,0.8998,2
+vaping_for_the1st_96_ensemble_408.jpg,"So finally, after you've tried the vape yourself and learning more about what it is, what would you want to say to younger people who might be thinking about vaping or those who are currently vaping from your perspective as an elder? There's a lot of things out there that you can do that are fun and nourishing and healthy. Why not do that? Why do this crap?","Disgust, Sadness",Disgust,0.2083859842861762,0.9701,2
+vaping_for_the1st_96_ensemble_540.jpg,"So finally, after you've tried the vape yourself and learning more about what it is, what would you want to say to younger people who might be thinking about vaping or those who are currently vaping from your perspective as an elder? There's a lot of things out there that you can do that are fun and nourishing and healthy. Why not do that? Why do this crap?","Disgust, Sadness",Sadness,0.396407480041186,0.9701,2
+whack_your_boss_103_ensemble_123.jpg,Aaaaaaah!,Happiness,Happiness,0.6544733643531799,0.4157,1
+whack_your_boss_108_ensemble_144.jpg,That was a reference to Dragon Ball Z. Don't know that. Is Dragon Ball Z a video game?,Neutral,Neutral,0.3198813069611788,0.9745,0
+whack_your_boss_120_ensemble_3.jpg,"I think my son might play it, but I don't watch those things with him.",Neutral,Neutral,0.1303209756717482,0.983,0
+whack_your_boss_125_ensemble_24.jpg,"Oh, I know this one. It's X-Men with the... the claws.","Happiness, Surprise",Happiness,0.5677655358267418,0.8769,1
+whack_your_boss_125_ensemble_21.jpg,"Oh, I know this one. It's X-Men with the... the claws.","Happiness, Surprise",Surprise,0.4637405457283124,0.8769,1
+whack_your_boss_14_ensemble_168.jpg,He's spitting at him. This guy doesn't look like he's really wanting to do it. I know what he really wants to do.,Happiness,Happiness,0.3616958758017669,0.9654,0
+whack_your_boss_16_ensemble_27.jpg,"To see how this game works, go ahead and click the object above the cactus on the desk.",Neutral,Neutral,0.5485726288360256,0.984,0
+whack_your_boss_40_ensemble_48.jpg,Oh!,Happiness,Happiness,0.7404102484385172,0.1821,1
+whack_your_boss_66_ensemble_6.jpg,"Oh, that's a great one. Completely exploded his head.","Happiness, Surprise",Happiness,0.8083944916725159,0.9279,1
+whack_your_boss_66_ensemble_54.jpg,"Oh, that's a great one. Completely exploded his head.","Happiness, Surprise",Surprise,0.549450085573857,0.9279,1
+would_you_rather_17_ensemble_219.jpg,"Would I rather have a Pepsi or have a Coke? Coke, of course. No question about that. Most people have to prefer Coke. They just do.",Neutral,Neutral,0.4392816840360561,0.9771,0
+would_you_rather_18_ensemble_3.jpg,"Yes, I mean, Coke is vastly superior.",Neutral,Neutral,0.4407502387960751,0.832,1
+would_you_rather_19_ensemble_33.jpg,The Pepsi taste just tastes more fake.,Disgust,Disgust,0.3540457786887094,0.9328,0
+would_you_rather_20_ensemble_36.jpg,has an aftertaste that is gross. It's also not as bubbly.,Disgust,Disgust,0.3625699283462312,0.9637,0
+would_you_rather_28_ensemble_33.jpg,"Be a NASCAR driver in the red. Be a horse jockey. I'm so sorry, but NASCAR drivers don't have to pick up food.",Happiness,Happiness,0.5522403899070587,0.9371,1
+would_you_rather_29_ensemble_87.jpg,cars have wheels with gas pedals and nitrogen and they go really fast and I like to go really fast,Happiness,Happiness,0.7023897369471422,0.9531,0
+would_you_rather_30_ensemble_30.jpg,"NASCAR 73. Well,","Happiness, Surprise",Happiness,0.3437584184586741,0.737,1
+would_you_rather_30_ensemble_36.jpg,"NASCAR 73. Well,","Happiness, Surprise",Surprise,0.135643748100847,0.737,1
+would_you_rather_32_ensemble_51.jpg,"Would you rather admit all your guilty pleasures to friends and family or never partake in any of your guilty pleasures again? Well, admit everything.",Surprise,Surprise,0.3613445889867793,0.9694,0
+would_you_rather_33_ensemble_36.jpg,I think at this point my friends and family wouldn't be surprised by much of anything that's a guilty pleasure.,Neutral,Neutral,0.2817745891710122,0.9608,1
+would_you_rather_34_ensemble_90.jpg,"but never partake again. I'm thinking, because I'm older, older people really have less problem with like, this is what I am, take it or leave it.",Anger,Anger,0.2522744722664356,0.9337,1
+would_you_rather_35_ensemble_39.jpg,"Younger people probably would just say, oh no, I'll never partake again.",Neutral,Neutral,0.3518986155589421,0.9149,0
+would_you_rather_36_ensemble_78.jpg,"Oh, okay. It's close.",Surprise,Surprise,0.4058051823327938,0.8356,0
+would_you_rather_37_ensemble_12.jpg,"Yeah, because then you can just go have new guilty pleasures.",Happiness,Happiness,0.3143461161371564,0.9749,0
+would_you_rather_44_ensemble_0.jpg,I would have to suffer my own stupidity in that regard because if the world only had a first grade education it would be terrible.,Neutral,Neutral,0.4075870861184659,0.9383,2
+would_you_rather_49_ensemble_114.jpg,I think I would rather be unintelligent in a world full of geniuses and see what they come up with. So I'm going red.,Neutral,Neutral,0.3535911577443281,0.9697,0
+would_you_rather_5_ensemble_39.jpg,And I think you agree with me. You don't?,"Anger, Fear, Sadness, Surprise",Anger,0.1708388794213533,0.9226,1
+would_you_rather_5_ensemble_75.jpg,And I think you agree with me. You don't?,"Anger, Fear, Sadness, Surprise",Fear,0.6920736630752711,0.9226,1
+would_you_rather_5_ensemble_102.jpg,And I think you agree with me. You don't?,"Anger, Fear, Sadness, Surprise",Sadness,0.6498816013336182,0.9226,1
+would_you_rather_5_ensemble_96.jpg,And I think you agree with me. You don't?,"Anger, Fear, Sadness, Surprise",Surprise,0.4149790133039156,0.9226,1
+would_you_rather_61_ensemble_123.jpg,"Can we work on maybe getting along? Because being stranded alone, man, you can get awful crazy.",Sadness,Sadness,0.2459462757703474,0.9616,0
+would_you_rather_62_ensemble_132.jpg,I would go with stranded on someone that you hate because I think it can change.,Happiness,Happiness,0.5204467177391052,0.9453,2
+would_you_rather_63_ensemble_162.jpg,"Hey, not bad. Yeah, being alone, tough.",Happiness,Happiness,0.3928494503100713,0.9235,0
+would_you_rather_64_ensemble_30.jpg,"Would I rather have squirrels for hands or guinea pigs for feet? Oh, guinea pigs for feet, absolutely.",Happiness,Happiness,0.4004991799592972,0.95,1
+would_you_rather_65_ensemble_177.jpg,squirrels for hounds they'd be way too close to your face so no they'd keep the animals down below,"Disgust, Happiness, Surprise",Disgust,0.2337519149295985,0.8935,4
+would_you_rather_65_ensemble_15.jpg,squirrels for hounds they'd be way too close to your face so no they'd keep the animals down below,"Disgust, Happiness, Surprise",Happiness,0.3477139864116907,0.8935,4
+would_you_rather_65_ensemble_132.jpg,squirrels for hounds they'd be way too close to your face so no they'd keep the animals down below,"Disgust, Happiness, Surprise",Surprise,0.1625999040358389,0.8935,4
+would_you_rather_80_ensemble_225.jpg,"Sometimes you don't have a chance to say please, but you always have to make time to say thank you. It's just one of my things in life.",Neutral,Neutral,0.6402130524317423,0.9899,0
+would_you_rather_81_ensemble_36.jpg,"I could live on that, with that. Oh, okay. Wow.","Happiness, Surprise",Happiness,0.3327176249770905,0.8606,1
+would_you_rather_81_ensemble_165.jpg,"I could live on that, with that. Oh, okay. Wow.","Happiness, Surprise",Surprise,0.3749124631285667,0.8606,1
+would_you_rather_82_ensemble_21.jpg,"Thank you is more important than please. Please is important too, but thank you is the most.","Anger, Happiness",Anger,0.2665629324813683,0.9367,2
+would_you_rather_82_ensemble_123.jpg,"Thank you is more important than please. Please is important too, but thank you is the most.","Anger, Happiness",Happiness,0.3431567413111527,0.9367,2
+would_you_rather_83_ensemble_138.jpg,"Looks like you agreed with the majority about 67% of the time. Some of them were a bit dumb, but these are fun.",Happiness,Happiness,0.4033740213627912,0.9469,1
