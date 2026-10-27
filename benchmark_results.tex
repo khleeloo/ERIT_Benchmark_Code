@@ -1,0 +1,268 @@
+% =============================================================================
+%  ERIT Benchmark — Experiments and Results
+%  Merged methodology + results: each subsection describes the experiment
+%  design and reports findings together.
+% =============================================================================
+
+\section{Experiments and Results}
+\label{sec:results}
+
+We evaluate ERIT as a \emph{benchmark suite} along three orthogonal axes---
+modality, model regime, and input robustness---with two objectives:
+(1)~assess whether multimodal fusion improves emotion recognition under
+controlled perturbation conditions, and
+(2)~analyze how current vision--language models integrate visual and
+textual cues for older adult emotion recognition.
+
+Each sample is a fixed image--text pair; since multiple emotion labels may
+apply, we treat the task as multi-label classification.  For each
+evaluation cell we report:
+\textbf{accuracy~(Acc)}, the fraction of predictions matching the primary
+ground-truth label;
+\textbf{balanced accuracy~(BAcc)}, mean per-class recall;
+\textbf{macro~F1}, equally weighting all seven emotions; and
+\textbf{multi-label accuracy~(MAcc)}, counting a prediction correct if it
+matches \emph{any} label in the original annotation set.
+MAcc is used as the primary metric throughout.
+Statistical significance is assessed via McNemar's test ($\alpha = 0.05$)
+with bootstrap 95\,\% confidence intervals ($B = 10{,}000$).
+
+
+% ─── 4.1 Baseline Results ────────────────────────────────────────────────
+
+\subsection{Baseline Results}
+\label{sec:baseline-results}
+
+Every model is evaluated under three input configurations:
+\textbf{image-only~(I)}, receiving only the representative frame;
+\textbf{text-only~(T)}, receiving only the Whisper transcript (with a dummy
+gray image for architectures that require visual input); and
+\textbf{fusion~(I+T)}, receiving both.  We evaluate two families of
+vision--language models in two regimes:
+
+\begin{itemize}[nosep]
+  \item \textbf{Zero-shot}: LLaVA-NeXT~(Mistral-7B)~\cite{liu2024llavanext}
+        and Qwen2-VL~(7B-Instruct)~\cite{wang2024qwen2vl}, prompted to
+        classify emotions without task-specific training.  Both models are
+        evaluated on all 2{,}379 samples.
+  \item \textbf{Fine-tuned}: LLaVA-NeXT with rank-8 LoRA adapters
+        ($\alpha\!=\!16$, dropout$\,=\,0.1$, targeting \texttt{q\_proj} and
+        \texttt{v\_proj} in the last 4 transformer layers;
+        ${\sim}$426K trainable parameters) trained on the ERIT training
+        partition (1{,}169 samples) with 4-bit quantisation.  The dev set
+        (634 samples) is used for checkpoint selection; final results are
+        reported on the held-out test set ($n\!=\!576$) only, to avoid
+        train-set leakage.
+\end{itemize}
+
+Table~\ref{tab:erit-all} reports accuracy on the ERIT test set
+($n=576$).  Across all model--modality combinations, fusion consistently
+outperforms single-modality input.  LoRA fine-tuning provides substantial
+gains: fusion MAcc rises from 60.9\,\% (LLaVA-NeXT 0-shot) to 70.0\,\%
+(LoRA), a~+9.0\,pp improvement significant at $p < 0.001$ (McNemar).
+Notably, LoRA text-only MAcc (64.1\,\%) exceeds both zero-shot
+text-only baselines by a wide margin, indicating that supervised training
+teaches the model to extract emotion cues from noisy Whisper transcripts.
+
+\begin{table}[t]
+\centering
+\caption{Strict and multi-label accuracy~(\%) on the ERIT test set
+($n{=}576$).  LoRA uses rank-8 adapters on the last 4 layers
+(${\sim}$426K parameters).  McNemar's test: LoRA Fusion vs.\
+zero-shot Fusion $p < 0.001$ for both models.}
+\label{tab:erit-all}
+\begin{tabular}{@{}llcccccc@{}}
+\toprule
+ & & \multicolumn{3}{c}{\textbf{Strict Acc (\%)}}
+   & \multicolumn{3}{c}{\textbf{Multi-label Acc (\%)}} \\
+\cmidrule(lr){3-5}\cmidrule(lr){6-8}
+\textbf{Model} & \textbf{Regime} & I & T & I+T & I & T & I+T \\
+\midrule
+LLaVA-NeXT      & 0-shot & 30.4 & 16.8 & 33.3
+                         & 49.8 & 29.7 & 60.9 \\
+Qwen2-VL        & 0-shot & 33.3 & 20.5 & 35.6
+                         & 46.4 & 34.6 & 51.9 \\
+\midrule
+LLaVA-NeXT LoRA & fine-tuned & 35.9 & 34.9 & \textbf{42.7}
+                              & 58.0 & 64.1 & \textbf{70.0} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+% ─── 4.2 Robustness Analysis ─────────────────────────────────────────────
+
+\subsection{Robustness Analysis}
+\label{sec:robustness-results}
+
+To probe model sensitivity to input quality and to disentangle the
+contribution of each modality, we define five perturbation conditions
+applied to the full evaluation set
+(Table~\ref{tab:conditions}).  Each condition modifies one aspect of the
+input while leaving the other modality intact, enabling controlled
+measurement of robustness.
+
+\begin{table}[t]
+\centering
+\caption{Perturbation conditions.  Each row describes a transformation
+applied to all 2{,}379 samples before evaluation under the three modality
+configurations.}
+\label{tab:conditions}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{llp{5.2cm}}
+\toprule
+\textbf{Condition} & \textbf{Modality} & \textbf{Transformation} \\
+\midrule
+Baseline         & ---   & Original images and transcripts \\
+No-keyword       & Text  & Remove emotion-indicative words
+                           (e.g., \emph{happy}, \emph{angry}, \emph{scared}) \\
+Grayscale        & Image & Convert frames to grayscale
+                           (removes colour-based cues such as skin flush) \\
+Blurred faces    & Image & Apply Gaussian blur ($\sigma\!=\!23$)
+                           to detected face regions
+                           (probes reliance on facial morphology vs.\ context) \\
+Text dropout     & Text  & Replace transcript with
+                           ``No speech detected.'' \\
+Image dropout    & Image & Replace frame with uniform gray image \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\noindent
+The combination of 6 conditions $\times$ 3 modality configurations yields
+18 evaluation cells per model.  We exclude degenerate combinations where the
+perturbation does not affect the active modality (e.g., grayscale under
+text-only), resulting in 14 non-degenerate cells.
+
+Table~\ref{tab:benchmark} reports LLaVA-NeXT zero-shot performance
+across all 14 cells on the full dataset ($n=2{,}379$).
+
+\begin{table}[t]
+\centering
+\caption{Robustness benchmark: LLaVA-NeXT zero-shot across 6
+perturbation conditions and 3 modalities.  ``---'' denotes degenerate
+cells (perturbation does not affect the active modality).
+$\Delta$MAcc is the change from baseline.}
+\label{tab:benchmark}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}l rrr rrr@{}}
+\toprule
+ & \multicolumn{3}{c}{\textbf{Multi-label Acc (\%)}}
+ & \multicolumn{3}{c}{\textbf{$\Delta$MAcc (pp)}} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+\textbf{Condition} & I & T & I+T & I & T & I+T \\
+\midrule
+Baseline       & 59.2 & 37.4 & \textbf{69.5} &   --- &   --- &   --- \\
+No-keyword     &  --- & 33.2 & 68.5           &   --- & $-$4.2 & $-$1.0 \\
+Grayscale      & 56.6 &  --- & 68.6           & $-$2.6 &   --- & $-$0.9 \\
+Blurred faces  & 24.4 &  --- & 55.0           & $-$34.8 & --- & $-$14.5 \\
+Text dropout   &  --- &  3.4 & 54.2           &   --- & $-$34.0 & $-$15.3 \\
+Image dropout  &  3.4 &  --- & 33.5           & $-$55.8 & --- & $-$36.0 \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+Three findings emerge.
+\textbf{(i)~Fusion is resilient to mild perturbations:}
+removing emotion keywords or converting to grayscale degrades fusion MAcc
+by only 0.9--1.0\,pp, confirming that fusion draws on complementary cues.
+\textbf{(ii)~Facial morphology is critical:}
+blurring faces reduces image-only MAcc from 59.2\,\% to 24.4\,\%
+($-$34.8\,pp), the largest single-modality drop, yet fusion recovers
+to 55.0\,\%, demonstrating that text partially compensates for degraded
+visual input.
+\textbf{(iii)~Vision dominates:}
+image dropout damages fusion far more than text dropout
+($-$36.0 vs.\ $-$15.3\,pp), confirming that the visual modality carries
+the stronger emotion signal.
+
+
+% ─── 4.3 Stratified Analysis ─────────────────────────────────────────────
+
+\subsection{Stratified Analysis}
+\label{sec:stratified-results}
+
+Beyond aggregate metrics, we report performance stratified along
+diagnostically informative dimensions, computed post~hoc on the baseline
+predictions without additional model inference.
+
+\paragraph{Label agreement.}
+Samples are split into \emph{high-agreement} (single annotator label;
+$n\!=\!596$, 25.1\,\%) and \emph{low-agreement} subsets (two or more
+valid labels; $n\!=\!1{,}783$, 74.9\,\%).
+
+\paragraph{Modality conflict.}
+We identify \emph{conflict samples} where the image-only and text-only
+predictions disagree and further classify them as \emph{mild} (related
+emotions) or \emph{opposite} (e.g., happiness vs.\ sadness).  This
+subset isolates cases where fusion must actively reconcile contradictory
+signals, making it the most informative slice for evaluating integration
+quality.
+
+\medskip
+Table~\ref{tab:stratified} reports baseline fusion performance across
+these slices.
+
+\begin{table}[t]
+\centering
+\caption{Stratified analysis (baseline, LLaVA-NeXT 0-shot).
+MAcc = multi-label accuracy.}
+\label{tab:stratified}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}ll rrr r@{}}
+\toprule
+\textbf{Slice} & \textbf{Subset}
+  & \textbf{I} & \textbf{T} & \textbf{I+T} & \textbf{$N$} \\
+\midrule
+\multicolumn{6}{l}{\textit{Label agreement (MAcc \%)}} \\
+  & High (single label) & 37.6 & 23.3 & 36.7 & 596 \\
+  & Low (multi-label)   & 66.5 & 42.1 & \textbf{80.5} & 1{,}783 \\
+\midrule
+\multicolumn{6}{l}{\textit{Modality conflict (MAcc \%)}} \\
+  & Agree    & 54.3 & 54.3 & 65.8 & 622 \\
+  & Mild     & 73.3 & 47.5 & \textbf{81.4} & 813 \\
+  & Opposite & 50.3 & 17.5 & 61.8 & 944 \\
+\bottomrule
+\end{tabular}}
+\end{table}
+
+\paragraph{Label agreement results.}
+Fusion MAcc on low-agreement (multi-label) samples reaches 80.5\,\%,
+compared to 36.7\,\% on high-agreement samples.  This apparent paradox
+arises because multi-label samples have a larger correct-answer set,
+but it also shows that fusion reliably selects a plausible emotion
+from the annotators' set---precisely the setting where integration
+of visual and textual cues is most informative.
+
+\paragraph{Modality conflict results.}
+Of the 2{,}328 unique samples, 73.4\,\% exhibit a conflict between
+image-only and text-only predictions; among those, 922 involve
+\emph{opposite} emotions (e.g., image predicts surprise while text
+predicts neutral; $n=631$, the dominant conflict pair).
+Fusion recovers to 61.8\,\% MAcc on opposite-conflict samples despite
+text-only accuracy collapsing to 17.5\,\%, indicating that the model
+appropriately down-weights the weaker modality.
+On mild-conflict samples, fusion achieves its highest MAcc (81.4\,\%),
+suggesting that moderate cross-modal disagreement provides a useful
+auxiliary signal.
+
+\paragraph{Conflict pair analysis.}
+The most frequent conflict pair is \emph{surprise}~(image) vs.\
+\emph{neutral}~(text), accounting for 631 of 1{,}757 conflict samples
+(35.9\,\%).  This aligns with the known difficulty of distinguishing
+surprise from neutral in older adult faces, where raised eyebrows may
+reflect attentiveness rather than surprise~\cite{ma2019elderreact}.
+
+
+% ─── 4.4 Cross-Benchmark Comparison ──────────────────────────────────────
+
+\subsection{Cross-Benchmark Comparison}
+\label{sec:cross-benchmark}
+
+To contextualise ERIT, Table~\ref{tab:fusion-only} compares fusion
+performance with previously reported GPT-4V results on standard
+multimodal benchmarks.  While GPT-4V achieves up to 80.4\,\% on CMU-MOSI
+and 65.4\,\% on MER-MULTI, its ERIT fusion accuracy is 42.3\,\%.  This gap
+reflects ERIT's controlled single-frame evaluation (no temporal
+redundancy), the challenging domain of older adult expression, and the
+high label ambiguity inherent in the dataset.

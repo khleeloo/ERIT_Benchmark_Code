@@ -1,0 +1,7 @@
+pandas
+moviepy
+speech_recognition 
+csv
+whisper 
+opencv-python
+deepface

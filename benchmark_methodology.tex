@@ -1,0 +1,122 @@
+% =============================================================================
+%  ERIT Benchmark Methodology — paste into Overleaf
+%  Sections: Dataset Overview, Evaluation Protocol, Robustness Conditions,
+%            Stratified Analysis, Metrics
+% =============================================================================
+
+% ─── 3.1 Dataset Overview ────────────────────────────────────────────────
+
+\subsection{Dataset Overview}
+\label{sec:dataset}
+
+ERIT comprises 2{,}379 image--text pairs derived from 1{,}298 unique
+ElderReact~\cite{ma2019elderreact} videos of older adults reacting to
+multimedia stimuli.  Each sample consists of (i) a \emph{representative frame}
+selected by a three-model ensemble (DeepFace, CLIP~ViT-B/32,
+ViT-face-expression), and (ii) a \emph{spoken transcript} produced by Whisper
+Large~V3 with per-token confidence scores.  Samples are annotated with one of
+seven emotion labels---happiness, sadness, disgust, anger, surprise, fear, and
+neutral---following the original ElderReact taxonomy.
+
+A distinctive property of ERIT is its high degree of \emph{label ambiguity}:
+74.9\% of samples carry multiple valid emotion annotations from the original
+crowdsourced labels, reflecting the genuine perceptual uncertainty inherent in
+older adult facial expressions (Table~\ref{tab:dataset}).
+
+\begin{table}[t]
+\centering
+\caption{ERIT dataset statistics.}
+\label{tab:dataset}
+\begin{tabular}{lr}
+\toprule
+\textbf{Property} & \textbf{Value} \\
+\midrule
+Total samples             & 2{,}379 \\
+Unique videos             & 1{,}298 \\
+Emotion classes           & 7 \\
+Multi-label samples       & 1{,}783 (74.9\%) \\
+Single-label samples      &   596 (25.1\%) \\
+Mean Whisper confidence   & 0.87 $\pm$ 0.13 \\
+\midrule
+\multicolumn{2}{l}{\textit{Emotion distribution (primary label)}} \\
+\quad Happiness            & 730 (30.7\%) \\
+\quad Surprise             & 556 (23.4\%) \\
+\quad Anger                & 345 (14.5\%) \\
+\quad Disgust              & 273 (11.5\%) \\
+\quad Sadness              & 238 (10.0\%) \\
+\quad Fear                 & 148 \phantom{0}(6.2\%) \\
+\quad Neutral              &  89 \phantom{0}(3.7\%) \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+% ─── 3.2 Evaluation Protocol ─────────────────────────────────────────────
+
+\subsection{Evaluation Protocol}
+\label{sec:protocol}
+
+We define ERIT as a \emph{benchmark suite} rather than a single test set,
+evaluating models across three orthogonal axes: modality, model regime, and
+input robustness.  Detailed experimental design and results for each axis
+are presented jointly in Section~\ref{sec:results}; here we summarise the
+overall protocol.
+
+\paragraph{Modality conditions.}
+Every model is evaluated under three input configurations:
+\begin{itemize}[nosep]
+  \item \textbf{Image-only (I)}: the model receives only the representative
+        frame;
+  \item \textbf{Text-only (T)}: the model receives only the Whisper
+        transcript (with a dummy gray image for architectures that require
+        visual input);
+  \item \textbf{Fusion (I+T)}: the model receives both the image and
+        transcript.
+\end{itemize}
+
+\paragraph{Model regimes.}
+We evaluate two families of vision--language models in two regimes:
+\begin{itemize}[nosep]
+  \item \textbf{Zero-shot}: LLaVA-NeXT (Mistral-7B) and Qwen2-VL (7B),
+        prompted to classify emotions without task-specific training;
+  \item \textbf{Fine-tuned}: LLaVA-NeXT with LoRA adapters trained on
+        the ERIT training partition (1{,}169 samples).
+\end{itemize}
+
+\noindent All models are evaluated on all 2{,}379 samples under the
+zero-shot regime; the fine-tuned model is evaluated on the held-out test
+partition ($n\!=\!576$) only, with the dev set ($n\!=\!634$) reserved for
+checkpoint selection during training.
+
+\paragraph{Robustness conditions.}
+Five perturbation conditions (grayscale, blurred faces, keyword removal,
+text dropout, image dropout) are combined with a baseline condition to
+yield 14 non-degenerate evaluation cells per model; see
+Section~\ref{sec:robustness-results} for definitions and results.
+
+\paragraph{Stratified analysis.}
+Performance is additionally broken down by label agreement and modality
+conflict; see Section~\ref{sec:stratified-results}.
+
+
+% ─── 3.3 Metrics ─────────────────────────────────────────────────────────
+
+\subsection{Metrics}
+\label{sec:metrics}
+
+For each evaluation cell we report:
+\begin{itemize}[nosep]
+  \item \textbf{Accuracy (Acc)}: fraction of predictions matching the
+        primary ground-truth label;
+  \item \textbf{Balanced Accuracy (BAcc)}: mean per-class recall,
+        accounting for class imbalance;
+  \item \textbf{Macro F1}: harmonic mean of per-class precision and
+        recall, equally weighting all seven emotions.
+\end{itemize}
+
+\noindent
+Following the multi-annotator nature of ERIT, we additionally report
+\emph{multi-label accuracy}: a prediction is counted correct if it matches
+\emph{any} label in the original annotation set.
+Statistical significance between conditions is assessed via McNemar's test
+($\alpha = 0.05$) with bootstrap 95\% confidence intervals ($B = 10{,}000$).
